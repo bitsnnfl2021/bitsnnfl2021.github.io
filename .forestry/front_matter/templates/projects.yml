@@ -1,5 +1,6 @@
 ---
 pages:
+- _posts/understanding-neural-networks-through-deep-visualization.md
 - _posts/2018-03-24-stock-price-prediction-using-reinforcement-learning.md
 - _posts/2018-03-24-it-takes-two-neurons-to-ride-a-bicycle.md
 - _posts/2018-03-24-convolutional-neural-networks-for-sentence-classification.md
