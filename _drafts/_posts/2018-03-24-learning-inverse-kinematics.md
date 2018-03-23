@@ -8,6 +8,7 @@ author:
   email: agrawalamey12@gmail.com
 categories:
 - General Deep Learning
+- Robotics
 tags:
 - Application
 - Easy
