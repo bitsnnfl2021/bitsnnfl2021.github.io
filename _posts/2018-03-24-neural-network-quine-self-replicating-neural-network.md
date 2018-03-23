@@ -10,6 +10,7 @@ categories:
 - General Deep Learning
 tags:
 - Easy
+- Theory
 ---
 PDF link: [https://arxiv.org/pdf/1803.05859.pdf](https://arxiv.org/pdf/1803.05859.pdf "https://arxiv.org/pdf/1803.05859.pdf")
 
