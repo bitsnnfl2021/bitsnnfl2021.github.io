@@ -1,5 +1,6 @@
 ---
 pages:
+- _posts/it-takes-two-neurons-to-ride-a-bicycle.md
 - _posts/2018-03-24-convolutional-neural-networks-for-sentence-classification.md
 - _posts/2018-03-24-robotic-arm-control-with-deep-neuroevolution.md
 - _posts/2018-03-24-learning-inverse-kinematics.md
