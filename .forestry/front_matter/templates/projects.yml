@@ -1,0 +1,31 @@
+---
+pages:
+- _posts/test.md
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+  default: ''
+- type: text
+  default: ''
+  name: author
+  label: Author
+  config:
+    required: true
+- name: layout
+  label: Layout
+  type: text
+  hidden: true
+  default: post
+- type: tag_list
+  label: Categories
+  name: categories
+- type: tag_list
+  label: tags
+  name: tags
+- name: share
+  label: Share
+  type: boolean
+  hidden: false
+  default: true
