@@ -1,7 +1,7 @@
 ---
 pages:
-- _posts/2018-03-24-neural-network-quine-self-replicating-neural-network.md
 - _posts/2018-03-24-distilling-a-neural-network-into-a-soft-decision-tree.md
+- _posts/2018-03-24-neural-network-quine-self-replicating-neural-network.md
 - _posts/2018-03-24-neocognitron-a-self-organizing-neural-network-model-for-a-mechanism-of-pattern-recognition-unaffected-by-shift-in-position.md
 hide_body: false
 fields:
