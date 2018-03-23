@@ -1,6 +1,6 @@
 ---
 pages:
-- _posts/2018-03-23-test.md
+- _posts/test.md
 hide_body: false
 fields:
 - name: layout
