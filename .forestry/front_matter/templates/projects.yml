@@ -9,7 +9,7 @@ fields:
   default: ''
 - type: text
   default: ''
-  name: author
+  name: author_name
   label: Author
   config:
     required: true
