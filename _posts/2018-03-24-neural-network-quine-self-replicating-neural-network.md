@@ -1,7 +1,7 @@
 ---
 layout: post
 share: true
-title: Self-replicating Neural Network
+title: Self-Replicating Neural Network
 date: 2018-03-24 03:04:07 +0000
 author:
   name: Amey Agrawal
