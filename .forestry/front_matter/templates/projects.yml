@@ -1,0 +1,42 @@
+---
+pages:
+- _posts/2018-03-23-test.md
+hide_body: false
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: true
+  default: post
+- type: text
+  name: title
+  label: title
+  default: ''
+  config:
+    required: true
+- type: field_group
+  label: Author
+  name: author
+  fields:
+  - type: text
+    label: name
+    name: name
+    config:
+      required: true
+  - type: text
+    name: email
+    label: email
+    config:
+      required: true
+- type: tag_list
+  label: Categories
+  name: categories
+  hidden: false
+- type: tag_list
+  label: tags
+  name: tags
+- name: share
+  label: Share
+  type: boolean
+  hidden: false
+  default: true
