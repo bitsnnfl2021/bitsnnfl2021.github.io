@@ -1,5 +1,6 @@
 ---
 pages:
+- _posts/deep-compression.md
 - _posts/2018-03-24-overfeat.md
 - _posts/2018-03-24-squeezenet.md
 - _posts/2018-03-24-learning-to-learn-by-gradient-descent-by-gradient-descent.md
