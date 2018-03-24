@@ -6,11 +6,16 @@ date: 2018-03-24 20:04:09 +0000
 author:
   name: Satwik Bhattamishra
   email: satwik55@gmail.com
-categories: []
-tags: []
+categories:
+- General Deep Learning
+- Unsupervised Learning
+tags:
+- Medium
+- Image-Data
+- Application
 ---
-\*\*Abstract:\*\* We propose a novel deep network structure called “Network In Network”(NIN) to enhance model discriminability for local patches within the receptive field. The conventional convolutional layer uses linear filters followed by a nonlinear activation function to scan the input. Instead, we build micro neural networks with more complex structures to abstract the data within the receptive field. We instantiate the micro neural network with a multilayer perceptron, which is a potent function approximator. The feature maps are obtained by sliding the micro networks over the input in a similar manner as CNN; they are then fed into the next layer. Deep NIN can be implemented by stacking multiple of the above described structure. With enhanced local modeling via the micro network, we are able to utilize global average pooling over feature maps in the classification layer, which is easier to interpret and less prone to overfitting than traditional fully connected layers. We demonstrated the state-of-the-art classification performances with NIN on CIFAR-10 and CIFAR-100, and reasonable performances on SVHN and MNIST datasets.
+**Abstract:** The task of labeling data for training deep neural networks is daunting and tedious, requiring millions of labels to achieve the current state-of-the-art results. Such reliance on large amounts of labeled data can be relaxed by exploiting hierarchical features via unsupervised learning techniques. In this work, we propose to train a deep convolutional network based on an enhanced version of the k-means clustering algorithm, which reduces the number of correlated parameters in the form of similar filters, and thus increases test categorization accuracy. We call our algorithm convolutional k-means clustering. We further show that learning the connection between the layers of a deep convolutional neural network improves its ability to be trained on a smaller amount of labeled data. Our experiments show that the proposed algorithm outperforms other techniques that learn filters unsupervised. Specifically, we obtained a test accuracy of 74.1% on STL-10 and a test error of 0.5% on MNIST.
 
-\*\*Paper Link:\*\* \[[https://arxiv.org/pdf/1312.4400.pdf](https://arxiv.org/pdf/1312.4400.pdf "https://arxiv.org/pdf/1312.4400.pdf")\]([https://arxiv.org/pdf/1312.4400.pdf](https://arxiv.org/pdf/1312.4400.pdf "https://arxiv.org/pdf/1312.4400.pdf"))
+**Paper Link:** [https://arxiv.org/pdf/1511.06241.pdf](https://arxiv.org/pdf/1511.06241.pdf)
 
-\*\*Task:\*\* Implement the described network architecture explained in the paper in python using TensorFlow, Numpy, Pytorch or MXNet. Test your implementation on MNIST or Basic MNIST dataset.
+**Task:** Implement the described network architecture explained in the paper in python using TensorFlow, Numpy, Pytorch or MXNet. Test your implementation on MNIST or Basic MNIST dataset.
