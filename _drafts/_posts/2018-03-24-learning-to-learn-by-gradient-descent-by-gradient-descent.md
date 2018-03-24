@@ -1,7 +1,7 @@
 ---
 layout: post
 share: true
-title: Convex Neural Network
+title: Convex Neural Networks
 date: 2018-03-24 16:20:05 +0000
 author:
   name: Satwik Bhattamishra
