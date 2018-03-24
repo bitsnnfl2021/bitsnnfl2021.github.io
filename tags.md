@@ -1,5 +1,5 @@
 ---
-title: Tag Archive
+title: Projects By Tag
 layout: tags
 permalink: /tags/
 show_excerpts: true

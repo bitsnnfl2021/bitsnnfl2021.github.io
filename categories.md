@@ -1,5 +1,5 @@
 ---
-title: Category Archive
+title: Projects By Category
 layout: categories
 permalink: /categories/
 show_excerpts: true
