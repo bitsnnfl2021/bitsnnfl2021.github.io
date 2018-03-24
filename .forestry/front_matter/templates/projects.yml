@@ -1,6 +1,16 @@
 ---
 pages:
-- _posts/2018-03-23-test.md
+- _posts/2018-03-24-understanding-neural-networks-through-deep-visualization.md
+- _posts/2018-03-24-stock-price-prediction-using-reinforcement-learning.md
+- _posts/2018-03-24-it-takes-two-neurons-to-ride-a-bicycle.md
+- _posts/2018-03-24-convolutional-neural-networks-for-sentence-classification.md
+- _posts/2018-03-24-robotic-arm-control-with-deep-neuroevolution.md
+- _posts/2018-03-24-learning-inverse-kinematics.md
+- _posts/2018-03-24-neural-soccer.md
+- _posts/2018-03-24-deep-metric-learning-using-triplet-network.md
+- _posts/2018-03-24-distilling-a-neural-network-into-a-soft-decision-tree.md
+- _posts/2018-03-24-neural-network-quine-self-replicating-neural-network.md
+- _posts/2018-03-24-neocognitron-a-self-organizing-neural-network-model-for-a-mechanism-of-pattern-recognition-unaffected-by-shift-in-position.md
 hide_body: false
 fields:
 - name: layout
