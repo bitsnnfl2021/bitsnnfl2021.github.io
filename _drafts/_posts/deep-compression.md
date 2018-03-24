@@ -8,6 +8,7 @@ author:
   email: satwik55@gmail.com
 categories:
 - General Deep Learning
+- Computer Vision
 tags:
 - Theory
 - Application
