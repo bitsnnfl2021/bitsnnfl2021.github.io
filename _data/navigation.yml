@@ -1,0 +1,10 @@
+# Sample site navigation links
+
+- title: Instructions
+  url: /
+- title: Projects By Categories
+  url: /categories/
+- title: Projects By Tags
+  url: /tags/
+- title: Search
+  url: /search/
