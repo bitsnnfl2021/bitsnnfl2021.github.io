@@ -3,4 +3,18 @@ layout: post
 share: true
 title: OverFeat
 date: 2018-03-24 19:40:53 +0000
+author:
+  name: Satwik Bhattamishra
+  email: satwik55@gmail.com
+categories:
+- Computer Vision
+tags:
+- medium
+- application
 ---
+**Abstract:** We present an integrated framework for using Convolutional Networks for classification, localization and detection. We show how a multiscale and sliding window approach can be efficiently implemented within a ConvNet. We also introduce a novel deep learning approach to localization by learning to predict object boundaries. Bounding boxes are then accumulated rather than suppressed in order to increase detection confidence. We show that different tasks can be learned simultaneously using a single shared network. This integrated framework is the winner of the localization task of the ImageNet Large Scale Visual Recognition Challenge 2013 (ILSVRC2013) and obtained very competitive results for the detection and classifications tasks. In post-competition work, we establish a new state of the art for the detection task. Finally, we release a feature extractor from our best model called OverFeat.
+
+**Paper Link:** [https://arxiv.org/pdf/1312.6229.pdf](https://arxiv.org/pdf/1312.6229.pdf)
+
+**Task:** Implement the described OverFeat architecture explained in the paper in python using TensorFlow, Pytorch or MXNet. Test your implementation on mini-ImageNet dataset.
+
