@@ -18,6 +18,6 @@ author:
 
 **Paper Link:** [https://arxiv.org/abs/1511.06335](https://arxiv.org/abs/1511.06335)
 
-**Task:** Implement the deep embedded clustering method described in the paper in python using TensoFlow, Pytorch or MXNet. Test your implementation on MNIST dataset. 
+**Task:** Implement the deep embedded clustering method described in the paper in python using TensorFlow, Pytorch or MXNet. Test your implementation on MNIST dataset. 
 
 **Brownie points:** Compare your result with AutoEncoder + K-means and try to get results similar to the one mentioned in the paper.
