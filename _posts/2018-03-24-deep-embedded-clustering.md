@@ -7,9 +7,9 @@ categories:
 - General Deep Learning
 - Unsupervised Learning
 tags:
-- Intermediate
 - Theory
 - Representation Learning
+- Medium
 author:
   name: Satwik Bhattamishra
   email: satwik55@gmail.com
