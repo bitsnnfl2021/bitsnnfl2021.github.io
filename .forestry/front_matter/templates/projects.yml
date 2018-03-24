@@ -1,8 +1,8 @@
 ---
 pages:
+- _posts/2018-03-24-squeezenet.md
 - _posts/2018-03-24-deep-compression.md
 - _posts/2018-03-24-overfeat.md
-- _posts/2018-03-24-squeezenet.md
 - _posts/2018-03-24-learning-to-learn-by-gradient-descent-by-gradient-descent.md
 - _posts/2018-03-24-deep-embedded-clustering.md
 - _posts/2018-03-24-it-takes-two-neurons-to-ride-a-bicycle.md
