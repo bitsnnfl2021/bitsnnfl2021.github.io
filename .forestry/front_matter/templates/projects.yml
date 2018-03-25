@@ -1,5 +1,6 @@
 ---
 pages:
+- _posts/draw-a-recurrent-neural-network-for-image-generation.md
 - _posts/2018-03-26-learning-to-learn-by-gradient-descent-by-gradient-descent.md
 - _posts/2018-03-26-auto-encoding-variational-bayes.md
 - _posts/2018-03-26-generative-adversarial-nets.md
