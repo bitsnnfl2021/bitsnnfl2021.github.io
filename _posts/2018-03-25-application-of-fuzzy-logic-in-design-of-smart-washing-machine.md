@@ -10,6 +10,7 @@ categories:
 - Fuzzy Logic
 tags:
 - Easy
+- Application
 ---
 **ABSTRACT:** Washing machine is of great domestic necessity as it frees us from the burden of washing our clothes and saves ample of our time. This paper will cover the aspect of designing and developing of Fuzzy Logic based, Smart Washing Machine. The regular washing machine (timer based) makes use of multi-turned timer based start-stop mechanism which is mechanical as is prone to breakage. In addition to its starting and stopping issues, the mechanical timers are not efficient with respect of maintenance and electricity usage. Recent developments have shown that merger of digital electronics in optimal functionality of this machine is possible and nowadays in practice. A number of international renowned companies have developed the machine with the introduction of smart artificial intelligence. Such a machine makes use of sensors and smartly calculates the amount of run-time (washing time) for the main machine motor. Realtime calculations and processes are also catered in optimizing the run-time of the machine. The obvious result is smart time management, better economy of electricity and efficiency of work. This paper deals with the indigenization of FLC (Fuzzy Logic Controller) based Washing Machine, which is capable of automating the inputs and getting the desired output (wash-time).  
 
