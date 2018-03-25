@@ -1,12 +1,13 @@
 ---
 pages:
+- _posts/improving-elevator-performance-using-reinforcement-learning.md
+- _posts/2018-03-24-network-in-network.md
+- _posts/2018-03-24-squeezenet.md
 - _posts/2018-03-25-essentials-of-the-self-organizing-map.md
 - _posts/a-fuzzy-logic-approach-to-target-tracking.md
 - _posts/2018-03-25-application-of-fuzzy-logic-in-design-of-smart-washing-machine.md
 - _posts/2018-03-24-convolutional-clustering-for-unsupervised-learning.md
-- _posts/2018-03-24-network-in-network.md
 - _posts/2018-03-24-overfeat.md
-- _posts/2018-03-24-squeezenet.md
 - _posts/2018-03-24-deep-compression.md
 - _posts/2018-03-24-learning-to-learn-by-gradient-descent-by-gradient-descent.md
 - _posts/2018-03-24-deep-embedded-clustering.md
