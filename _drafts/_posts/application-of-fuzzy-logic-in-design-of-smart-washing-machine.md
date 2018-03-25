@@ -1,0 +1,6 @@
+---
+layout: post
+share: true
+title: APPLICATION OF FUZZY LOGIC IN DESIGN OF SMART WASHING MACHINE
+date: 2018-03-25 20:50:11 +0000
+---
