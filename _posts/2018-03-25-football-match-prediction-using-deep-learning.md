@@ -16,4 +16,4 @@ tags:
 
 **Paper Link:** [http://publications.lib.chalmers.se/records/fulltext/250411/250411.pdf](http://publications.lib.chalmers.se/records/fulltext/250411/250411.pdf "http://publications.lib.chalmers.se/records/fulltext/250411/250411.pdf")
 
-**Task:** mplement the core algorithm in python using Tensorflow, Pytorch, MXNet or NumPy. Train the network using [European Soccer Database]().
+**Task:** Implement the core algorithm in python using Tensorflow, Pytorch, MXNet or NumPy. Train the network using [European Soccer Database]().
