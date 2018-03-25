@@ -12,6 +12,7 @@ categories:
 - Computer Vision
 tags:
 - Medium
+- Application
 ---
 **Abstract:**  In this paper we will present a fuzzy edge detector, FEDGE. It is based on learning fuzzy edges by the method of Fuzzy Categorization and Classification (FCC). A set of images were used as examples for the definition of a fuzzy edge. FCC will try to recognize edges within a new image by collecting evidence from these examples. FEDGE demonstrates that FCC can be used homogeneously from pixel-level to symbolic level by recursively defining concepts using examples and classify a new image by collecting evidence from these examples. Result of FEDGE will also be given in this paper.   
 
