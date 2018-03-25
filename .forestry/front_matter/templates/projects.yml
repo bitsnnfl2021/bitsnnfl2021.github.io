@@ -1,5 +1,6 @@
 ---
 pages:
+- _posts/maxout-networks.md
 - _posts/2018-03-25-batch-normalization.md
 - _posts/2018-03-25-skip-thought-vectors.md
 - _posts/2018-03-25-predicting-flight-ticket-prices.md
