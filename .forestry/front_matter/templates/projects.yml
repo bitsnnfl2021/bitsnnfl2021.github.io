@@ -1,12 +1,12 @@
 ---
 pages:
+- _posts/2018-03-25-a-fuzzy-logic-approach-to-target-tracking.md
 - _posts/2018-03-25-multiple-instance-fuzzy-inference-neural-networks.md
 - _posts/2018-03-25-an-adaptive-neuro-fuzzy-system-for-automatic-image-segmentation-and-edge-detection.md
 - _posts/2018-03-25-a-hierarchical-fused-fuzzy-deep-neural-network-for-data-classification.md
 - _posts/2018-03-25-a-possibilistic-fuzzy-c-means-clustering-algorithm.md
 - _posts/2018-03-25-fedge-fuzzy-edge-detection-by-fuzzy-categorization-and-classification-of-edge.md
 - _posts/2018-03-25-application-of-fuzzy-logic-in-design-of-smart-washing-machine.md
-- _posts/2018-03-25-a-fuzzy-logic-approach-to-target-tracking.md
 - _posts/improving-elevator-performance-using-reinforcement-learning.md
 - _posts/2018-03-24-network-in-network.md
 - _posts/2018-03-24-squeezenet.md
