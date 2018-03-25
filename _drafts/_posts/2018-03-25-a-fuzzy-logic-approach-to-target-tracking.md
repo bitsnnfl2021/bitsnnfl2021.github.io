@@ -6,8 +6,10 @@ date: 2018-03-25 20:56:54 +0000
 author:
   name: Kabir Ahuja
   email: kabirahuja2431@gmail.com
-categories: []
-tags: []
+categories:
+- Fuzzy Logic
+tags:
+- Medium
 ---
 **Abstract:** This paper discusses a target tracking problem in which no dynamic mathematical model is explicitly assumed. A nonlinear filter based on the fuzzy If-then rules is developed. A comparison with a Kalman filter is made, and empirical results show that the performance of the fuzzy filter is better. Intensive simulations suggest that theoretical justification of the empirical results is possible.   
 
