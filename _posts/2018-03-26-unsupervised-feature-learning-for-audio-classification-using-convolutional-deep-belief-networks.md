@@ -8,8 +8,7 @@ author:
   name: Anmol Singhal
   email: f2015069@pilani.bits-pilani.ac.in
 categories:
-- audio classification
-- deep learning
+- General Deep Learning
 tags:
 - medium
 ---
