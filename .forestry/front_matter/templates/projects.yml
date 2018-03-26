@@ -1,5 +1,6 @@
 ---
 pages:
+- _posts/document-modeling-with-gated-recurrent-neural-network-for-sentiment-classification.md
 - _posts/2018-03-26-spatial-transformer-networks.md
 - _posts/2018-03-26-adam-a-method-for-stochastic-optimization.md
 - _posts/2018-03-26-draw-a-recurrent-neural-network-for-image-generation.md
