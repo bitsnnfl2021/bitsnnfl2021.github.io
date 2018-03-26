@@ -1,5 +1,6 @@
 ---
 pages:
+- _posts/unsupervised-feature-learning-for-audio-classification-using-convolutional-deep-belief-networks.md
 - _posts/2018-03-26-marconi-convnet-based-marker-less-motion-capture-in-outdoor-and-indoor-scenes.md
 - _posts/2018-03-26-deep-convolutional-neural-networks-for-sentiment-analysis-of-short-texts.md
 - _posts/2018-03-26-character-aware-neural-language-models.md
