@@ -1,12 +1,12 @@
 ---
 pages:
+- _posts/2018-03-26-fully-convolutional-networks-for-semantic-segmentation.md
 - _posts/document-modeling-with-gated-recurrent-neural-network-for-sentiment-classification.md
 - _posts/2018-03-26-spatial-transformer-networks.md
 - _posts/2018-03-26-adam-a-method-for-stochastic-optimization.md
 - _posts/2018-03-26-draw-a-recurrent-neural-network-for-image-generation.md
 - _posts/2018-03-26-auto-encoding-variational-bayes.md
 - _posts/2018-03-26-generative-adversarial-nets.md
-- _posts/2018-03-26-fully-convolutional-networks-for-semantic-segmentation.md
 - _posts/2018-03-25-improving-elevator-performance-using-reinforcement-learning.md
 - _posts/2018-03-25-glove-global-vectors-for-word-representation.md
 - _posts/2018-03-25-document-embedding-with-paragraph-vectors.md
