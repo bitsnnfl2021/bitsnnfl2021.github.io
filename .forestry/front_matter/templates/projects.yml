@@ -1,5 +1,6 @@
 ---
 pages:
+- _posts/sentiment-analysis-using-convolutional-neural-network.md
 - _posts/2018-03-27-cost-effective-active-learning-for-deep-image-classification.md
 - _posts/2018-03-26-hidden-markov-models-hmms-have-been-the-state-of-the-art-techniques-for-acoustic-modeling-despite-their-unrealistic-independence-assumptions-and-the-very-limited-representational-capacity-of-their-hidden-states-there-are-many-proposals-in-the-research-community-for-deeper-models-that-are-capable-of-modeling-the-many-types-of-variability-present-in-the-speech-generation-process-deep-belief-networks-dbns-have-recently-proved-to-be-very-effective-for-a-variety-of-machine-learning-problems-and-this-paper-applies-dbns-to-acoustic-modeling-on-the-standard-timit-corpus-dbns-consistently-outperform-other-techniques-and-the-best-dbn-achieves-a-phone-error-rate-per-of-23-0-on-the-timit-core-test-set.md
 - _posts/2018-03-26-monocular-3d-human-pose-estimation-in-the-wild-using-improved-cnn-supervision.md
