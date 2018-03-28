@@ -1,5 +1,6 @@
 ---
 pages:
+- _posts/2018-03-26-spatial-transformer-networks.md
 - _posts/2018-03-27-going-deeper-in-facial-expression-recognition-using-deep-neural-networks.md
 - _posts/2018-03-27-sentiment-analysis-using-convolutional-neural-network.md
 - _posts/2018-03-27-cost-effective-active-learning-for-deep-image-classification.md
@@ -12,7 +13,6 @@ pages:
 - _posts/2018-03-26-character-aware-neural-language-models.md
 - _posts/2018-03-26-document-modeling-with-gated-recurrent-neural-network-for-sentiment-classification.md
 - _posts/2018-03-26-fully-convolutional-networks-for-semantic-segmentation.md
-- _posts/2018-03-26-spatial-transformer-networks.md
 - _posts/2018-03-26-adam-a-method-for-stochastic-optimization.md
 - _posts/2018-03-26-draw-a-recurrent-neural-network-for-image-generation.md
 - _posts/2018-03-26-auto-encoding-variational-bayes.md

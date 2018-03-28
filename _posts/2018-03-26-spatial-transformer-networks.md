@@ -16,7 +16,4 @@ tags:
 
 **Paper Link:** [http://papers.nips.cc/paper/5854-spatial-transformer-networks.pdf](http://papers.nips.cc/paper/5854-spatial-transformer-networks.pdf "http://papers.nips.cc/paper/5854-spatial-transformer-networks.pdf")
 
-**Task:** Implement the given method using **NumPy only**. The submitted code would be checked for similarity with the implementations available online. Show results on the MNIST dataset.
-
-  
-  
+**Task:** Implement the given method using Tensorflow/Pytorch. The submitted code would be checked for plagiarism with the implementations available online. Show results on the MNIST dataset.
