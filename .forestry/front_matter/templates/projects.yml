@@ -41,7 +41,7 @@ fields:
   hidden: false
   default: true
 pages:
-- _posts/learning-phrase-representations-using-rnn-encoder-decoder-for-statistical-machine-translation.md
+- _posts/2018-08-24-learning-phrase-representations-using-rnn-encoder-decoder-for-statistical-machine-translation.md
 - _posts/2018-08-24-long-short-term-memory.md
 - _posts/2018-08-24-neural-machine-translation-by-jointly-learning-to-align-and-translate.md
 - _posts/2018-08-24-deep-learning-based-crack-damage-detection-using-convolutional-neural-networks.md
