@@ -41,7 +41,7 @@ fields:
   hidden: false
   default: true
 pages:
-- _posts/fast-r-cnn.md
+- _posts/2018-08-24-fast-r-cnn.md
 - _posts/2018-08-24-learning-phrase-representations-using-rnn-encoder-decoder-for-statistical-machine-translation.md
 - _posts/2018-08-24-long-short-term-memory.md
 - _posts/2018-08-24-neural-machine-translation-by-jointly-learning-to-align-and-translate.md
