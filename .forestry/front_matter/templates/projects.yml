@@ -41,6 +41,7 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/firefly-algorithms-for-multimodal-optimization.md
 - _posts/2018-08-24-a-fuzzy-expert-system-for-heart-disease-diagnosis.md
 - _posts/2018-08-24-learning-phrase-representations-using-rnn-encoder-decoder-for-statistical-machine-translation.md
 - _posts/2018-08-24-fast-r-cnn.md
