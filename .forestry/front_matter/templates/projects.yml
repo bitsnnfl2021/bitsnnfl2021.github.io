@@ -1,59 +1,7 @@
 ---
-pages:
-- _posts/2018-03-26-spatial-transformer-networks.md
-- _posts/2018-03-27-going-deeper-in-facial-expression-recognition-using-deep-neural-networks.md
-- _posts/2018-03-27-sentiment-analysis-using-convolutional-neural-network.md
-- _posts/2018-03-27-cost-effective-active-learning-for-deep-image-classification.md
-- _posts/2018-03-26-hidden-markov-models-hmms-have-been-the-state-of-the-art-techniques-for-acoustic-modeling-despite-their-unrealistic-independence-assumptions-and-the-very-limited-representational-capacity-of-their-hidden-states-there-are-many-proposals-in-the-research-community-for-deeper-models-that-are-capable-of-modeling-the-many-types-of-variability-present-in-the-speech-generation-process-deep-belief-networks-dbns-have-recently-proved-to-be-very-effective-for-a-variety-of-machine-learning-problems-and-this-paper-applies-dbns-to-acoustic-modeling-on-the-standard-timit-corpus-dbns-consistently-outperform-other-techniques-and-the-best-dbn-achieves-a-phone-error-rate-per-of-23-0-on-the-timit-core-test-set.md
-- _posts/2018-03-26-monocular-3d-human-pose-estimation-in-the-wild-using-improved-cnn-supervision.md
-- _posts/2018-03-26-learning-steerable-filters-for-rotation-equivariant-cnns.md
-- _posts/2018-03-26-unsupervised-feature-learning-for-audio-classification-using-convolutional-deep-belief-networks.md
-- _posts/2018-03-26-marconi-convnet-based-marker-less-motion-capture-in-outdoor-and-indoor-scenes.md
-- _posts/2018-03-26-deep-convolutional-neural-networks-for-sentiment-analysis-of-short-texts.md
-- _posts/2018-03-26-character-aware-neural-language-models.md
-- _posts/2018-03-26-document-modeling-with-gated-recurrent-neural-network-for-sentiment-classification.md
-- _posts/2018-03-26-fully-convolutional-networks-for-semantic-segmentation.md
-- _posts/2018-03-26-adam-a-method-for-stochastic-optimization.md
-- _posts/2018-03-26-draw-a-recurrent-neural-network-for-image-generation.md
-- _posts/2018-03-26-auto-encoding-variational-bayes.md
-- _posts/2018-03-26-generative-adversarial-nets.md
-- _posts/2018-03-25-improving-elevator-performance-using-reinforcement-learning.md
-- _posts/2018-03-25-glove-global-vectors-for-word-representation.md
-- _posts/2018-03-25-document-embedding-with-paragraph-vectors.md
-- _posts/2018-03-25-maxout-networks.md
-- _posts/2018-03-25-batch-normalization.md
-- _posts/2018-03-25-skip-thought-vectors.md
-- _posts/2018-03-25-predicting-flight-ticket-prices.md
-- _posts/2018-03-25-a-neural-network-designed-to-solve-the-n-queens-problem.md
-- _posts/2018-03-25-neural-cricket-team-selection.md
-- _posts/2018-03-25-football-match-prediction-using-deep-learning.md
-- _posts/2018-03-25-a-hierarchical-fused-fuzzy-deep-neural-network-for-data-classification.md
-- _posts/2018-03-25-a-fuzzy-logic-approach-to-target-tracking.md
-- _posts/2018-03-25-multiple-instance-fuzzy-inference-neural-networks.md
-- _posts/2018-03-25-an-adaptive-neuro-fuzzy-system-for-automatic-image-segmentation-and-edge-detection.md
-- _posts/2018-03-25-a-possibilistic-fuzzy-c-means-clustering-algorithm.md
-- _posts/2018-03-25-fedge-fuzzy-edge-detection-by-fuzzy-categorization-and-classification-of-edge.md
-- _posts/2018-03-25-application-of-fuzzy-logic-in-design-of-smart-washing-machine.md
-- _posts/2018-03-24-network-in-network.md
-- _posts/2018-03-24-squeezenet.md
-- _posts/2018-03-25-essentials-of-the-self-organizing-map.md
-- _posts/2018-03-24-convolutional-clustering-for-unsupervised-learning.md
-- _posts/2018-03-24-overfeat.md
-- _posts/2018-03-24-deep-compression.md
-- _posts/2018-03-24-learning-to-learn-by-gradient-descent-by-gradient-descent.md
-- _posts/2018-03-24-deep-embedded-clustering.md
-- _posts/2018-03-24-it-takes-two-neurons-to-ride-a-bicycle.md
-- _posts/2018-03-24-neural-soccer.md
-- _posts/2018-03-24-learning-inverse-kinematics.md
-- _posts/2018-03-24-distilling-a-neural-network-into-a-soft-decision-tree.md
-- _posts/2018-03-24-neural-network-quine-self-replicating-neural-network.md
-- _posts/2018-03-24-understanding-neural-networks-through-deep-visualization.md
-- _posts/2018-03-24-stock-price-prediction-using-reinforcement-learning.md
-- _posts/2018-03-24-convolutional-neural-networks-for-sentence-classification.md
-- _posts/2018-03-24-robotic-arm-control-with-deep-neuroevolution.md
-- _posts/2018-03-24-deep-metric-learning-using-triplet-network.md
-- _posts/2018-03-24-neocognitron-a-self-organizing-neural-network-model-for-a-mechanism-of-pattern-recognition-unaffected-by-shift-in-position.md
+label: projects
 hide_body: false
+is_partial: false
 fields:
 - name: layout
   label: Layout
@@ -92,3 +40,6 @@ fields:
   type: boolean
   hidden: false
   default: true
+pages:
+- _posts/test.md
+- _posts/2018-03-24-convolutional-clustering-for-unsupervised-learning.md
