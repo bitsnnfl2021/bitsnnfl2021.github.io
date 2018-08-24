@@ -41,7 +41,7 @@ fields:
   hidden: false
   default: true
 pages:
-- _posts/music-note-recognition-based-on-neural-networks.md
+- _posts/2018-08-24-music-note-recognition-based-on-neural-networks.md
 - _posts/2018-08-24-speech-recognition-with-deep-recurrent-neural-networks.md
 - _posts/2018-08-24-a-deep-learning-approach-for-mapping-music-genres.md
 - _posts/2018-08-24-the-use-of-fuzzy-logic-and-expert-systems-for-rating-and-pricing-firms-a-new-perspective-on-valuation.md
