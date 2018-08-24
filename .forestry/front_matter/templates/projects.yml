@@ -41,5 +41,6 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/deep-learning-based-crack-damage-detection-using-convolutional-neural-networks.md
 - _posts/2018-08-24-test.md
 - _posts/2018-03-24-convolutional-clustering-for-unsupervised-learning.md
