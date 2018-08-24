@@ -7,8 +7,4 @@ paginate: true
 entries_layout: list
 ---
 
-Form a team of up to three members and select one of the topics listed on the website. You can browse project
-topics by category or tags. Each project lists the expected output, in case of any doubt you can contact
-the associated TA listed in the project description. Once you choose your topic fill out the Google form
-to reserve it. Each topic can be chosen by at most one team. If you want to work on a topic apart from 
-those listed here mail us at `bitsnnfl@gmail.com`.
+Go through the repository of papers. The portal for filling preference will open on 30th August at 7 PM. Allotment will strictly be done on first come first serve basis and hence make sure you choose atleast 5 papers and rank them according to your preference. In case of any queries, feel free to contact `bitsnnfl@gmail.com`
