@@ -41,11 +41,11 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/2018-08-24-fuzzy-controller-for-wall-following-with-a-non-holonomous-mobile-robot.md
 - _posts/2018-08-24-improvement-of-robot-path-planning-using-particle-swarm-optimization-in-dynamic-environments-with-mobile-obstacles-and-target.md
 - _posts/2018-08-24-a-new-optimizer-using-particle-swarm-theory.md
 - _posts/2018-08-24-firefly-algorithms-for-multimodal-optimization.md
 - _posts/2018-08-24-a-fuzzy-expert-system-for-heart-disease-diagnosis.md
-- _posts/2018-08-24-fuzzy-controller-for-wall-following-with-a-non-holonomous-mobile-robot.md
 - _posts/2018-08-24-learning-phrase-representations-using-rnn-encoder-decoder-for-statistical-machine-translation.md
 - _posts/2018-08-24-fast-r-cnn.md
 - _posts/2018-08-24-deep-learning-based-crack-damage-detection-using-convolutional-neural-networks.md
