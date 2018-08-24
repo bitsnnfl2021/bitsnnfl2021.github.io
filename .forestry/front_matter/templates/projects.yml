@@ -41,7 +41,7 @@ fields:
   hidden: false
   default: true
 pages:
-- _posts/the-prediction-of-character-based-on-recurrent-neural-network-language-model.md
+- _posts/2018-08-24-the-prediction-of-character-based-on-recurrent-neural-network-language-model.md
 - _posts/2018-08-24-music-note-recognition-based-on-neural-networks.md
 - _posts/2018-08-24-speech-recognition-with-deep-recurrent-neural-networks.md
 - _posts/2018-08-24-a-deep-learning-approach-for-mapping-music-genres.md
