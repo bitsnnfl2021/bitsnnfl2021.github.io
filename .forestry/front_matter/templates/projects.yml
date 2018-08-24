@@ -41,6 +41,7 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/the-use-of-fuzzy-logic-and-expert-systems-for-rating-and-pricing-firms-a-new-perspective-on-valuation.md
 - _posts/2018-08-24-fast-r-cnn.md
 - _posts/2018-08-24-learning-phrase-representations-using-rnn-encoder-decoder-for-statistical-machine-translation.md
 - _posts/2018-08-24-long-short-term-memory.md
