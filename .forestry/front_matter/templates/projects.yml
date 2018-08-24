@@ -41,6 +41,7 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/2018-08-24-learning-phrase-representations-using-rnn-encoder-decoder-for-statistical-machine-translation.md
 - _posts/2018-08-24-fast-r-cnn.md
 - _posts/2018-08-24-deep-learning-based-crack-damage-detection-using-convolutional-neural-networks.md
 - _posts/2018-08-24-the-prediction-of-character-based-on-recurrent-neural-network-language-model.md
@@ -48,6 +49,5 @@ pages:
 - _posts/2018-08-24-speech-recognition-with-deep-recurrent-neural-networks.md
 - _posts/2018-08-24-a-deep-learning-approach-for-mapping-music-genres.md
 - _posts/2018-08-24-the-use-of-fuzzy-logic-and-expert-systems-for-rating-and-pricing-firms-a-new-perspective-on-valuation.md
-- _posts/2018-08-24-learning-phrase-representations-using-rnn-encoder-decoder-for-statistical-machine-translation.md
 - _posts/2018-08-24-long-short-term-memory.md
 - _posts/2018-08-24-neural-machine-translation-by-jointly-learning-to-align-and-translate.md
