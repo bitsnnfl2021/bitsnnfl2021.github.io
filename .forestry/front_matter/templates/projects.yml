@@ -41,5 +41,5 @@ fields:
   hidden: false
   default: true
 pages:
-- _posts/neural-machine-translation-by-jointly-learning-to-align-and-translate.md
+- _posts/2018-08-24-neural-machine-translation-by-jointly-learning-to-align-and-translate.md
 - _posts/2018-08-24-deep-learning-based-crack-damage-detection-using-convolutional-neural-networks.md
