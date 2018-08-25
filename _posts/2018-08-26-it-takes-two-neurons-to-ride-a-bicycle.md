@@ -6,8 +6,10 @@ date: 2018-08-26 03:35:37 +0530
 author:
   name: Aditya Rana
   email: f2016182@pilani.bits-pilani.ac.in
-categories: []
-tags: []
+categories:
+- Reinforcement Learning
+tags:
+- Easy
 
 ---
 Past attempts to get computers to ride bicycles have required an inordinate amount of learning time (1700 practice rides for a reinforcement learning approach , while still failing to be able to ride in a straight line), or have required an algebraic analysis of the exact equations of motion for the specific bicycle to be controlled. 
