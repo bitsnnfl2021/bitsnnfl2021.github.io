@@ -41,7 +41,7 @@ fields:
   hidden: false
   default: true
 pages:
-- _posts/handwritten-digit-recognition-using-convolutional-neural-networks.md
+- _posts/2018-08-25-handwritten-digit-recognition-using-convolutional-neural-networks.md
 - _posts/2018-08-24-fuzzy-controller-for-wall-following-with-a-non-holonomous-mobile-robot.md
 - _posts/2018-08-25-neural-network-method-for-predicting-fifa-world-cup-winner.md
 - _posts/2018-08-25-text-sentiment-analysis-based-on-lstm.md
