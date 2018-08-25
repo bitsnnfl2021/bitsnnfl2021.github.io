@@ -8,6 +8,7 @@ author:
   email: f2016182@pilani.bits-pilani.ac.in
 categories:
 - NLP
+- Image Captioning
 tags:
 - Hard
 
