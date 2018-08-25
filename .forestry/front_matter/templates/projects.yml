@@ -41,6 +41,7 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/learning-to-fly-by-crashing.md
 - _posts/2018-08-26-it-takes-two-neurons-to-ride-a-bicycle.md
 - _posts/2018-08-26-rapid-object-detection-using-a-boosted-cascade-of-simple-features.md
 - _posts/2018-08-25-learning-iterative-image-reconstruction.md
