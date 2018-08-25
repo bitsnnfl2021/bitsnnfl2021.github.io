@@ -41,7 +41,7 @@ fields:
   hidden: false
   default: true
 pages:
-- _posts/text-sentiment-analysis-based-on-lstm.md
+- _posts/2018-08-25-text-sentiment-analysis-based-on-lstm.md
 - _posts/2018-08-24-fuzzy-controller-for-wall-following-with-a-non-holonomous-mobile-robot.md
 - _posts/2018-08-24-improvement-of-robot-path-planning-using-particle-swarm-optimization-in-dynamic-environments-with-mobile-obstacles-and-target.md
 - _posts/2018-08-24-a-new-optimizer-using-particle-swarm-theory.md
