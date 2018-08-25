@@ -41,6 +41,7 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/rapid-object-detection-using-a-boosted-cascade-of-simple-features.md
 - _posts/2018-08-25-learning-iterative-image-reconstruction.md
 - _posts/2018-08-25-semantic-style-transfer-and-turning-two-bit-doodles-into-fine-artworks.md
 - _posts/2018-08-25-handwritten-digit-recognition-using-convolutional-neural-networks.md
