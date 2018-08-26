@@ -41,6 +41,7 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/simulation-of-optical-flow-and-fuzzy-based-obstacle-avoidance-system-for-mobile-robots.md
 - _posts/behavior-based-navigation-of-mobile-robot-in-unknown-environments-using-fuzzy-logic-and-multi-objective-optimization.md
 - _posts/2018-08-26-vehicle-color-recognition-using-convolutional-neural-network.md
 - _posts/2018-08-26-fast-and-accurate-convolutional-neural-network-based-approach-for-object-detection-from-uav.md
