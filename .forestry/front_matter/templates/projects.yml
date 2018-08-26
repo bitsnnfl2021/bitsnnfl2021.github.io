@@ -41,6 +41,7 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/a-fine-to-coarse-convolutional-neural-network-for-3d-human-action-recognition.md
 - _posts/approximating-poker-probabilities-with-deep-learning.md
 - _posts/population-based-training-of-neural-networks.md
 - _posts/a-real-time-autonomous-highway-accident-detection-model-based-on-big-data-processing-and-computational-intelligence.md
