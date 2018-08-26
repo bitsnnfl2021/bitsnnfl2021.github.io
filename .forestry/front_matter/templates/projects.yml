@@ -41,6 +41,7 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/approximating-poker-probabilities-with-deep-learning.md
 - _posts/population-based-training-of-neural-networks.md
 - _posts/a-real-time-autonomous-highway-accident-detection-model-based-on-big-data-processing-and-computational-intelligence.md
 - _posts/2018-08-26-convolutional-pose-machines.md
