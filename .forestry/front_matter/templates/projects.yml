@@ -41,6 +41,7 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/realtime-multi-person-2d-pose-estimation-using-part-affinity-fields.md
 - _posts/2018-08-26-estimating-matrix-rank-with-neural-networks.md
 - _posts/2018-08-26-every-picture-tells-a-story-generating-sentences-from-images.md
 - _posts/2018-08-26-it-takes-two-neurons-to-ride-a-bicycle.md
