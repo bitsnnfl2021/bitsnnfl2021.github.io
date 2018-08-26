@@ -41,6 +41,7 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/fast-and-accurate-convolutional-neural-network-based-approach-for-object-detection-from-uav.md
 - _posts/vehicle-color-recognition-using-convolutional-neural-network.md
 - _posts/a-fine-to-coarse-convolutional-neural-network-for-3d-human-action-recognition.md
 - _posts/approximating-poker-probabilities-with-deep-learning.md
