@@ -6,7 +6,7 @@ title: A Real-Time Autonomous Highway Accident Detection Model Based on Big Data
 date: 2018-08-26 11:53:31 +0530
 author:
   name: Rohitkumar Arasanipalai
-  email: rohitkumar97@gmail.com
+  email: f2015666@pilani.bits-pilani.ac.in
 categories: []
 tags: []
 
