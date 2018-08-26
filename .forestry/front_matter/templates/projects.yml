@@ -41,6 +41,7 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/convolutional-pose-machines.md
 - _posts/2018-08-26-realtime-multi-person-2d-pose-estimation-using-part-affinity-fields.md
 - _posts/2018-08-26-squeeze-and-excitation-networks.md
 - _posts/2018-08-26-estimating-matrix-rank-with-neural-networks.md
