@@ -8,6 +8,7 @@ author:
   email: f2015010@pilani.bits-pilani.ac.in
 categories:
 - CNN
+- NLP
 tags:
 - 'Difficult '
 
