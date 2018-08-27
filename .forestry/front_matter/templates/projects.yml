@@ -41,6 +41,7 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/2018-08-26-a-fine-to-coarse-convolutional-neural-network-for-3d-human-action-recognition.md
 - _posts/2018-08-26-population-based-training-of-neural-networks.md
 - _posts/2018-08-26-convolutional-pose-machines.md
 - _posts/neural-paraphrase-generation-with-stacked-residual-lstm-networks.md
@@ -50,7 +51,6 @@ pages:
 - _posts/2018-08-26-feature-based-fuzzy-rule-base-design-for-image-extraction.md
 - _posts/2018-08-26-vehicle-color-recognition-using-convolutional-neural-network.md
 - _posts/2018-08-26-fast-and-accurate-convolutional-neural-network-based-approach-for-object-detection-from-uav.md
-- _posts/2018-08-26-a-fine-to-coarse-convolutional-neural-network-for-3d-human-action-recognition.md
 - _posts/2018-08-26-approximating-poker-probabilities-with-deep-learning.md
 - _posts/2018-08-26-a-real-time-autonomous-highway-accident-detection-model-based-on-big-data-processing-and-computational-intelligence.md
 - _posts/2018-08-26-realtime-multi-person-2d-pose-estimation-using-part-affinity-fields.md
