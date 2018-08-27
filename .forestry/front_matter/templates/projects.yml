@@ -41,7 +41,7 @@ fields:
   hidden: false
   default: true
 pages:
-- _posts/a-convolutional-neural-network-for-modelling-sentences.md
+- _posts/2018-08-27-a-convolutional-neural-network-for-modelling-sentences.md
 - _posts/2018-08-26-behavior-based-navigation-of-mobile-robot-in-unknown-environments-using-fuzzy-logic-and-multi-objective-optimization.md
 - _posts/2018-08-26-simulation-of-optical-flow-and-fuzzy-based-obstacle-avoidance-system-for-mobile-robots.md
 - _posts/2018-08-26-feature-based-fuzzy-rule-base-design-for-image-extraction.md
