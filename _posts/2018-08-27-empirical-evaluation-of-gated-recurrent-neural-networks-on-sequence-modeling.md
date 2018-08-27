@@ -7,7 +7,7 @@ author:
   name: Sahaj Srivastava
   email: f2015091@pilani.bits-pilani.ac.in
 categories:
-- Gated Neural Networks
+- Recurrent Neural Networks
 tags:
 - Easy
 
