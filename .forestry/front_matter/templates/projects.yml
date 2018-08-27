@@ -41,7 +41,7 @@ fields:
   hidden: false
   default: true
 pages:
-- _posts/yolov3-an-incremental-improvement.md
+- _posts/2018-08-27-yolov3-an-incremental-improvement.md
 - _posts/2018-08-26-a-fine-to-coarse-convolutional-neural-network-for-3d-human-action-recognition.md
 - _posts/2018-08-26-population-based-training-of-neural-networks.md
 - _posts/2018-08-26-convolutional-pose-machines.md
