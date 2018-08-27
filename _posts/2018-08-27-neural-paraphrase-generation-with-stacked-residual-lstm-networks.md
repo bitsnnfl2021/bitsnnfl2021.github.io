@@ -13,7 +13,6 @@ tags:
 - Difficult
 
 ---
-
-Automatic generation of paraphrases from a given sentence is an important yet challenging task in natural language processing (NLP).This paper proposes a new model that allows for training multiple stacked LSTM networks by introducing a residual connection between the layers.This is inspired by the recent success of such connections in a deep Convolutional Neural Network (CNN) for the image recognition task.  
+Automatic generation of paraphrases from a given sentence is an important yet challenging task in natural language processing (NLP).This paper proposes a new model that allows for training multiple stacked LSTM networks by introducing a residual connection between the layers.This is inspired by the recent success of such connections in a deep Convolutional Neural Network (CNN) for the image recognition task.
 
 Link:[https://arxiv.org/pdf/1610.03098.pdf](https://arxiv.org/pdf/1610.03098.pdf "https://arxiv.org/pdf/1610.03098.pdf")
