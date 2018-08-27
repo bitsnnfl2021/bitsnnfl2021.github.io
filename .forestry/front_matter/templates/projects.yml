@@ -41,6 +41,7 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/2018-08-26-behavior-based-navigation-of-mobile-robot-in-unknown-environments-using-fuzzy-logic-and-multi-objective-optimization.md
 - _posts/2018-08-26-feature-based-fuzzy-rule-base-design-for-image-extraction.md
 - _posts/2018-08-27-adam-a-method-for-stochastic-optimization.md
 - _posts/2018-08-27-deep-neural-networks-for-object-detection.md
@@ -54,7 +55,6 @@ pages:
 - _posts/2018-08-26-population-based-training-of-neural-networks.md
 - _posts/2018-08-26-convolutional-pose-machines.md
 - _posts/2018-08-27-a-convolutional-neural-network-for-modelling-sentences.md
-- _posts/2018-08-26-behavior-based-navigation-of-mobile-robot-in-unknown-environments-using-fuzzy-logic-and-multi-objective-optimization.md
 - _posts/2018-08-26-simulation-of-optical-flow-and-fuzzy-based-obstacle-avoidance-system-for-mobile-robots.md
 - _posts/2018-08-26-vehicle-color-recognition-using-convolutional-neural-network.md
 - _posts/2018-08-26-fast-and-accurate-convolutional-neural-network-based-approach-for-object-detection-from-uav.md
