@@ -8,6 +8,7 @@ author:
   email: f2015276@pilani.bits-pilani.ac.in
 categories:
 - CNN
+- Human Pose Estimation
 tags:
 - Hard
 
