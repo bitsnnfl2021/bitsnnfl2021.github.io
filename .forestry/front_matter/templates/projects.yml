@@ -41,6 +41,7 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/2018-08-26-rapid-object-detection-using-a-boosted-cascade-of-simple-features.md
 - _posts/2018-08-25-learning-iterative-image-reconstruction.md
 - _posts/2018-08-25-semantic-style-transfer-and-turning-two-bit-doodles-into-fine-artworks.md
 - _posts/2018-08-24-a-new-optimizer-using-particle-swarm-theory.md
@@ -69,7 +70,6 @@ pages:
 - _posts/2018-08-26-estimating-matrix-rank-with-neural-networks.md
 - _posts/2018-08-26-every-picture-tells-a-story-generating-sentences-from-images.md
 - _posts/2018-08-26-it-takes-two-neurons-to-ride-a-bicycle.md
-- _posts/2018-08-26-rapid-object-detection-using-a-boosted-cascade-of-simple-features.md
 - _posts/2018-08-25-handwritten-digit-recognition-using-convolutional-neural-networks.md
 - _posts/2018-08-24-fuzzy-controller-for-wall-following-with-a-non-holonomous-mobile-robot.md
 - _posts/2018-08-25-neural-network-method-for-predicting-fifa-world-cup-winner.md
