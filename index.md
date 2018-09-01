@@ -15,4 +15,6 @@ Closes: 2rd September, 7 pm
 
 Tentative dates for presentation: Third week of September
 
+**Note:** The paper for the second, implementation based assignment will be different from the first, theoretical assignment.
+
 In case of any queries, feel free to contact `bitsnnfl@gmail.com`
