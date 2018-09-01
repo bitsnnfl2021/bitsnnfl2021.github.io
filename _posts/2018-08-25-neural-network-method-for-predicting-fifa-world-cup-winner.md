@@ -1,19 +1,19 @@
 ---
 layout: post
 share: true
-title: Neural Network method for predicting FIFA world cup winner
+title: Handwritten Digit Recognition using Convolutional Neural Networks
 date: 2018-08-25 11:49:19 +0530
 author:
   name: Namrata Mohanty
   email: f2015010@pilani.bits-pilani.ac.in
 categories:
-- Back Propagation
+- CNN
 tags:
-- 'Easy '
+- Medium
 
 ---
-A neural network method is adopted to predict the football game's winning rate of two teams . The adopted prediction model is based on multi-layer perceptron (MLP) with back propagation learning rule. The input data are transformed to the relative ratios between two teams of each game. New training samples are added to the training samples at the previous stages. By way of experimental results, the determined neural network architecture for MLP is 8 inputs, 11 hidden nodes, and 1 output (8-11-1). The learning rate and momentum coefficient are sequentially determined by experiments as well. Based on the adopted MLP prediction method, the prediction accuracy can achieve 76.9% if the draw games are excluded.
+Convolutional Neural Networks(CNNs) have been confirmed as a powerful technique for classification of visual inputs like handwritten digits and faces recognition. Traditional convolutional layer's input feature maps are convolved with learnable kernel then combined for achieving better performance. The biggest drawback is that the combination of feature maps can lose features and do not apply well to large-scale neural networks. In this paper, we introduce Ncfm(No combination of feature maps), a novel technique to improve the performance of CNNs. By applying Ncfm technique, the input feature maps are not combined, which implies that the number of input feature maps is equal to output feature maps. The Ncfm technique converges faster and performs better than Cfm (Combination of feature maps) with fewer filters. Through the type of feature map, experimental evaluation shows that the performance is improved and we achieve the state-of-the-art performance with 99.81 % accuracy rate on the MNIST datasets.
 
-Link:[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5596458](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5596458 "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5596458")
+Link: [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7727244](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7727244 "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7727244")
 
-ID:62
+ID:63
