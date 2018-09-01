@@ -41,6 +41,7 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/a-neural-network-method-for-prediction-of-2006-world-cup-football-game.md
 - _posts/2018-08-24-fast-r-cnn.md
 - _posts/2018-08-25-neural-network-method-for-predicting-fifa-world-cup-winner.md
 - _posts/2018-08-24-learning-phrase-representations-using-rnn-encoder-decoder-for-statistical-machine-translation.md
