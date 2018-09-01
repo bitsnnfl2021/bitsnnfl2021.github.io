@@ -41,6 +41,7 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/2018-08-25-handwritten-digit-recognition-using-convolutional-neural-networks.md
 - _posts/2018-08-27-a-convolutional-neural-network-for-modelling-sentences.md
 - _posts/2018-08-27-neural-paraphrase-generation-with-stacked-residual-lstm-networks.md
 - _posts/2018-08-25-text-sentiment-analysis-based-on-lstm.md
@@ -73,7 +74,6 @@ pages:
 - _posts/2018-08-26-fast-and-accurate-convolutional-neural-network-based-approach-for-object-detection-from-uav.md
 - _posts/2018-08-26-a-real-time-autonomous-highway-accident-detection-model-based-on-big-data-processing-and-computational-intelligence.md
 - _posts/2018-08-26-estimating-matrix-rank-with-neural-networks.md
-- _posts/2018-08-25-handwritten-digit-recognition-using-convolutional-neural-networks.md
 - _posts/2018-08-24-fuzzy-controller-for-wall-following-with-a-non-holonomous-mobile-robot.md
 - _posts/2018-08-25-neural-network-method-for-predicting-fifa-world-cup-winner.md
 - _posts/2018-08-24-firefly-algorithms-for-multimodal-optimization.md
