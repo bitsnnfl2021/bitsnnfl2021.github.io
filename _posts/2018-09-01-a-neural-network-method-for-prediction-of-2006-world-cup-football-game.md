@@ -6,7 +6,8 @@ date: 2018-09-01 19:28:37 +0530
 author:
   name: Namrata Mohanty
   email: f2015010@pilani.bits-pilani.ac.in
-categories: []
+categories:
+- MLP
 tags:
 - easy
 
