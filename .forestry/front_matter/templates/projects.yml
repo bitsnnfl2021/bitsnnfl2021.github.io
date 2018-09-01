@@ -41,11 +41,11 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/2018-08-25-neural-network-method-for-predicting-fifa-world-cup-winner.md
 - _posts/2018-08-24-learning-phrase-representations-using-rnn-encoder-decoder-for-statistical-machine-translation.md
 - _posts/2018-08-24-the-prediction-of-character-based-on-recurrent-neural-network-language-model.md
 - _posts/2018-08-24-long-short-term-memory.md
 - _posts/2018-08-24-deep-learning-based-crack-damage-detection-using-convolutional-neural-networks.md
-- _posts/2018-08-25-neural-network-method-for-predicting-fifa-world-cup-winner.md
 - _posts/2018-08-25-handwritten-digit-recognition-using-convolutional-neural-networks.md
 - _posts/2018-08-27-a-convolutional-neural-network-for-modelling-sentences.md
 - _posts/2018-08-27-neural-paraphrase-generation-with-stacked-residual-lstm-networks.md
