@@ -41,6 +41,7 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/2018-08-27-a-convolutional-neural-network-for-modelling-sentences.md
 - _posts/2018-08-27-neural-paraphrase-generation-with-stacked-residual-lstm-networks.md
 - _posts/2018-08-25-text-sentiment-analysis-based-on-lstm.md
 - _posts/2018-09-01-solving-sudoku-puzzles-by-using-hopfield-neural-network.md
@@ -69,7 +70,6 @@ pages:
 - _posts/2018-08-27-on-the-importance-of-initialization-and-momentum-in-deep-learning.md
 - _posts/2018-08-27-empirical-evaluation-of-gated-recurrent-neural-networks-on-sequence-modeling.md
 - _posts/2018-08-27-learning-phrase-representations-using-rnn-encoder-decoder-for-statistical-machine-translation.md
-- _posts/2018-08-27-a-convolutional-neural-network-for-modelling-sentences.md
 - _posts/2018-08-26-fast-and-accurate-convolutional-neural-network-based-approach-for-object-detection-from-uav.md
 - _posts/2018-08-26-a-real-time-autonomous-highway-accident-detection-model-based-on-big-data-processing-and-computational-intelligence.md
 - _posts/2018-08-26-estimating-matrix-rank-with-neural-networks.md
