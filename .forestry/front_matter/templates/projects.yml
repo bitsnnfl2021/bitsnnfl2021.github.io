@@ -41,6 +41,7 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/2018-08-24-the-prediction-of-character-based-on-recurrent-neural-network-language-model.md
 - _posts/2018-08-24-long-short-term-memory.md
 - _posts/2018-08-24-deep-learning-based-crack-damage-detection-using-convolutional-neural-networks.md
 - _posts/2018-08-25-neural-network-method-for-predicting-fifa-world-cup-winner.md
@@ -82,7 +83,6 @@ pages:
 - _posts/2018-08-24-a-fuzzy-expert-system-for-heart-disease-diagnosis.md
 - _posts/2018-08-24-learning-phrase-representations-using-rnn-encoder-decoder-for-statistical-machine-translation.md
 - _posts/2018-08-24-fast-r-cnn.md
-- _posts/2018-08-24-the-prediction-of-character-based-on-recurrent-neural-network-language-model.md
 - _posts/2018-08-24-music-note-recognition-based-on-neural-networks.md
 - _posts/2018-08-24-speech-recognition-with-deep-recurrent-neural-networks.md
 - _posts/2018-08-24-a-deep-learning-approach-for-mapping-music-genres.md
