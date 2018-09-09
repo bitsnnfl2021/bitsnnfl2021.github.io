@@ -41,6 +41,7 @@ fields:
   hidden: false
   default: true
 pages:
+- assignment-1-instructions.md
 - _posts/2018-09-01-a-neural-network-method-for-prediction-of-2006-world-cup-football-game.md
 - _posts/2018-08-24-fast-r-cnn.md
 - _posts/2018-08-25-neural-network-method-for-predicting-fifa-world-cup-winner.md
