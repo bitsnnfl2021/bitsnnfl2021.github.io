@@ -41,7 +41,6 @@ fields:
   hidden: false
   default: true
 pages:
-- assignment-1-paper-presentation-and-quiz-1.md
 - assignment-1-paper-presentation-and-quiz.md
 - _posts/2018-09-01-a-neural-network-method-for-prediction-of-2006-world-cup-football-game.md
 - _posts/2018-08-24-fast-r-cnn.md
