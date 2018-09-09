@@ -1,12 +1,13 @@
-# Sample site navigation links
-
+---
+- title: 'Assignment 1: Paper Presentation and Quiz'
+  url: "\\"
 - title: Instructions
-  url: /
+  url: "/"
 - title: All Projects
-  url: /posts/
+  url: "/posts/"
 - title: Projects By Categories
-  url: /categories/
+  url: "/categories/"
 - title: Projects By Tags
-  url: /tags/
+  url: "/tags/"
 - title: Search
-  url: /search/
+  url: "/search/"
