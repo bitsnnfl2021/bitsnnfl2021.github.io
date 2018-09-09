@@ -5,7 +5,6 @@ excerpt: Project Portal
 show_excerpts: true
 paginate: true
 entries_layout: list
-published: false
 
 ---
 Following link has the final allotment and date wise schedule. Timings of presentations would be from 5-7 in the evenings on working days and on Sunday it'll 10-1 and 4-6 (tentatively).
