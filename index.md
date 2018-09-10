@@ -11,8 +11,6 @@ Following link has the final allotment and date wise schedule. Timings of presen
 
 [Final Schedule](https://docs.google.com/spreadsheets/d/1Ke4qEM-o0X7936f5-RHe0crST6H3Nu8MO8LQmvBznSE/edit?usp=sharing)
 
-We will post some guidelines for the presentation in a few days. The presentations have to be prepared by 12th Midnight and uploaded on the portal. Export the final presentation to a PDF.
-
 **Note:** The paper for the second, implementation based assignment will be different from the first, theoretical assignment.
 
 In case of any queries, feel free to contact `bitsnnfl@gmail.com`
@@ -29,3 +27,5 @@ In case of any queries, feel free to contact `bitsnnfl@gmail.com`
    1. Values and results will not be asked.
    2. Details about past research work, not mentioned in the paper will not be asked.
    3. Basic understanding and implementation will be focused upon while asking the questions.
+4. The presentation should be in PDF format only.
+5. The presentation file needs to be uploaded by 12th September midnight. The link to the upload form will be posted by 10th September midnight. 
