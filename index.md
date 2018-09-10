@@ -11,7 +11,7 @@ Following link has the final allotment and date wise schedule. Timings of presen
 
 [Final Schedule](https://docs.google.com/spreadsheets/d/1Ke4qEM-o0X7936f5-RHe0crST6H3Nu8MO8LQmvBznSE/edit?usp=sharing)
 
-We will post some guidelines for the presentation in a few days. The presentations have to be prepared by 12th Midnight and uploaded on the portal. Use only MS Powerpoint 2003 version so that there are no hassles while running the ppt on NAB systems.
+We will post some guidelines for the presentation in a few days. The presentations have to be prepared by 12th Midnight and uploaded on the portal. Export the final presentation to a PDF.
 
 **Note:** The paper for the second, implementation based assignment will be different from the first, theoretical assignment.
 
