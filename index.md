@@ -27,5 +27,5 @@ In case of any queries, feel free to contact `bitsnnfl@gmail.com`
    1. Values and results will not be asked.
    2. Details about past research work, not mentioned in the paper will not be asked.
    3. Basic understanding and implementation will be focused upon while asking the questions.
-4. The presentation should be in PDF format only.
-5. The presentation file needs to be uploaded by 12th September midnight. The link to the upload form will be posted by 10th September midnight. 
+4. The presentation should be in PDF, PPT or PPTX format only.
+5. The presentation file needs to be uploaded by 12th September midnight. The link to the upload form will be posted by 10th September midnight.
