@@ -41,6 +41,7 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/2018-08-26-simulation-of-optical-flow-and-fuzzy-based-obstacle-avoidance-system-for-mobile-robots.md
 - _posts/2018-09-01-a-neural-network-method-for-prediction-of-2006-world-cup-football-game.md
 - _posts/2018-08-24-fast-r-cnn.md
 - _posts/2018-08-25-neural-network-method-for-predicting-fifa-world-cup-winner.md
@@ -70,7 +71,6 @@ pages:
 - _posts/2018-08-26-a-fine-to-coarse-convolutional-neural-network-for-3d-human-action-recognition.md
 - _posts/2018-08-26-vehicle-color-recognition-using-convolutional-neural-network.md
 - _posts/2018-08-26-approximating-poker-probabilities-with-deep-learning.md
-- _posts/2018-08-26-simulation-of-optical-flow-and-fuzzy-based-obstacle-avoidance-system-for-mobile-robots.md
 - _posts/2018-08-26-behavior-based-navigation-of-mobile-robot-in-unknown-environments-using-fuzzy-logic-and-multi-objective-optimization.md
 - _posts/2018-08-26-feature-based-fuzzy-rule-base-design-for-image-extraction.md
 - _posts/2018-08-27-adam-a-method-for-stochastic-optimization.md
