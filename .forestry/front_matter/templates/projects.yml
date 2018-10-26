@@ -41,6 +41,7 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/2018-08-27-learning-phrase-representations-using-rnn-encoder-decoder-for-statistical-machine-translation.md
 - _posts/2018-08-26-simulation-of-optical-flow-and-fuzzy-based-obstacle-avoidance-system-for-mobile-robots.md
 - _posts/2018-09-01-a-neural-network-method-for-prediction-of-2006-world-cup-football-game.md
 - _posts/2018-08-24-fast-r-cnn.md
@@ -77,7 +78,6 @@ pages:
 - _posts/2018-08-27-deep-neural-networks-for-object-detection.md
 - _posts/2018-08-27-on-the-importance-of-initialization-and-momentum-in-deep-learning.md
 - _posts/2018-08-27-empirical-evaluation-of-gated-recurrent-neural-networks-on-sequence-modeling.md
-- _posts/2018-08-27-learning-phrase-representations-using-rnn-encoder-decoder-for-statistical-machine-translation.md
 - _posts/2018-08-26-fast-and-accurate-convolutional-neural-network-based-approach-for-object-detection-from-uav.md
 - _posts/2018-08-26-a-real-time-autonomous-highway-accident-detection-model-based-on-big-data-processing-and-computational-intelligence.md
 - _posts/2018-08-26-estimating-matrix-rank-with-neural-networks.md
