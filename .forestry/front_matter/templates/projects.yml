@@ -41,8 +41,6 @@ fields:
   hidden: false
   default: true
 pages:
-- _posts/2018-08-24-music-note-recognition-based-on-neural-networks.md
-- _posts/2018-08-26-fast-and-accurate-convolutional-neural-network-based-approach-for-object-detection-from-uav.md
 - _posts/2018-08-26-approximating-poker-probabilities-with-deep-learning.md
 - _posts/2018-08-26-feature-based-fuzzy-rule-base-design-for-image-extraction.md
 - _posts/2018-08-24-the-prediction-of-character-based-on-recurrent-neural-network-language-model.md
@@ -52,4 +50,3 @@ pages:
 - _posts/2018-09-01-solving-sudoku-puzzles-by-using-hopfield-neural-network.md
 - _posts/2018-09-01-a-neural-network-method-for-prediction-of-2006-world-cup-football-game.md
 - _posts/2018-08-25-semantic-style-transfer-and-turning-two-bit-doodles-into-fine-artworks.md
-- _posts/2018-08-26-simulation-of-optical-flow-and-fuzzy-based-obstacle-avoidance-system-for-mobile-robots.md
