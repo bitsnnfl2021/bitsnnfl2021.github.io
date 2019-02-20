@@ -43,10 +43,8 @@ fields:
 pages:
 - _posts/2018-08-24-neural-machine-translation-by-jointly-learning-to-align-and-translate.md
 - _posts/2018-08-24-the-use-of-fuzzy-logic-and-expert-systems-for-rating-and-pricing-firms-a-new-perspective-on-valuation.md
-- _posts/2018-08-24-a-deep-learning-approach-for-mapping-music-genres.md
 - _posts/2018-08-24-speech-recognition-with-deep-recurrent-neural-networks.md
 - _posts/2018-08-24-music-note-recognition-based-on-neural-networks.md
-- _posts/2018-08-24-a-fuzzy-expert-system-for-heart-disease-diagnosis.md
 - _posts/2018-08-24-fuzzy-controller-for-wall-following-with-a-non-holonomous-mobile-robot.md
 - _posts/2018-08-26-fast-and-accurate-convolutional-neural-network-based-approach-for-object-detection-from-uav.md
 - _posts/2018-08-26-approximating-poker-probabilities-with-deep-learning.md
@@ -64,7 +62,6 @@ pages:
 - _posts/2018-09-01-a-neural-algorithm-of-artistic-style.md
 - _posts/2018-09-01-solving-sudoku-puzzles-by-using-hopfield-neural-network.md
 - _posts/2018-08-25-text-sentiment-analysis-based-on-lstm.md
-- _posts/2018-08-27-a-convolutional-neural-network-for-modelling-sentences.md
 - _posts/2018-08-27-neural-paraphrase-generation-with-stacked-residual-lstm-networks.md
 - _posts/2018-09-01-a-neural-network-method-for-prediction-of-2006-world-cup-football-game.md
 - _posts/2018-08-24-improvement-of-robot-path-planning-using-particle-swarm-optimization-in-dynamic-environments-with-mobile-obstacles-and-target.md
