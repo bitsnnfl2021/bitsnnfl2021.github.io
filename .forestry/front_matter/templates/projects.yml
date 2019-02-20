@@ -42,10 +42,8 @@ fields:
   default: true
 pages:
 - _posts/2018-08-24-music-note-recognition-based-on-neural-networks.md
-- _posts/2018-08-24-fuzzy-controller-for-wall-following-with-a-non-holonomous-mobile-robot.md
 - _posts/2018-08-26-fast-and-accurate-convolutional-neural-network-based-approach-for-object-detection-from-uav.md
 - _posts/2018-08-26-approximating-poker-probabilities-with-deep-learning.md
-- _posts/2018-08-26-population-based-training-of-neural-networks.md
 - _posts/2018-08-27-empirical-evaluation-of-gated-recurrent-neural-networks-on-sequence-modeling.md
 - _posts/2018-08-26-feature-based-fuzzy-rule-base-design-for-image-extraction.md
 - _posts/2018-08-24-deep-learning-based-crack-damage-detection-using-convolutional-neural-networks.md
@@ -56,7 +54,6 @@ pages:
 - _posts/2018-09-01-solving-sudoku-puzzles-by-using-hopfield-neural-network.md
 - _posts/2018-08-27-neural-paraphrase-generation-with-stacked-residual-lstm-networks.md
 - _posts/2018-09-01-a-neural-network-method-for-prediction-of-2006-world-cup-football-game.md
-- _posts/2018-08-24-improvement-of-robot-path-planning-using-particle-swarm-optimization-in-dynamic-environments-with-mobile-obstacles-and-target.md
 - _posts/2018-08-24-a-new-optimizer-using-particle-swarm-theory.md
 - _posts/2018-08-25-semantic-style-transfer-and-turning-two-bit-doodles-into-fine-artworks.md
 - _posts/2018-08-27-learning-phrase-representations-using-rnn-encoder-decoder-for-statistical-machine-translation.md
