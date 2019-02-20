@@ -68,7 +68,6 @@ pages:
 - _posts/2018-08-24-the-prediction-of-character-based-on-recurrent-neural-network-language-model.md
 - _posts/2018-08-24-learning-phrase-representations-using-rnn-encoder-decoder-for-statistical-machine-translation.md
 - _posts/2018-08-25-neural-network-method-for-predicting-fifa-world-cup-winner.md
-- _posts/2018-08-27-yolov3-an-incremental-improvement.md
 - _posts/2018-08-26-convolutional-pose-machines.md
 - _posts/2018-08-27-a-new-genetic-algorithm-for-optimization.md
 - _posts/2018-08-26-squeeze-and-excitation-networks.md
@@ -83,7 +82,6 @@ pages:
 - _posts/2018-08-24-a-new-optimizer-using-particle-swarm-theory.md
 - _posts/2018-08-25-semantic-style-transfer-and-turning-two-bit-doodles-into-fine-artworks.md
 - _posts/2018-08-25-learning-iterative-image-reconstruction.md
-- _posts/2018-08-26-rapid-object-detection-using-a-boosted-cascade-of-simple-features.md
 - _posts/2018-08-26-every-picture-tells-a-story-generating-sentences-from-images.md
 - _posts/2018-08-27-learning-phrase-representations-using-rnn-encoder-decoder-for-statistical-machine-translation.md
 - _posts/2018-08-26-simulation-of-optical-flow-and-fuzzy-based-obstacle-avoidance-system-for-mobile-robots.md
