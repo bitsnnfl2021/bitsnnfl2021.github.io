@@ -42,3 +42,4 @@ fields:
   default: true
 pages:
 - _posts/2018-08-25-semantic-style-transfer-and-turning-two-bit-doodles-into-fine-artworks.md
+- _posts/u-net-convolutional-networks-for-biomedical-image-segmentation.md
