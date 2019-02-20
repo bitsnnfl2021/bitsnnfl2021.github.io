@@ -9,7 +9,6 @@ categories:
 - CNN
 - Computer Vision
 - Image Segmentation
-- Biomedical
 tags:
 - Medium
 date: 2019-02-20 14:37:08 +0530
