@@ -43,9 +43,7 @@ fields:
 pages:
 - _posts/2018-08-26-approximating-poker-probabilities-with-deep-learning.md
 - _posts/2018-08-26-feature-based-fuzzy-rule-base-design-for-image-extraction.md
-- _posts/2018-08-24-the-prediction-of-character-based-on-recurrent-neural-network-language-model.md
 - _posts/2018-08-24-learning-phrase-representations-using-rnn-encoder-decoder-for-statistical-machine-translation.md
-- _posts/2018-08-26-realtime-multi-person-2d-pose-estimation-using-part-affinity-fields.md
 - _posts/2018-09-01-a-neural-algorithm-of-artistic-style.md
 - _posts/2018-09-01-solving-sudoku-puzzles-by-using-hopfield-neural-network.md
 - _posts/2018-09-01-a-neural-network-method-for-prediction-of-2006-world-cup-football-game.md
