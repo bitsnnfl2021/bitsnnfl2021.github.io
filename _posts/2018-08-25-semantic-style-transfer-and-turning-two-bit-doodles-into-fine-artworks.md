@@ -18,4 +18,6 @@ Convolutional neural networks  have proven highly effective at image synthesis a
 
 Link: [https://arxiv.org/abs/1603.01768](https://arxiv.org/abs/1603.01768 "https://arxiv.org/abs/1603.01768")
 
-ID : 31
+Dataset : \[Link\]
+
+ID : 21
