@@ -46,10 +46,8 @@ pages:
 - _posts/2018-08-24-a-deep-learning-approach-for-mapping-music-genres.md
 - _posts/2018-08-24-speech-recognition-with-deep-recurrent-neural-networks.md
 - _posts/2018-08-24-music-note-recognition-based-on-neural-networks.md
-- _posts/2018-08-24-firefly-algorithms-for-multimodal-optimization.md
 - _posts/2018-08-24-a-fuzzy-expert-system-for-heart-disease-diagnosis.md
 - _posts/2018-08-24-fuzzy-controller-for-wall-following-with-a-non-holonomous-mobile-robot.md
-- _posts/2018-08-26-estimating-matrix-rank-with-neural-networks.md
 - _posts/2018-08-26-a-real-time-autonomous-highway-accident-detection-model-based-on-big-data-processing-and-computational-intelligence.md
 - _posts/2018-08-26-fast-and-accurate-convolutional-neural-network-based-approach-for-object-detection-from-uav.md
 - _posts/2018-08-27-adam-a-method-for-stochastic-optimization.md
@@ -62,7 +60,6 @@ pages:
 - _posts/2018-08-26-feature-based-fuzzy-rule-base-design-for-image-extraction.md
 - _posts/2018-08-27-deep-neural-networks-for-object-detection.md
 - _posts/2018-08-24-deep-learning-based-crack-damage-detection-using-convolutional-neural-networks.md
-- _posts/2018-08-24-fast-r-cnn.md
 - _posts/2018-08-24-the-prediction-of-character-based-on-recurrent-neural-network-language-model.md
 - _posts/2018-08-24-learning-phrase-representations-using-rnn-encoder-decoder-for-statistical-machine-translation.md
 - _posts/2018-08-26-convolutional-pose-machines.md
