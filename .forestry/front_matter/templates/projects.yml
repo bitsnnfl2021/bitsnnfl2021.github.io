@@ -42,6 +42,5 @@ fields:
   default: true
 pages:
 - _posts/2018-08-26-approximating-poker-probabilities-with-deep-learning.md
-- _posts/2018-08-26-feature-based-fuzzy-rule-base-design-for-image-extraction.md
 - _posts/2018-09-01-a-neural-network-method-for-prediction-of-2006-world-cup-football-game.md
 - _posts/2018-08-25-semantic-style-transfer-and-turning-two-bit-doodles-into-fine-artworks.md
