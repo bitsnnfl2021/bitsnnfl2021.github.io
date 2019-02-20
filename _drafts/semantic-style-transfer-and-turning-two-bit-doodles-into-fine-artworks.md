@@ -1,7 +1,7 @@
 ---
 layout: post
 share: true
-title: Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artworks
+title: 'U-Net: Convolutional Networks for Biomedical Image Segmentation'
 date: 2018-08-25 22:36:12 +0530
 author:
   name: Aditya Rana
