@@ -54,7 +54,6 @@ pages:
 - _posts/2018-08-24-deep-learning-based-crack-damage-detection-using-convolutional-neural-networks.md
 - _posts/2018-08-24-the-prediction-of-character-based-on-recurrent-neural-network-language-model.md
 - _posts/2018-08-24-learning-phrase-representations-using-rnn-encoder-decoder-for-statistical-machine-translation.md
-- _posts/2018-08-26-convolutional-pose-machines.md
 - _posts/2018-08-26-squeeze-and-excitation-networks.md
 - _posts/2018-08-26-realtime-multi-person-2d-pose-estimation-using-part-affinity-fields.md
 - _posts/2018-09-01-a-neural-algorithm-of-artistic-style.md
@@ -66,6 +65,5 @@ pages:
 - _posts/2018-08-24-a-new-optimizer-using-particle-swarm-theory.md
 - _posts/2018-08-25-semantic-style-transfer-and-turning-two-bit-doodles-into-fine-artworks.md
 - _posts/2018-08-25-learning-iterative-image-reconstruction.md
-- _posts/2018-08-26-every-picture-tells-a-story-generating-sentences-from-images.md
 - _posts/2018-08-27-learning-phrase-representations-using-rnn-encoder-decoder-for-statistical-machine-translation.md
 - _posts/2018-08-26-simulation-of-optical-flow-and-fuzzy-based-obstacle-avoidance-system-for-mobile-robots.md
