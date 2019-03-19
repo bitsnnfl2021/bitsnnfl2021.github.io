@@ -8,6 +8,7 @@ author:
 categories:
 - EEG
 - BCI
+- CNN
 tags:
 - Medium
 date: 2019-03-19 10:09:57 +0000
