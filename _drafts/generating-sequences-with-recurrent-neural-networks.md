@@ -17,3 +17,7 @@ This paper shows how Long Short-term Memory recurrent neural networks can be use
 Link to Paper:[https://arxiv.org/pdf/1308.0850.pdf](https://arxiv.org/pdf/1308.0850.pdf "https://arxiv.org/pdf/1308.0850.pdf")
 
 ID: 123
+
+Tasks:
+
+1\.Do text prediction only using the LSTM  models mentioned in the paper, for both penn tree dataset and wikepedia data.
