@@ -40,6 +40,6 @@ fields:
   hidden: false
   default: true
 pages:
-- _posts/sequence-to-sequence-learning-with-neural-networks.md
+- _posts/2019-03-19-sequence-to-sequence-learning-with-neural-networks.md
 - _posts/2019-03-19-deep-compression.md
 - _posts/2019-02-20-u-net-convolutional-networks-for-biomedical-image-segmentation.md
