@@ -16,8 +16,10 @@ date: 2019-03-19 06:21:58 +0000
 
 **Paper Link:** [https://pdfs.semanticscholar.org/5b6c/9dda1d88095fa4aac1507348e498a1f2e863.pdf](https://pdfs.semanticscholar.org/5b6c/9dda1d88095fa4aac1507348e498a1f2e863.pdf)
 
-**Task:** 
+**Task:**
 
-1. Implement the network architecture(AlexNet or VGG - choose any one) explained in the paper in python using TensorFlow, PyTorch or Keras. 
+1. Implement the network architecture(AlexNet or VGG - choose any one) explained in the paper in python using TensorFlow, PyTorch or Keras.
 2. The above implementation uses ImageNet dataset but you are to test your implementation on the CIFAR-10 dataset.
 3. Compare the size of your model with that of general AlexNet/VGG-Net architecture.
+
+**ID :** 21
