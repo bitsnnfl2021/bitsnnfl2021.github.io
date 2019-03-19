@@ -18,3 +18,9 @@ Deep Neural Networks (DNNs) are powerful models that have achieved excellent per
 link to paper: [http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf "http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf")
 
 ID: 121
+
+Task:
+
+1\.Perform the mentioned LSTM  method in the two ways mentioned.
+
+2\.Compare the results on short and long sentences.
