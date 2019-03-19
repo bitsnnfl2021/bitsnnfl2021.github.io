@@ -41,5 +41,4 @@ fields:
   default: true
 pages:
 - _posts/2019-03-19-deep-compression.md
-- _posts/2018-08-25-semantic-style-transfer-and-turning-two-bit-doodles-into-fine-artworks.md
 - _posts/2019-02-20-u-net-convolutional-networks-for-biomedical-image-segmentation.md
