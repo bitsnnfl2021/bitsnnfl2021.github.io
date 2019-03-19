@@ -40,6 +40,7 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/deep-visual-semantic-alignments-for-generating-image-descriptions.md
 - _posts/deep-learning-with-convolutional-neural-networks-for-eeg-decoding-and-visualization.md
 - _posts/2019-03-19-sequence-to-sequence-learning-with-neural-networks.md
 - _posts/2019-03-19-deep-compression.md
