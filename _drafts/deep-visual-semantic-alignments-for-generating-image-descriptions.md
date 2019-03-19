@@ -19,3 +19,9 @@ We present a model that generates natural language descriptions of images and th
 Link to paper: [https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.pdf "https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.pdf")
 
 ID :122
+
+Tasks:
+
+1. Map every image and sentences into set of vectors.
+2. Use Multi modal-RNNs to generate descriptions.
+3. Do Image segment Alignment evaluation and generated descriptions: full frame evaluation only.
