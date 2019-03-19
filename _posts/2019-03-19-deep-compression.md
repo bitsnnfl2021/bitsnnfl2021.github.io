@@ -18,7 +18,7 @@ date: 2019-03-19 06:21:58 +0000
 
 **Task:**
 
-1. Implement the network architecture(AlexNet or VGG - choose any one) explained in the paper in python using TensorFlow, PyTorch or Keras.
+1. Implement the network architecture (AlexNet or VGG - choose any one) explained in the paper in python using TensorFlow, PyTorch or Keras.
 2. The above implementation uses ImageNet dataset but you are to test your implementation on the CIFAR-10 dataset.
 3. Compare the size of your model with that of general AlexNet/VGG-Net architecture.
 
