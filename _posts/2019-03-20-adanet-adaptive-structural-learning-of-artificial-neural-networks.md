@@ -15,3 +15,5 @@ date: 2019-03-20 07:31:52 +0000
 Link to Paper: [https://arxiv.org/abs/1607.01097](https://arxiv.org/abs/1607.01097 "Link to Paper")
 
 ID: 11
+
+Restricted Frameworks: Tensorflow
