@@ -5,8 +5,10 @@ title: Skip-Thought Vectors
 author:
   name: Kabir Ahuja
   email: f2015791@pilani.bits-pilani.ac.in
-categories: []
-tags: []
+categories:
+- NLP
+tags:
+- Medium
 date: 2019-03-20 10:48:13 +0000
 
 ---
