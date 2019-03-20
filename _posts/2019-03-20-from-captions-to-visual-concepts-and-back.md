@@ -19,3 +19,5 @@ date: 2019-03-20 08:30:15 +0000
 **Task:**
 
 1. Using the datasets mentioned in the paper (MS COCO and PASCAL) and the mentioned algorithm, reproduce the results of the research paper for all the given metrics.
+
+**ID:** 102
