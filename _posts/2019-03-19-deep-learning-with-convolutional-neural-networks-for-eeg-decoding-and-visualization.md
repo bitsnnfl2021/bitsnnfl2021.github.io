@@ -17,3 +17,5 @@ date: 2019-03-19 10:09:57 +0000
 Link to Paper: [https://arxiv.org/abs/1703.05051](https://arxiv.org/abs/1703.05051 "Link to Paper")
 
 ID: 13
+
+Restricted Frameworks: Torch
