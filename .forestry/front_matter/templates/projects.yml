@@ -40,6 +40,7 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/simple-convolutional-neural-network-on-image-classification.md
 - _posts/2019-03-19-generating-sequences-with-recurrent-neural-networks.md
 - _posts/2019-03-19-deep-learning-eeg-response-representation-for-brain-computer-interfaces.md
 - _posts/2019-03-19-training-recurrent-networks-to-generate-hypotheses-about-how-the-brain-solves-hard-navigation-problems.md
