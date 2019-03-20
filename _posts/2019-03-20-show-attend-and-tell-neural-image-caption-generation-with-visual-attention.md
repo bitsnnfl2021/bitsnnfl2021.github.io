@@ -18,8 +18,14 @@ date: 2019-03-20 10:39:35 +0000
 
 **Guidelines**:
 
-1\. Implement the full model architecture as defined in section 3 of the paper. (edited) 
+1\. Implement the full model architecture as defined in section 3 of the paper. (edited)
 
 2\. Implement the attention mechanism as described in section 3, you can skip the attention methods described in section 4.
 
 3\. Use Flickr 8k dataset or Caltech Bird dataset (http://www.vision.caltech.edu/visipedia/CUB-200-2011.html) instead of coco since these are much smaller data sets and it will be easier to train on them.
+
+4\. For sanity check first try to train your model on 50 or 100 images only and see the if the model is able to overfit on those images. Report the results you see. (edited)
+
+5\. For CNN encoder try multiple pretrained imagenet models like VGGNet, InceptionNet, ResNet, MobileNet etc and compare the results (Use at least 2 different networks). We recommend using MobileNet, NasnetMobile if you do not have good computing power.
+
+6\. Train the model both with and without attention and compare the results.
