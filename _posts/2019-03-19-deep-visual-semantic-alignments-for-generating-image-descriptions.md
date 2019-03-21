@@ -10,7 +10,7 @@ categories:
 - RNNs
 - CNNs
 tags:
-- hard
+- Hard
 date: 2019-03-19 10:10:19 +0000
 
 ---
