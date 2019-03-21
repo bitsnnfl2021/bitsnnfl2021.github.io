@@ -41,7 +41,6 @@ fields:
   default: true
 pages:
 - _posts/2019-03-21-just-for-fun.md
-- _posts/fireﬂy-algorithm-for-multimodal-optimization.md
 - _posts/fast-scene-understanding-for-autonomous-driving.md
 - _posts/ssd-single-shot-multibox-detector.md
 - _posts/wespe-weakly-supervised-photo-enhancer-for-digital-cameras.md
