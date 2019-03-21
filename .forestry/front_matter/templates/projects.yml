@@ -40,6 +40,7 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/fireﬂy-algorithm-for-multimodal-optimization.md
 - _posts/fast-scene-understanding-for-autonomous-driving.md
 - _posts/fireﬂy-algorithms-for-multimodal-optimization.md
 - _posts/ssd-single-shot-multibox-detector.md
