@@ -7,7 +7,8 @@ author:
   email: f2015606@pilani.bits-pilani.ac.in
 categories:
 - CNN
-tags: []
+tags:
+- Hard
 date: 2019-03-21 13:27:45 +0000
 
 ---
