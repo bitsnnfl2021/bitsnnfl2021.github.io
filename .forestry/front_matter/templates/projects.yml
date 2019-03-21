@@ -40,7 +40,6 @@ fields:
   hidden: false
   default: true
 pages:
-- _posts/2019-03-20-segnet-a-deep-convolutional-encoder-decoder-architecture-for-image-segmentation.md
 - _posts/2019-03-20-skip-thought-vectors.md
 - _posts/2019-03-20-human-level-control-through-deep-reinforcement-learning.md
 - _posts/2019-03-20-convolutional-neural-networks-for-sentence-classification.md
