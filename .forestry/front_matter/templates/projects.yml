@@ -40,6 +40,7 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/image-super-resolution-using-deep-convolutional-networks.md
 - _posts/draw-a-recurrent-neural-network-for-image-generation.md
 - _posts/2019-03-20-skip-thought-vectors.md
 - _posts/2019-03-20-human-level-control-through-deep-reinforcement-learning.md
