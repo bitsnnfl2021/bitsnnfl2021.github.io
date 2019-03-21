@@ -40,6 +40,7 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/wespe-weakly-supervised-photo-enhancer-for-digital-cameras.md
 - _posts/squeezenet-alexnet-level-accuracy-with-50x-fewer-parameters-and-0-5mb-model-size.md
 - _posts/image-super-resolution-using-deep-convolutional-networks.md
 - _posts/draw-a-recurrent-neural-network-for-image-generation.md
