@@ -3,8 +3,8 @@ layout: post
 share: true
 title: Deep Visual-Semantic Alignments for Generating Image Descriptions
 author:
-  name: Andrej Karpathy
-  email: karpathy@cs.stanford.edu
+  name: Charu
+  email: f2015825@pilani.bits-pilani.ac.in
 categories:
 - Image description
 - RNNs
