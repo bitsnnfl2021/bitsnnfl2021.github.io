@@ -20,6 +20,6 @@ date: 2019-03-21 20:21:09 +0000
 **Task:**
 
 1. The paper has been implemented using Caffe. Your job is to implement the core model using Keras, Tensorflow or PyTorch on any one of the above datasets.
-2. Compare it with state of the art-models
+2. Compare your results with the state of the art-models.
 
 **ID :** 23

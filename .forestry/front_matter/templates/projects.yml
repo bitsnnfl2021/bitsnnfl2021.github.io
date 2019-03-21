@@ -40,8 +40,8 @@ fields:
   hidden: false
   default: true
 pages:
-- _posts/fireﬂy-algorithms-for-multimodal-optimization-final.md
 - _posts/ssd-single-shot-multibox-detector.md
+- _posts/fireﬂy-algorithms-for-multimodal-optimization-final.md
 - _posts/wespe-weakly-supervised-photo-enhancer-for-digital-cameras.md
 - _posts/squeezenet-alexnet-level-accuracy-with-50x-fewer-parameters-and-0-5mb-model-size.md
 - _posts/image-super-resolution-using-deep-convolutional-networks.md
