@@ -42,7 +42,6 @@ fields:
 pages:
 - _posts/fireﬂy-algorithm-for-multimodal-optimization.md
 - _posts/fast-scene-understanding-for-autonomous-driving.md
-- _posts/fireﬂy-algorithms-for-multimodal-optimization.md
 - _posts/ssd-single-shot-multibox-detector.md
 - _posts/wespe-weakly-supervised-photo-enhancer-for-digital-cameras.md
 - _posts/squeezenet-alexnet-level-accuracy-with-50x-fewer-parameters-and-0-5mb-model-size.md
