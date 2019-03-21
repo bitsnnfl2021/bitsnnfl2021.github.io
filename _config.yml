@@ -1,4 +1,4 @@
-theme: jekyll-theme-so-simple
+remote_theme: mmistakes/so-simple-theme
 locale: en-US
 title: "Neural Networks & Fuzzy Logic"
 description: "Projects Portal."
