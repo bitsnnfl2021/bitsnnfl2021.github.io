@@ -5,8 +5,11 @@ title: 'SSD: Single Shot MultiBox Detector'
 author:
   name: Aditya Rana
   email: f2016182@pilani.bits-pilani.ac.in
-categories: []
-tags: []
+categories:
+- Object Detection
+- Computer Vision
+tags:
+- Medium
 date: 2019-03-21 20:21:09 +0000
 
 ---
