@@ -21,6 +21,8 @@ This method has a wide range of applications. For example, we can use it to crea
 
 **Paper:** [https://arxiv.org/pdf/1711.11585](https://arxiv.org/pdf/1711.11585 "https://arxiv.org/pdf/1711.11585")
 
+**Paper ID: 71**
+
 **_Expected Deliverables:_**
 
 1. Develop a proper understanding of adversarial loss and why is it better?
