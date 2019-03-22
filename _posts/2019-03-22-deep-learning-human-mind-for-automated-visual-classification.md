@@ -17,9 +17,11 @@ date: 2019-03-22 02:23:36 +0000
 
 **Paper Link:** [http://openaccess.thecvf.com/content_cvpr_2017/papers/Spampinato_Deep_Learning_Human_CVPR_2017_paper.pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Spampinato_Deep_Learning_Human_CVPR_2017_paper.pdf "http://openaccess.thecvf.com/content_cvpr_2017/papers/Spampinato_Deep_Learning_Human_CVPR_2017_paper.pdf")
 
-**Tasks:** 
+**Tasks:**
 
 1. Acquire the dataset from the sources mentioned by the authors in the paper.
-2. Implement the RNN and autoencoder network to classify images into the 40 ImageNet classes 
+2. Implement the RNN and autoencoder network to classify images into the 40 ImageNet classes
 3. Bonus: Also implement the transfer of learnt categories to the CNN as mentioned in the paper.
-4. Strictly DO NOT use any pre-exisiting implementations of this paper. Use a different framework. 
+4. Strictly DO NOT use any pre-exisiting implementations of this paper. Use a different framework.
+
+**ID:** 124
