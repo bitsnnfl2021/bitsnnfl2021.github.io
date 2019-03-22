@@ -6,7 +6,8 @@ author:
   name: Achal Agarwal
   email: f2015436@pilani.bits-pilani.ac.in
 categories:
-- ANN
+- Artificial Neural Network
+- Milestone
 tags:
 - Medium
 date: 2019-03-20 07:31:52 +0000
