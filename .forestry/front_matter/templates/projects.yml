@@ -41,7 +41,7 @@ fields:
   default: true
 pages:
 - _posts/2019-03-22-dsod-learning-deeply-supervised-object-detectors-from-scratch.md
-- _posts/2019-03-22-a-reduction-of-imitation-learning-and-structured-prediction-to-no-regret-online-learning.md
+- _posts/a-reduction-of-imitation-learning-and-structured-prediction-to-no-regret-online-learning.md
 - _posts/2019-03-22-evolution-strategies-as-a-scalable-alternative-to-reinforcement-learning.md
 - _posts/2019-03-22-high-resolution-image-synthesis-and-semantic-manipulation-with-conditional-gans.md
 - _posts/2019-03-22-unpaired-image-to-image-translation-using-cycle-consistent-adversarial-networks.md
