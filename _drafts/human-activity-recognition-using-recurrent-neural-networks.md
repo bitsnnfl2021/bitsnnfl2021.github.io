@@ -9,6 +9,7 @@ categories:
 - Sensors
 - Human Action Recognition
 - Ubiquitous Computing
+- RNN
 tags:
 - RNNs
 - Sensors
