@@ -24,7 +24,6 @@ date: 2019-03-22 00:30:49 +0000
 1. Implement RNN and CNN networks as mentioned in Figure 1 of section II of the paper.
 2. Implement the autoencoder using the two formulae mentioned on page 4 of the paper.
 3. Use any classifier you like as the final layer of the network to classify the EEG streams.
+4. Preferably use Torch for implementing the networks.
 
-**ID : 111**
-
-  
+**ID :** 111
