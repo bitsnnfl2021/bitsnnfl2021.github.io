@@ -40,7 +40,7 @@ fields:
   hidden: false
   default: true
 pages:
-- _posts/batch-renormalization-towards-reducing-minibatch-dependence-in-batch-normalized-models.md
+- _posts/2019-03-22-batch-renormalization-towards-reducing-minibatch-dependence-in-batch-normalized-models.md
 - _posts/2019-03-22-pyramid-scene-parsing-network-pspnet.md
 - _posts/human-activity-recognition-using-recurrent-neural-networks.md
 - _posts/dsod-learning-deeply-supervised-object-detectors-from-scratch.md
