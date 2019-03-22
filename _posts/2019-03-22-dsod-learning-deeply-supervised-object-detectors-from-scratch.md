@@ -14,7 +14,7 @@ tags: []
 date: 2019-03-22 16:28:14 +0000
 
 ---
-Deeply Supervised Object Detector (DSOD) is a framework that can learn object detectors from **_scratch_**. State-of-the-art object objectors rely heavily on the off the-shelf networks pre-trained on large-scale classification datasets like ImageNet, which incurs learning bias due to the difference on both the loss functions and the category distributions between classification and detection tasks.
+**Short Introduction:** Deeply Supervised Object Detector (DSOD) is a framework that can learn object detectors from **_scratch_**. State-of-the-art object objectors rely heavily on the off the-shelf networks pre-trained on large-scale classification datasets like ImageNet, which incurs learning bias due to the difference on both the loss functions and the category distributions between classification and detection tasks.
 
 **I recommend going through the paper once to get a proper grasp of the subject.**
 
