@@ -20,6 +20,8 @@ date: 2019-03-22 16:28:14 +0000
 
 **Paper :** [https://arxiv.org/pdf/1708.01241.pdf](https://arxiv.org/pdf/1708.01241.pdf "https://arxiv.org/pdf/1708.01241.pdf")
 
+**Paper ID : 73**
+
 **_Expected Deliverables:_**
 
 1. I recommend implementing the paper in Keras.(_Please don't implement it in Caffe_)
