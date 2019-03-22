@@ -25,5 +25,5 @@ date: 2019-03-22 17:23:23 +0000
 1. The most important part of the whole architecture is the **_Pyramid pooling module,_** implement the same with utmost care, your code should be modular enough for you to explain and others to understand.
 2. Implement PSPNet with any two different settings as mentioned in the paper (_refer the table on page 5_).
 3. **_You may freeze the weights of the backbone if you have limited computational power._**
-4. Dataset : **_tiny MS-COCO (____Remember this is not the dataset that has been used in the paper**)**_
+4. Dataset : **_tiny MS-COCO (Remember this is not the dataset that has been used in the paper_**_)_
 5. Feel free to contact me in case of any doubt.
