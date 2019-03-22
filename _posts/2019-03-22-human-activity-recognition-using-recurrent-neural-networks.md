@@ -11,8 +11,6 @@ categories:
 - Ubiquitous Computing
 - RNN
 tags:
-- RNNs
-- Sensors
 - Easy
 date: 2019-03-22 17:06:43 +0000
 
