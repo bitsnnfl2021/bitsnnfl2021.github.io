@@ -12,6 +12,8 @@ tags:
 date: 2019-03-20 07:31:52 +0000
 
 ---
+Abstract: We present new algorithms for adaptively learning artificial neural networks. Our algorithms (ADANET) adaptively learn both the structure of the network and its weights. They are based on a solid theoretical analysis, including data-dependent generalization guarantees that we prove and discuss in detail. We report the results of large-scale experiments with one of our algorithms on several binary classification tasks extracted from the CIFAR-10 dataset. The results demonstrate that our algorithm can automatically learn network structures with very competitive performance accuracies when compared with those achieved for neural networks found by standard approaches.
+
 Link to Paper: [https://arxiv.org/abs/1607.01097](https://arxiv.org/abs/1607.01097 "Link to Paper")
 
 ID: 11
