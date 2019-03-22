@@ -19,6 +19,8 @@ date: 2019-03-22 17:06:43 +0000
 
 **Paper:** [https://arxiv.org/pdf/1804.07144.pdf](https://arxiv.org/pdf/1804.07144.pdf "https://arxiv.org/pdf/1804.07144.pdf")
 
+**Paper ID: 72**
+
 **_Expected Deliverables:_**
 
 1. The paper is easy to implement as the network is very simple.
