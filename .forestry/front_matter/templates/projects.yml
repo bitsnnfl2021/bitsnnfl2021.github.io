@@ -40,6 +40,7 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/pyramid-scene-parsing-network-pspnet.md
 - _posts/human-activity-recognition-using-recurrent-neural-networks.md
 - _posts/dsod-learning-deeply-supervised-object-detectors-from-scratch.md
 - _posts/a-reduction-of-imitation-learning-and-structured-prediction-to-no-regret-online-learning.md
