@@ -19,11 +19,13 @@ tags:
 date: 2019-03-22 16:21:10 +0000
 
 ---
-The paper presents a method for synthesising high resolution photo-realistic images from semantic label maps using conditional generative adversarial networks (conditional GANs). This is a challenging paper but worth doing as it promises a exponential learning curve.
+**Short Introduction:** The paper presents a method for synthesising high resolution photo-realistic images from semantic label maps using conditional generative adversarial networks (conditional GANs). This is a challenging paper but worth doing as it promises a exponential learning curve.
 
 This method has a wide range of applications. For example, we can use it to create synthetic training data for training visual recognition algorithms, since it is much easier to create semantic labels for desired scenarios than to generate training images. Using semantic segmentation methods, we can transform images into a semantic label domain, edit the objects in the label domain, and then transform them back to the image domain.
 
-Expected Deliverables:
+**Paper:** [https://arxiv.org/pdf/1711.11585](https://arxiv.org/pdf/1711.11585 "https://arxiv.org/pdf/1711.11585")
+
+**_Expected Deliverables:_**
 
 1. Develop a proper understanding of adversarial loss and why is it better?
 2. You can implement the paper using only the Semantic maps and not the instance map _(refer paper for details)_, if curious enough you can implement that too.
