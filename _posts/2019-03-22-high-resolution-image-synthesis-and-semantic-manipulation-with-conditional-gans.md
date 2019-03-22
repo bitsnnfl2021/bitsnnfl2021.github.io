@@ -6,7 +6,10 @@ title: High-Resolution Image Synthesis and Semantic Manipulation with Conditiona
 author:
   name: Rishav
   email: f2016108@pilani.bits-pilani.ac.in
-categories: []
+categories:
+- GANs
+- Computer Vision
+- CNN
 tags:
 - GANs
 - " Conputer Vision"
