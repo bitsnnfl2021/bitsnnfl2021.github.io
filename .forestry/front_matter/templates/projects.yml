@@ -40,6 +40,7 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/deep-photo-style-transfer.md
 - _posts/text-classification-based-on-deep-belief-network-and-softmax-regression.md
 - _posts/stargan-unified-generative-adversarial-networks-for-multi-domain-image-to-image-translation.md
 - _posts/character-level-convolutional-networks-for-text-classification.md
