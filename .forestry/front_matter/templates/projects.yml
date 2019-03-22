@@ -40,6 +40,7 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/2019-03-19-training-recurrent-networks-to-generate-hypotheses-about-how-the-brain-solves-hard-navigation-problems.md
 - _posts/2019-03-19-deep-learning-eeg-response-representation-for-brain-computer-interfaces.md
 - _posts/deep-learning-human-mind-for-automated-visual-classification.md
 - _posts/training-a-feedback-loop-for-hand-pose-estimation.md
@@ -49,7 +50,6 @@ pages:
 - _posts/2019-03-19-sequence-to-sequence-learning-with-neural-networks.md
 - _posts/2019-03-19-deep-learning-with-convolutional-neural-networks-for-eeg-decoding-and-visualization.md
 - _posts/2019-03-19-deep-visual-semantic-alignments-for-generating-image-descriptions.md
-- _posts/2019-03-19-training-recurrent-networks-to-generate-hypotheses-about-how-the-brain-solves-hard-navigation-problems.md
 - _posts/2019-03-19-generating-sequences-with-recurrent-neural-networks.md
 - _posts/2019-03-20-simple-convolutional-neural-network-on-image-classification.md
 - _posts/2019-03-20-from-captions-to-visual-concepts-and-back.md
