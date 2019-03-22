@@ -40,6 +40,7 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/end-to-end-multimodal-emotion-recognition-using-deep-neural-networks.md
 - _posts/2019-03-22-pyramid-scene-parsing-network-pspnet.md
 - _posts/human-activity-recognition-using-recurrent-neural-networks.md
 - _posts/dsod-learning-deeply-supervised-object-detectors-from-scratch.md
