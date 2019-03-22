@@ -40,8 +40,8 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/deep-photo-style-transfer.md
 - _posts/2019-03-22-deep-voice-real-time-neural-text-to-speech.md
-- _posts/2019-03-22-deep-photo-style-transfer.md
 - _posts/2019-03-22-character-level-convolutional-networks-for-text-classification.md
 - _posts/towards-perspective-free-object-counting-with-deep-learning.md
 - _posts/unpaired-image-to-image-translation-using-cycle-consistent-adversarial-networks.md
