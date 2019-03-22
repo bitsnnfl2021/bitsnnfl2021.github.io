@@ -28,6 +28,6 @@ date: 2019-03-22 16:28:14 +0000
 2. The network structure of DSOD can be divided into two parts: the backbone sub-network for feature extraction and the front-end sub-network for prediction over multi-scale response maps.
 3. The backbone and front-end sub-net must be implemented with utmost care and you should develop proper understanding of all functions and methods that you will use for this purpose.
 4. The paper isn't very difficult but I recommend reading it thoroughly to understand the principles. Don't start coding without properly understanding the design principles.
-5. Try out different variants of DenseNet architecture as the backbone for **_DSOD (____This is for bonus! , should not be difficult anyways**)**_
-6. **Dataset :** Use **_tiny_** **_MS-COCO. _**
+5. Try out different variants of DenseNet architecture as the backbone for **_DSOD (This is for bonus! , should not be difficult anyways_**_)_
+6. **Dataset :** Use **_tiny_** **_MS-COCO_**
 7. Feel free to contact me incase of any doubt.
