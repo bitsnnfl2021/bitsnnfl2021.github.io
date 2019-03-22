@@ -8,6 +8,8 @@ author:
 categories:
 - Emotion Recognition
 - Multimodal Learning
+- CNN
+- RNN
 tags:
 - Medium
 date: 2019-03-22 17:42:16 +0000
@@ -30,3 +32,4 @@ date: 2019-03-22 17:42:16 +0000
 4. **Dataset: RECOLA Dataset.**
 5. Report the _confusion matrix._
 6. Test on atleast 2 real-life samples not in the dataset.(_Should be easy_ :-) )
+7. Feel free to contact me incase of any doubt.
