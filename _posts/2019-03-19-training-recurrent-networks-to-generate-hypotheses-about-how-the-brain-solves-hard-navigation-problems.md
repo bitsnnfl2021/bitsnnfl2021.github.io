@@ -23,6 +23,8 @@ date: 2019-03-19 10:12:06 +0000
 
 **Restrictions:** None
 
+**Advice:** Designing the environment might not be trivial, keep it as simple as possible.
+
 **Dataset:** Self-Developed Environment
 
 **Requirements**:
