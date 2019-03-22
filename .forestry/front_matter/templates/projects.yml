@@ -40,6 +40,7 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/automatic-text-scoring-using-neural-networks.md
 - _posts/2019-03-22-converting-your-thoughts-to-texts-enabling-brain-typing-via-deep-feature-learning-of-eeg-signals.md
 - _posts/2019-03-19-deep-compression.md
 - _posts/2019-03-19-sequence-to-sequence-learning-with-neural-networks.md
