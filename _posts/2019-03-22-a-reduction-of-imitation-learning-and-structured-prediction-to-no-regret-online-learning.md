@@ -17,9 +17,11 @@ date: 2019-03-22 16:46:04 +0000
 
 **Paper Link:** [https://www.ri.cmu.edu/pub_files/2011/4/Ross-AISTATS11-NoRegret.pdf](https://www.ri.cmu.edu/pub_files/2011/4/Ross-AISTATS11-NoRegret.pdf "https://www.ri.cmu.edu/pub_files/2011/4/Ross-AISTATS11-NoRegret.pdf")
 
+**Paper ID: 67**
+
 **Useful Links:** You can use the expert policies given here [https://github.com/berkeleydeeprlcourse/homework/tree/master/hw1](https://github.com/berkeleydeeprlcourse/homework/tree/master/hw1 "https://github.com/berkeleydeeprlcourse/homework/tree/master/hw1") to run your experiments. The expert policies for the experiments in the paper are not made public, hence you should use the expert policies from the link.
 
-**Guidelines:** 
+**Guidelines:**
 
 1. Implement the Dataset Aggregation algorithm (DAGGER) as given in section 3 to train policies on atleast 2 of the experts from the useful links.
 2. After you have trained your policies using DAGGER demonstrate how these policies perform on these environments by comparing the total reward achieved by your policy with the total reward by the expert policy.
