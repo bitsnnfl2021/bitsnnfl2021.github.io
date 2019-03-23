@@ -7,25 +7,20 @@ paginate: true
 entries_layout: list
 
 ---
-Following link has the final allotment and date wise schedule. Timings of presentations would be from 5-7 in the evenings on working days and on Sunday it'll 10-1 and 4-6 (tentatively).
+As a part of your evaluation for the course Neural Networks and Fuzzy Logic, you are required to implement a research paper from scratch related to the topics discussed in the lectures. This portal contains the collection of papers compiled by the teaching assistants for the same.
 
-[Final Schedule](https://docs.google.com/spreadsheets/d/1Ke4qEM-o0X7936f5-RHe0crST6H3Nu8MO8LQmvBznSE/edit?usp=sharing)
+Details:
 
-**Note:** The paper for the second, implementation based assignment will be different from the first, theoretical assignment.
+* The projects are categorized according to the concepts required to implement them and tagged according to the difficulty level.
+* In case of any doubts, you can contact the concerned TA for a particular paper whose details are mentioned on the project page.
+* The project page also contains the guidelines that you must strictly follow while implementing the paper.
 
-In case of any queries, feel free to contact `bitsnnfl@gmail.com`
+Allotment Procedure:
 
-**GUIDELINES FOR THE PRESENTATION:**
+* You need to work in groups of upto 3 people for the project.
+* A google form will be floated on Tuesday at 8:30 PM (26th March, 2019), on which you will have to mention the name of your group members and the choice of paper for implementation. (Only one of the members in the group is required to fill the form)
+* Each paper will be allotted to only ONE group and the allotment will be strictly on first come first serve basis. Consequently, it will be beneficial if you shortlist multiple papers from the list.
+* On the form, you will be required to fill in upto 3 preferences for the paper you wish to implement.
+* If you want to implement a paper which is not available in the list, you can suggest a paper in the designated space on the google form. Note that if you suggest a paper on your own, it will automatically be considered your highest preference.
 
-1. Prepare 6-7 slides for the presentation. Do not make more than 7 slides.
-   1. 1 Slide : Paper Title, Paper Authors, Paper ID, Student Name, Student ID.
-   2. 1 Slide : Introduction.
-   3. 2-3 Slides : Hypothesis, Methodology and Implementation
-   4. 1-2 Slides : Result /Conclusion /Discussions
-2. Presentation should be maximum 5 minutes long.
-3. A written quiz of 10 questions based on the paper will be given. Questions will either be one word or one sentence.
-   1. Values and results will not be asked.
-   2. Details about past research work, not mentioned in the paper will not be asked.
-   3. Basic understanding and implementation will be focused upon while asking the questions.
-4. The presentation should be in PDF, PPT or PPTX format only.
-5. The presentation file needs to be uploaded by 12th September midnight. The link to the upload form will be posted by 10th September midnight.
+Changes, if any, to the procedure will be communicated to you before Tuesday.
