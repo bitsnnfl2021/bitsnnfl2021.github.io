@@ -40,6 +40,7 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/diversity-is-all-you-need-learning-skills-without-a-reward-function-1.md
 - _posts/dsod-learning-deeply-supervised-object-detectors-from-scratch.md
 - _posts/diversity-is-all-you-need-learning-skills-without-a-reward-function.md
 - _posts/2019-03-23-single-trial-p300-classification-using-convolutional-lstm.md
