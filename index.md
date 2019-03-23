@@ -9,13 +9,13 @@ entries_layout: list
 ---
 As a part of your evaluation for the course Neural Networks and Fuzzy Logic, you are required to implement a research paper from scratch related to the topics discussed in the lectures. This portal contains the collection of papers compiled by the teaching assistants for the same.
 
-Details:
+**Details:**
 
 * The projects are categorized according to the concepts required to implement them and tagged according to the difficulty level.
 * In case of any doubts, you can contact the concerned TA for a particular paper whose details are mentioned on the project page.
 * The project page also contains the guidelines that you must strictly follow while implementing the paper.
 
-Allotment Procedure:
+**Allotment Procedure:**
 
 * You need to work in groups of upto 3 people for the project.
 * A google form will be floated on Tuesday at 8:30 PM (26th March, 2019), on which you will have to mention the name of your group members and the choice of paper for implementation. (Only one of the members in the group is required to fill the form)
