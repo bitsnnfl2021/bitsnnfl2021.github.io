@@ -23,4 +23,6 @@ As a part of your evaluation for the course Neural Networks and Fuzzy Logic, you
 * On the form, you will be required to fill in up to 3 preferences for the paper you wish to implement.
 * If you want to implement a paper which is not available in the list, you can suggest a paper in the designated space on the google form. Note that if you suggest a paper on your own, it will automatically be considered your highest preference.
 
+**Note:** If you suggest a paper on your own, it will first be verified by us for code availability, good research and ease of implementation.
+
 Changes, if any, to the procedure will be communicated to you before Tuesday.
