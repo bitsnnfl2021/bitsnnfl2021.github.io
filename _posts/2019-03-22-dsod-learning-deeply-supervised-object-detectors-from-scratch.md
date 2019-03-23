@@ -10,7 +10,8 @@ categories:
 - Object Detection
 - CNNs
 - Difficult
-tags: []
+tags:
+- Medium
 date: 2019-03-22 16:28:14 +0000
 
 ---
