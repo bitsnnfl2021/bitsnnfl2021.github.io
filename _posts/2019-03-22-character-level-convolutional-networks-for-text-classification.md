@@ -16,4 +16,6 @@ date: 2019-03-22 15:54:02 +0000
 
 **Paper Link:** [http://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classification.pdf](http://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classification.pdf "http://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classification.pdf")
 
+**Paper ID: 51**
+
 **Guidelines:**  Implement the CNN based model, also compare it with traditional NLP approaches like bag of words and tf-idf.
