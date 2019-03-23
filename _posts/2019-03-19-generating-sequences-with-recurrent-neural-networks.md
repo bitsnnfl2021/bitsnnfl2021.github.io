@@ -3,8 +3,8 @@ layout: post
 share: true
 title: Generating sequences with recurrent neural networks
 author:
-  name: Alex Graves
-  email: graves@cs.toronto.edu
+  name: Charu Jain
+  email: f2015825@pilani.bits-pilani.ac.in
 categories:
 - RNNs
 tags:
