@@ -30,5 +30,5 @@ date: 2019-03-22 18:14:17 +0000
 3. No need to carry out the rest comparisons.
 4. **_You may freeze the large layers if you have limited computational capacity._**
 5. Report the _confusion matrix ._
-6. Dataset : **RECOLA (Same as the paper**)
-7. Feel free to contact me in-case of any doubts.
+6. Dataset : **AFEW (_Different from the paper_** ,**_please contact me to get the dataset)_**
+7. **Feel** free to contact me in-case of any doubts.
