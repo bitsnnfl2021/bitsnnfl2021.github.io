@@ -40,7 +40,7 @@ fields:
   hidden: false
   default: true
 pages:
-- _posts/everybody-dance-now.md
+- _posts/2019-03-23-everybody-dance-now.md
 - _posts/2019-03-19-deep-visual-semantic-alignments-for-generating-image-descriptions.md
 - _posts/2019-03-19-sequence-to-sequence-learning-with-neural-networks.md
 - _posts/2019-03-19-generating-sequences-with-recurrent-neural-networks.md
