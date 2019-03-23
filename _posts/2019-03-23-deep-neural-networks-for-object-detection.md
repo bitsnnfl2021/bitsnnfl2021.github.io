@@ -18,3 +18,5 @@ date: 2019-03-23 09:53:33 +0000
 **Paper Link:** [http://papers.nips.cc/paper/5207-deep-neural-networks-for-object-detection.pdf](http://papers.nips.cc/paper/5207-deep-neural-networks-for-object-detection.pdf "http://papers.nips.cc/paper/5207-deep-neural-networks-for-object-detection.pdf")
 
 **ID:** 81
+
+**Guidelines:** Coming Soon.
