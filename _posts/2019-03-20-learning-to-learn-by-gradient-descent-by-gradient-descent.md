@@ -14,9 +14,11 @@ date: 2019-03-20 10:29:01 +0000
 
 **Paper Link:** [https://arxiv.org/abs/1606.04474](https://arxiv.org/abs/1606.04474 "https://arxiv.org/abs/1606.04474")
 
+**Paper ID: 61**
+
 **Guidelines**:
 
-1.  Implement the proposed algorithm (coordinate wise lstm) on the quadratic functions and a small fully connected neural network on MNIST and CIFAR10
+1. Implement the proposed algorithm (coordinate wise lstm) on the quadratic functions and a small fully connected neural network on MNIST and CIFAR10
 2. Compare the results of the algorithm with other optimization methods like SGD, Adam, RMS Prop as done in the paper.
 3. Use the gradient preprocessing technique mentioned in the appendix and compare it with the variant which does not use that preprocessing scheme.
 4. Implement either Global averaging cells method or NTM BFGS or NTM L-BFGS on atleast one of the problems mentioned in first point.
