@@ -3,7 +3,7 @@ layout: post
 share: true
 title: Deep Visual-Semantic Alignments for Generating Image Descriptions
 author:
-  name: Charu
+  name: Charu Jain
   email: f2015825@pilani.bits-pilani.ac.in
 categories:
 - Image description
