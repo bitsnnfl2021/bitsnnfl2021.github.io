@@ -3,8 +3,8 @@ layout: post
 share: true
 title: Deep Neural Networks for Object Detection
 author:
-  name: Christian Szegedy
-  email: szegedy@google.com
+  name: Sanskriti Sharma
+  email: f2015553@pilani.bits-pilani.ac.in
 categories:
 - Computer Vision
 - Object Detection

@@ -40,8 +40,8 @@ fields:
   hidden: false
   default: true
 pages:
-- _posts/2019-03-23-ask-me-anything-dynamic-memory-networks-for-natural-language-processing.md
 - _posts/2019-03-23-deep-neural-networks-for-object-detection.md
+- _posts/2019-03-23-ask-me-anything-dynamic-memory-networks-for-natural-language-processing.md
 - _posts/2019-03-23-partial-convolution-based-padding.md
 - _posts/2019-03-23-image-to-image-translation-with-conditional-adversarial-networks.md
 - _posts/2019-03-22-pyramid-scene-parsing-network-pspnet.md
