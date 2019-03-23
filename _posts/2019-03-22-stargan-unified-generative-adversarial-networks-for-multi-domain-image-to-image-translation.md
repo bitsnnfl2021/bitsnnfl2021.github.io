@@ -17,4 +17,6 @@ date: 2019-03-22 15:56:44 +0000
 
 **Paper Link:** [http://openaccess.thecvf.com/content_cvpr_2018/papers/Choi_StarGAN_Unified_Generative_CVPR_2018_paper.pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Choi_StarGAN_Unified_Generative_CVPR_2018_paper.pdf "http://openaccess.thecvf.com/content_cvpr_2018/papers/Choi_StarGAN_Unified_Generative_CVPR_2018_paper.pdf")
 
+**Paper ID: 52**
+
 **Guidelines:** Implement the GAN model suggested by the paper no need to compare against other baseline models
