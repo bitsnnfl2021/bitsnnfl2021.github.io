@@ -6,7 +6,7 @@ author:
   name: Akash Sonth
   email: f2015265@pilani.bits-pilani.ac.in
 categories:
-- Computer Vision
+- CNN
 tags: []
 date: 2019-03-22 16:11:43 +0000
 
