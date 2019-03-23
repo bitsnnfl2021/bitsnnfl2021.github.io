@@ -3,8 +3,8 @@ layout: post
 share: true
 title: Sequence to Sequence Learning with Neural Networks
 author:
-  name: Ilya Sutskever
-  email: ilyasu@google.com
+  name: Charu Jain
+  email: f2015825@pilani.bits-pilani.ac.in
 categories:
 - RNN
 - LSTM
