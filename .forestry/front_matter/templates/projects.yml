@@ -40,7 +40,7 @@ fields:
   hidden: false
   default: true
 pages:
-- _posts/single-trial-p300-classification-using-convolutional-lstm.md
+- _posts/2019-03-23-single-trial-p300-classification-using-convolutional-lstm.md
 - _posts/2019-03-23-deep-neural-networks-for-object-detection.md
 - _posts/2019-03-23-ask-me-anything-dynamic-memory-networks-for-natural-language-processing.md
 - _posts/2019-03-23-partial-convolution-based-padding.md
