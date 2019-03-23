@@ -40,7 +40,7 @@ fields:
   hidden: false
   default: true
 pages:
-- _posts/partial-convolution-based-padding.md
+- _posts/2019-03-23-partial-convolution-based-padding.md
 - _posts/2019-03-23-image-to-image-translation-with-conditional-adversarial-networks.md
 - _posts/2019-03-22-pyramid-scene-parsing-network-pspnet.md
 - _posts/2019-03-22-end-to-end-multimodal-emotion-recognition-using-deep-neural-networks.md
