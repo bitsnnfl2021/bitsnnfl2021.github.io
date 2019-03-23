@@ -16,7 +16,9 @@ date: 2019-03-20 10:46:34 +0000
 
 **Paper Link:** [https://www.nature.com/articles/nature14236](https://www.nature.com/articles/nature14236 "https://www.nature.com/articles/nature14236")
 
-**Guidelines:** 
+**Paper ID: 63**
+
+**Guidelines:**
 
 1\. Train DQN algorithm on Breakout and Pong
 
