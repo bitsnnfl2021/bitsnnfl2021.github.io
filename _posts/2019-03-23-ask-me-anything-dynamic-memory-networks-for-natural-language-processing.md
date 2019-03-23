@@ -3,8 +3,8 @@ layout: post
 share: true
 title: 'Ask Me Anything: Dynamic Memory Networks for Natural Language Processing'
 author:
-  name: 'Ankit Kumar '
-  email: ankit@metamind.io
+  name: Sanskriti Sharma
+  email: f2015553@pilani.bits-pilani.ac.in
 categories:
 - NLP
 - QA
