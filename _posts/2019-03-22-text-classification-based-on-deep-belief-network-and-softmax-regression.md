@@ -16,4 +16,6 @@ date: 2019-03-22 15:58:45 +0000
 
 **Paper Link:** [https://link.springer.com/content/pdf/10.1007%2Fs00521-016-2401-x.pdf](https://link.springer.com/content/pdf/10.1007%2Fs00521-016-2401-x.pdf "https://link.springer.com/content/pdf/10.1007%2Fs00521-016-2401-x.pdf")
 
+**Paper ID: 53**
+
 **Guidelines:** Implement DBN+Softmax(2) on large scale Reuters and compare it with results obtained from knn algorithm.
