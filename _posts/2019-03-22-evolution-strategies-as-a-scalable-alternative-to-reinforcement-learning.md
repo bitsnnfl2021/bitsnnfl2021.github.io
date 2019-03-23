@@ -17,8 +17,10 @@ date: 2019-03-22 16:33:40 +0000
 
 **Paper Link**: [https://arxiv.org/pdf/1703.03864.pdf](https://arxiv.org/pdf/1703.03864.pdf "https://arxiv.org/pdf/1703.03864.pdf")
 
+**Paper ID: 66**
+
 **Guidelines:**
 
 1. Implement the ES algorithm on CartPole Gym Environment and atleast 1 Mujoco Environment like HalfCheetah, Walker, Hopper etc. (A pain free installation alternative to mujoco is Open AI's Roboschool, which gives the same environments as gym but is much easier to install).
 2. Implement both vanilla and parallel versions of the algorithm.
-3. Obtain the plots of the total reward with the training iterations as in figure 2 of the paper. 
+3. Obtain the plots of the total reward with the training iterations as in figure 2 of the paper.
