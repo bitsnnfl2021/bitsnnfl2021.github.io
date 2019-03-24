@@ -18,4 +18,10 @@ date: 2019-03-23 13:23:09 +0000
 
 **Paper ID:** **45**
 
-**Guidelines:** Coming Soon.
+**Guidelines:**
+
+1. Understand the Fractional Max-Pooling method described in the paper.
+2. Download the tiny imagenet dataset (Link: [https://tiny-imagenet.herokuapp.com/](https://tiny-imagenet.herokuapp.com/ "https://tiny-imagenet.herokuapp.com/"))
+3. Build a simple CNN architecture (e.g. VGGNet) for Image classification on the tiny imagenet dataset.
+4. Train two models of the CNN architecture, one with Max-Pooling and the other with Fractional Max-Pooling method. (Choose filter sizes etc accordingly)
+5. Report the accuracy achieved by both the models for image classification on the tiny imagenet dataset and compare the results.
