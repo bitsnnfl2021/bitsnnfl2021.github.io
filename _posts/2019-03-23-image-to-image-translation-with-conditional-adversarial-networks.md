@@ -19,4 +19,9 @@ date: 2019-03-23 09:21:38 +0000
 
 **Paper ID: 41**
 
-**Guidelines:** Coming Soon.
+**Guidelines:**
+
+1. Read the paper thoroughly and understand the all the concepts therein (including the Appendix). This is one of the best written papers till date.
+2. Implement only the U-Net Architecture for the Generator as described in the paper.
+3. The loss function MUST be conditioned on the input. Don't use just the L1or L2 loss.
+4. Train two models on **TWO different datasets** and show the resulting images generated.
