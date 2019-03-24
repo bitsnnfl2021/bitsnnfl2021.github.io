@@ -19,4 +19,9 @@ date: 2019-03-23 10:07:26 +0000
 
 **Paper ID: 43**
 
-**Guidelines:** Coming Soon.
+**Guidelines:**
+
+1. Read the paper thoroughly and understand the concepts and architectures enlisted therein.
+2. Download the BCI III competition dataset. (Contact me if you face difficulties with the same.)
+3. Implement only the ConvLSTM model as described in the paper.
+4. As the dataset has a class imbalance issue (1:6 ratio for the data of both the classes), tackle it using Random Oversampling and Random Undersampling and compare the results of the two models trained.
