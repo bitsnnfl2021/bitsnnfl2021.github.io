@@ -17,6 +17,6 @@ date: 2019-03-23 09:21:38 +0000
 
 **Paper Link:** [https://arxiv.org/abs/1611.07004](https://arxiv.org/abs/1611.07004 "https://arxiv.org/abs/1611.07004")
 
-**Guidelines:** Coming Soon.
+**Paper ID: 41**
 
-**ID: 41**
+**Guidelines:** Coming Soon.

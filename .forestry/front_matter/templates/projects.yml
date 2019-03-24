@@ -40,6 +40,7 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/2019-03-23-image-to-image-translation-with-conditional-adversarial-networks.md
 - _posts/2019-03-23-fractional-max-pooling.md
 - _posts/2019-03-23-partial-convolution-based-padding.md
 - _posts/deep-photo-style-transfer.md
@@ -65,7 +66,6 @@ pages:
 - _posts/2019-03-23-diversity-is-all-you-need-learning-skills-without-a-reward-function.md
 - _posts/dsod-learning-deeply-supervised-object-detectors-from-scratch.md
 - _posts/2019-03-23-single-trial-p300-classification-using-convolutional-lstm.md
-- _posts/2019-03-23-image-to-image-translation-with-conditional-adversarial-networks.md
 - _posts/2019-03-22-pyramid-scene-parsing-network-pspnet.md
 - _posts/2019-03-22-end-to-end-multimodal-emotion-recognition-using-deep-neural-networks.md
 - _posts/human-activity-recognition-using-recurrent-neural-networks.md
