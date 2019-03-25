@@ -23,4 +23,4 @@ date: 2019-03-25 09:08:34 +0000
 
 1. Go through the paper, understand the training technique and the preprocessing involved to recognize faces.
 2. Modify the training approach using transfer learning to recognize new faces. Note that only one instance of a new face to be used for training. You can also use the network weights given in the paper.
-3. Suggested frameworks: Keras, Matlab
+3. Restricted frameworks: Keras, Matlab
