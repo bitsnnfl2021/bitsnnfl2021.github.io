@@ -40,6 +40,7 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/deep-face-recognition.md
 - _posts/stargan-unified-generative-adversarial-networks-for-multi-domain-image-to-image-translation.md
 - _posts/deep-photo-style-transfer.md
 - _posts/2019-03-23-everybody-dance-now.md
