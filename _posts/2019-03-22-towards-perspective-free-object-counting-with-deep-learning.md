@@ -7,7 +7,8 @@ author:
   email: f2015265@pilani.bits-pilani.ac.in
 categories:
 - CNN
-tags: []
+tags:
+- Easy
 date: 2019-03-22 16:11:43 +0000
 
 ---
@@ -17,4 +18,10 @@ date: 2019-03-22 16:11:43 +0000
 
 **Paper ID: 33**
 
-**Guidelines:** Coming Soon!
+**Guidelines:** 
+
+1) The dataset mentioned in the paper is quite large and it would not be possible to train without a GPU. Therefore, either crop out small portions from the original dataset OR, create a synthetic dataset consisting of some background image with characters present at random locations on this image. 
+
+2) Go through the paper, understand the training technique and the preprocessing involved to feed patches from the image to the network.
+
+3) Implement the CountingCNN architecture from the paper for density prediction of either the vehicles or the characters (in case you create a synthetic dataset).

@@ -40,6 +40,7 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/2019-03-22-towards-perspective-free-object-counting-with-deep-learning.md
 - _posts/2019-03-25-deep-face-recognition.md
 - _posts/stargan-unified-generative-adversarial-networks-for-multi-domain-image-to-image-translation.md
 - _posts/deep-photo-style-transfer.md
@@ -50,7 +51,6 @@ pages:
 - _posts/2019-03-23-partial-convolution-based-padding.md
 - _posts/2019-03-22-text-classification-based-on-deep-belief-network-and-softmax-regression.md
 - _posts/2019-03-22-character-level-convolutional-networks-for-text-classification.md
-- _posts/2019-03-22-towards-perspective-free-object-counting-with-deep-learning.md
 - _posts/a-reduction-of-imitation-learning-and-structured-prediction-to-no-regret-online-learning.md
 - _posts/2019-03-22-evolution-strategies-as-a-scalable-alternative-to-reinforcement-learning.md
 - _posts/2019-03-20-convolutional-neural-networks-for-sentence-classification.md
