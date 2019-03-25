@@ -8,7 +8,7 @@ author:
 categories:
 - CNN
 tags:
-- Easy
+- Medium
 date: 2019-03-22 16:11:43 +0000
 
 ---
