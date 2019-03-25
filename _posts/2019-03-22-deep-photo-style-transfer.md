@@ -18,4 +18,7 @@ date: 2019-03-22 16:01:30 +0000
 
 **Paper ID: 54**
 
-**Guidelines:** Implement only the algorithm prescribed by the paper no need to comparison with other algorithms
+**Guidelines:** 
+
+1. Implement only the algorithm prescribed by the paper no need to do comparison with other algorithms
+2. Implement the paper using Keras framework.

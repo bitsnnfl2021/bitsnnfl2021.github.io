@@ -40,12 +40,12 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/deep-photo-style-transfer.md
 - _posts/2019-03-23-everybody-dance-now.md
 - _posts/2019-03-23-single-trial-p300-classification-using-convolutional-lstm.md
 - _posts/2019-03-23-image-to-image-translation-with-conditional-adversarial-networks.md
 - _posts/2019-03-23-fractional-max-pooling.md
 - _posts/2019-03-23-partial-convolution-based-padding.md
-- _posts/deep-photo-style-transfer.md
 - _posts/2019-03-22-text-classification-based-on-deep-belief-network-and-softmax-regression.md
 - _posts/stargan-unified-generative-adversarial-networks-for-multi-domain-image-to-image-translation.md
 - _posts/2019-03-22-character-level-convolutional-networks-for-text-classification.md
