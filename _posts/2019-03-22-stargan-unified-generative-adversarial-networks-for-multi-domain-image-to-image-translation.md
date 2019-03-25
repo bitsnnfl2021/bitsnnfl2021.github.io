@@ -19,4 +19,7 @@ date: 2019-03-22 15:56:44 +0000
 
 **Paper ID: 52**
 
-**Guidelines:** Implement the GAN model suggested by the paper no need to compare against other baseline models
+**Guidelines:** 
+
+1. Implement the GAN model suggested by the paper no need to compare against other baseline models
+2. Implement it using Keras/Tensorflow framework
