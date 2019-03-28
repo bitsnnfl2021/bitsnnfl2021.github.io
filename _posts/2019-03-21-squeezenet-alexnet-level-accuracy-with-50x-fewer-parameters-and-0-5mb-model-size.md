@@ -2,7 +2,7 @@
 layout: post
 share: true
 title: 'SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model
-  size'
+  size (Paper ID: 93)'
 author:
   name: Suvigya Vijay
   email: f2015606@pilani.bits-pilani.ac.in
