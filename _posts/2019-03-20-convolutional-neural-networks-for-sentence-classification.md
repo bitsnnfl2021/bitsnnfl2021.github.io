@@ -1,7 +1,7 @@
 ---
 layout: post
 share: true
-title: Convolutional Neural Networks for Sentence Classification
+title: 'Convolutional Neural Networks for Sentence Classification (Paper ID: 65)'
 author:
   name: Kabir Ahuja
   email: f2015791@pilani.bits-pilani.ac.in
