@@ -1,7 +1,8 @@
 ---
 layout: post
 share: true
-title: Deep Learning EEG Response Representation for Brain Computer Interfaces
+title: 'Deep Learning EEG Response Representation for Brain Computer Interfaces (Paper
+  ID: 12)'
 author:
   name: Achal Agarwal
   email: f2015436@pilani.bits-pilani.ac.in
