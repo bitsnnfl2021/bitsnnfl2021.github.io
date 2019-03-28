@@ -1,7 +1,7 @@
 ---
 layout: post
 share: true
-title: Deep Face Recognition
+title: 'Deep Face Recognition (Paper ID: 35)'
 author:
   name: Akash Sonth
   email: f2015265@pilani.bits-pilani.ac.in
