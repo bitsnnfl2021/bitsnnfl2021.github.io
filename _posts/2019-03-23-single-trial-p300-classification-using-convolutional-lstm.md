@@ -1,7 +1,7 @@
 ---
 layout: post
 share: true
-title: Single Trial P300 Classification Using Convolutional LSTM
+title: 'Single Trial P300 Classification Using Convolutional LSTM (Paper ID: 43)'
 author:
   name: Amit Tiwary
   email: f2015818@pilani.bits-pilani.ac.in
