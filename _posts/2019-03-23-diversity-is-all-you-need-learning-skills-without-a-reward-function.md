@@ -1,7 +1,8 @@
 ---
 layout: post
 share: true
-title: 'DIVERSITY IS ALL YOU NEED: LEARNING SKILLS WITHOUT A REWARD FUNCTION'
+title: 'DIVERSITY IS ALL YOU NEED: LEARNING SKILLS WITHOUT A REWARD FUNCTION (Paper
+  ID: 83)'
 author:
   name: Sanskriti Sharma
   email: f2015553@pilani.bits-pilani.ac.in
