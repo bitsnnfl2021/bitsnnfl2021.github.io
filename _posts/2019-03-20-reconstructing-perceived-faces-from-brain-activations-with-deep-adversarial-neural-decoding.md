@@ -1,8 +1,8 @@
 ---
 layout: post
 share: true
-title: Reconstructing perceived faces from brain activations with deep adversarial
-  neural decoding
+title: 'Reconstructing perceived faces from brain activations with deep adversarial
+  neural decoding (Paper ID: 14)'
 author:
   name: Achal Agarwal
   email: f2015436@pilani.bits-pilani.ac.in
