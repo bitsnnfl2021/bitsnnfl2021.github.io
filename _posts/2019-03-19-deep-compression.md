@@ -1,7 +1,7 @@
 ---
 layout: post
 share: true
-title: Deep Compression
+title: 'Deep Compression (Paper ID: 21)'
 author:
   name: Aditya Rana
   email: f2016182@pilani.bits-pilani.ac.in
