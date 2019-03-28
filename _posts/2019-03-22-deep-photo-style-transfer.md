@@ -1,7 +1,7 @@
 ---
 layout: post
 share: true
-title: Deep Photo Style Transfer
+title: 'Deep Photo Style Transfer (Paper ID: 54)'
 author:
   name: Harsh Jaiswal
   email: f2015525@pilani.bits-pilani.ac.in
