@@ -1,7 +1,7 @@
 ---
 layout: post
 share: true
-title: 'You Only Look Once: Unified, Real-Time Object Detection'
+title: 'You Only Look Once: Unified, Real-Time Object Detection (Paper ID: 84)'
 author:
   name: Sanskriti Sharma
   email: f2015553@pilani.bits-pilani.ac.in
