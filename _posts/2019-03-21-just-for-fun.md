@@ -1,7 +1,7 @@
 ---
 layout: post
 share: true
-title: Fireﬂy Algorithm
+title: 'Fireﬂy Algorithm (Paper ID: 22)'
 author:
   name: Aditya Rana
   email: f2016182@pilani.bits-pilani.ac.in
