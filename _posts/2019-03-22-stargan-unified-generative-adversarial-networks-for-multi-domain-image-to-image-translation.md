@@ -2,7 +2,7 @@
 layout: post
 share: true
 title: 'StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image
-  Translation'
+  Translation (Paper ID: 52)'
 author:
   name: Harsh Jaiswal
   email: f2015525@pilani.bits-pilani.ac.in
