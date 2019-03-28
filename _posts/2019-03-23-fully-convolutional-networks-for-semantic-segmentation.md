@@ -1,7 +1,7 @@
 ---
 layout: post
 share: true
-title: Fully Convolutional Networks for Semantic Segmentation
+title: 'Fully Convolutional Networks for Semantic Segmentation (Paper ID: 85)'
 author:
   name: Sanskriti Sharma
   email: f2015553@pilani.bits-pilani.ac.in
