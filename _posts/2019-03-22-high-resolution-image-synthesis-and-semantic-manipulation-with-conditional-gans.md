@@ -1,8 +1,8 @@
 ---
 layout: post
 share: true
-title: High-Resolution Image Synthesis and Semantic Manipulation with Conditional
-  GANs
+title: 'High-Resolution Image Synthesis and Semantic Manipulation with Conditional
+  GANs (Paper ID: 71)'
 author:
   name: Rishav
   email: f2016108@pilani.bits-pilani.ac.in
