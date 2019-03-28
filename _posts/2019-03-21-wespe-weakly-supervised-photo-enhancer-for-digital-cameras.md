@@ -1,7 +1,7 @@
 ---
 layout: post
 share: true
-title: 'WESPE: Weakly Supervised Photo Enhancer for Digital Cameras'
+title: 'WESPE: Weakly Supervised Photo Enhancer for Digital Cameras (Paper ID: 94)'
 author:
   name: Suvigya VIjay
   email: f2015606@pilani.bits-pilani.ac.in
