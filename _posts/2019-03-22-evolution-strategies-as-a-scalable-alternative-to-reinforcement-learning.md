@@ -1,7 +1,8 @@
 ---
 layout: post
 share: true
-title: Evolution Strategies as a Scalable Alternative to Reinforcement Learning
+title: 'Evolution Strategies as a Scalable Alternative to Reinforcement Learning (Paper
+  ID: 66)'
 author:
   name: Kabir Ahuja
   email: f2015791@pilani.bits-pilani.ac.in
