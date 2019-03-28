@@ -1,7 +1,8 @@
 ---
 layout: post
 share: true
-title: 'DSOD: Learning Deeply Supervised Object Detectors from Scratch'
+title: 'DSOD: Learning Deeply Supervised Object Detectors from Scratch (Paper ID:
+  73)'
 author:
   name: Rishav
   email: f2016108@pilani.bits-pilani.ac.in
