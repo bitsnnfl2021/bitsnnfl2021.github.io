@@ -1,8 +1,8 @@
 ---
 layout: post
 share: true
-title: A Reduction of Imitation Learning and Structured Prediction to No-Regret Online
-  Learning
+title: 'A Reduction of Imitation Learning and Structured Prediction to No-Regret Online
+  Learning (Paper ID: 67)'
 author:
   name: Kabir Ahuja
   email: f2015791@pilani.bits-pilani.ac.in
