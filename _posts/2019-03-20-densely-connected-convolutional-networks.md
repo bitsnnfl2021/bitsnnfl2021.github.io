@@ -1,7 +1,7 @@
 ---
 layout: post
 share: true
-title: Densely Connected Convolutional Networks
+title: 'Densely Connected Convolutional Networks (Paper ID: 104)'
 author:
   name: Tanay Agrawal
   email: f2015567@pilani.bits-pilani.ac.in
