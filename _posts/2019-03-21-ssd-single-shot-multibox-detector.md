@@ -1,7 +1,7 @@
 ---
 layout: post
 share: true
-title: 'SSD: Single Shot MultiBox Detector'
+title: 'SSD: Single Shot MultiBox Detector (Paper ID: 23)'
 author:
   name: Aditya Rana
   email: f2016182@pilani.bits-pilani.ac.in
