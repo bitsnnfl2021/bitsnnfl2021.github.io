@@ -1,7 +1,7 @@
 ---
 layout: post
 share: true
-title: Pyramid Scene Parsing Network (PSPNet)
+title: 'Pyramid Scene Parsing Network (PSPNet) (Paper ID: 74)'
 author:
   name: Rishav
   email: f2016108@pilani.bits-pilani.ac.in
