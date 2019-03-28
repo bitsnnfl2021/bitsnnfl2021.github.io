@@ -1,7 +1,7 @@
 ---
 layout: post
 share: true
-title: Fractional Max-Pooling
+title: 'Fractional Max-Pooling (Paper ID: 45)'
 author:
   name: Amit Tiwary
   email: f2015818@pilani.bits-pilani.ac.in
