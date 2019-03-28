@@ -1,7 +1,7 @@
 ---
 layout: post
 share: true
-title: Training a Feedback Loop for Hand Pose Estimation
+title: 'Training a Feedback Loop for Hand Pose Estimation (Paper ID: 123)'
 author:
   name: Vikram Waradpande
   email: f2015454@pilani.bits-pilani.ac.in
