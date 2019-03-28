@@ -1,7 +1,8 @@
 ---
 layout: post
 share: true
-title: Image-to-Image Translation with Conditional Adversarial Networks (Pix2Pix)
+title: 'Image-to-Image Translation with Conditional Adversarial Networks (Pix2Pix)
+  (Paper ID: 41)'
 author:
   name: Amit Tiwary
   email: f2015818@pilani.bits-pilani.ac.in
