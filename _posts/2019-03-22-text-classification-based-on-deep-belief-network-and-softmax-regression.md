@@ -1,7 +1,8 @@
 ---
 layout: post
 share: true
-title: Text classification based on deep belief network and softmax regression
+title: 'Text classification based on deep belief network and softmax regression (Paper
+  ID: 53)'
 author:
   name: Harsh Jaiswal
   email: f2015525@pilani.bits-pilani.ac.in
