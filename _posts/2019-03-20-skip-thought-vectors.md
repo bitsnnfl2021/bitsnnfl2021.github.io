@@ -1,7 +1,7 @@
 ---
 layout: post
 share: true
-title: Skip-Thought Vectors
+title: 'Skip-Thought Vectors (Paper ID: 62)'
 author:
   name: Kabir Ahuja
   email: f2015791@pilani.bits-pilani.ac.in
