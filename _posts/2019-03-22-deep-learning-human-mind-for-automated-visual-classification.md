@@ -1,7 +1,7 @@
 ---
 layout: post
 share: true
-title: Deep Learning Human Mind for Automated Visual Classification
+title: 'Deep Learning Human Mind for Automated Visual Classification (Paper ID: 124)'
 author:
   name: Vikram Waradpande
   email: f2015454@pilani.bits-pilani.ac.in
