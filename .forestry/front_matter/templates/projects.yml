@@ -40,6 +40,7 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/2019-03-23-everybody-dance-now.md
 - _posts/2019-03-23-single-trial-p300-classification-using-convolutional-lstm.md
 - _posts/2019-03-23-image-to-image-translation-with-conditional-adversarial-networks.md
 - _posts/2019-03-23-fractional-max-pooling.md
@@ -74,7 +75,6 @@ pages:
 - _posts/2019-03-22-towards-perspective-free-object-counting-with-deep-learning.md
 - _posts/stargan-unified-generative-adversarial-networks-for-multi-domain-image-to-image-translation.md
 - _posts/deep-photo-style-transfer.md
-- _posts/2019-03-23-everybody-dance-now.md
 - _posts/2019-03-20-show-attend-and-tell-neural-image-caption-generation-with-visual-attention.md
 - _posts/2019-03-22-end-to-end-multimodal-emotion-recognition-using-deep-neural-networks.md
 - _posts/human-activity-recognition-using-recurrent-neural-networks.md
