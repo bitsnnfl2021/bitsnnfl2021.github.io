@@ -1,7 +1,8 @@
 ---
 layout: post
 share: true
-title: Deep Learning With Convolutional Neural Networks for EEG Decoding and Visualization
+title: 'Deep Learning With Convolutional Neural Networks for EEG Decoding and Visualization
+  (Paper ID: 13)'
 author:
   name: Achal Agarwal
   email: f2015436@pilani.bits-pilani.ac.in

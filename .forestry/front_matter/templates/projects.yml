@@ -40,6 +40,7 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/2019-03-19-deep-learning-with-convolutional-neural-networks-for-eeg-decoding-and-visualization.md
 - _posts/deep-learning-human-mind-for-automated-visual-classification.md
 - _posts/training-a-feedback-loop-for-hand-pose-estimation.md
 - _posts/automatic-text-scoring-using-neural-networks.md
@@ -78,7 +79,6 @@ pages:
 - _posts/2019-03-22-end-to-end-multimodal-emotion-recognition-using-deep-neural-networks.md
 - _posts/human-activity-recognition-using-recurrent-neural-networks.md
 - _posts/2019-03-22-high-resolution-image-synthesis-and-semantic-manipulation-with-conditional-gans.md
-- _posts/2019-03-19-deep-learning-with-convolutional-neural-networks-for-eeg-decoding-and-visualization.md
 - _posts/2019-03-19-training-recurrent-networks-to-generate-hypotheses-about-how-the-brain-solves-hard-navigation-problems.md
 - _posts/2019-03-19-deep-learning-eeg-response-representation-for-brain-computer-interfaces.md
 - _posts/2019-03-22-converting-your-thoughts-to-texts-enabling-brain-typing-via-deep-feature-learning-of-eeg-signals.md
