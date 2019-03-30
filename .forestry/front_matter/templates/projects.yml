@@ -40,6 +40,7 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/training-a-feedback-loop-for-hand-pose-estimation.md
 - _posts/2019-03-25-deep-face-recognition.md
 - _posts/infrared-colorization-using-deep-convolutional-neural-networks.md
 - _posts/2019-03-22-towards-perspective-free-object-counting-with-deep-learning.md
@@ -68,7 +69,6 @@ pages:
 - _posts/2019-03-22-pyramid-scene-parsing-network-pspnet.md
 - _posts/2019-03-19-deep-learning-with-convolutional-neural-networks-for-eeg-decoding-and-visualization.md
 - _posts/deep-learning-human-mind-for-automated-visual-classification.md
-- _posts/training-a-feedback-loop-for-hand-pose-estimation.md
 - _posts/automatic-text-scoring-using-neural-networks.md
 - _posts/2019-03-19-deep-compression.md
 - _posts/2019-03-20-simple-convolutional-neural-network-on-image-classification.md

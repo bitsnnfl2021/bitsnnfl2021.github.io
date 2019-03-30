@@ -1,7 +1,7 @@
 ---
 layout: post
 share: true
-title: 'Training a Feedback Loop for Hand Pose Estimation (Paper ID: 123)'
+title: 'Training a Feedback Loop for Hand Pose Estimation (Paper ID: 113)'
 author:
   name: Vikram Waradpande
   email: f2015454@pilani.bits-pilani.ac.in
@@ -17,9 +17,9 @@ date: 2019-03-22 01:07:00 +0000
 
 **Paper Link:** [https://arxiv.org/pdf/1609.09698.pdf](https://arxiv.org/pdf/1609.09698.pdf "https://arxiv.org/pdf/1609.09698.pdf")
 
-**Tasks:** 
+**Tasks:**
 
 1. Implement the updater, synthesiser and predictor functions as given in section 3 of the paper.
 2. Develop the architecture of the network as depicted in figure 5.
 
-**ID:** 123
+**ID:** 113
