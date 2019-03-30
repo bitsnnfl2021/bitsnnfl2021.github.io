@@ -40,6 +40,7 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/2019-03-20-simple-convolutional-neural-network-on-image-classification.md
 - _posts/training-a-feedback-loop-for-hand-pose-estimation.md
 - _posts/2019-03-25-deep-face-recognition.md
 - _posts/infrared-colorization-using-deep-convolutional-neural-networks.md
@@ -71,7 +72,6 @@ pages:
 - _posts/deep-learning-human-mind-for-automated-visual-classification.md
 - _posts/automatic-text-scoring-using-neural-networks.md
 - _posts/2019-03-19-deep-compression.md
-- _posts/2019-03-20-simple-convolutional-neural-network-on-image-classification.md
 - _posts/2019-03-20-from-captions-to-visual-concepts-and-back.md
 - _posts/2019-03-20-densely-connected-convolutional-networks.md
 - _posts/2019-03-20-imagenet-classification-with-deep-convolutional-neural-networks.md
