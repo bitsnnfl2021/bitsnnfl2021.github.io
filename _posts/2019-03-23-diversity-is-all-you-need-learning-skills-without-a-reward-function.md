@@ -18,4 +18,8 @@ date: 2019-03-23 10:08:02 +0000
 
 **ID:** 83
 
-**Guidelines:** Coming Soon.
+**Guidelines:**
+
+1. Implement the proposed algorithm (Algorithm 1: DIAYN) on any one of the environments mentioned in Appendix C1 or inverted pendulum or mountain car. 
+2. Understand the results obtained in section 4.2.1 and depict the same on your chosen environment.
+3. Evaluate distribution of task rewards over untrained and trained skills as done in Appendix D3 to ensure that the learned skills are, in fact, not random.
