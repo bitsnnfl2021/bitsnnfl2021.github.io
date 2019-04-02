@@ -21,4 +21,10 @@ date: 2019-03-23 10:00:54 +0000
 
 **ID:** 82
 
-**Guidelines:** Coming soon.
+**Guidelines:** 
+
+1. Implement the full architecture as given in the paper.
+2. Use LSTMs instead of GRUs and word2vec instead of Glove vectors in your implementation.
+3. Its compulsory to train a model on the task 4.1. Out of 4.2 and 4.3 you can train your model on one of them only.
+4. For the above tasks first try to train on a very small number of examples (50-100) and see if the network is able to overfit on those examples.
+5. Report your results in terms of accuracy.
