@@ -19,4 +19,9 @@ date: 2019-03-23 09:53:33 +0000
 
 **ID:** 81
 
-**Guidelines:** Coming Soon.
+**Guidelines:** 
+
+1. Implement the model architecture as given in the paper.
+2. Train your model on Pascal VOC 2007 dataset.
+3. As a debug step train your model on small number of examples (50-100) and see if you model is able to overfit on those examples.
+4. Obtain the learning curves showing the validation and training loss after each epoch. Report your final results in the form of average Intersection Over Union (IOU) metric.
