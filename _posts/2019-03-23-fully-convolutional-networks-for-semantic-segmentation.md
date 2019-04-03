@@ -20,8 +20,8 @@ date: 2019-03-23 10:28:34 +0000
 
 **ID**: 85
 
-**Guidelines**: 
+**Guidelines**:
 
-1. Implement the architecture with upsampling on the VGG-16 net with upsampling.
+1. Implement the architecture on the VGG-16 net with upsampling.
 2. Train the network on the Pascal VOC 2012 dataset.
 3. Implement the skip architecture as described in section 4.2 and depict improvement in results obtained.
