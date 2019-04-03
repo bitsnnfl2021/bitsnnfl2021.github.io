@@ -22,6 +22,6 @@ date: 2019-03-23 10:28:34 +0000
 
 **Guidelines**:
 
-1. Implement the architecture on the VGG-16 net with upsampling.
+1. Implement the architecture for fully convolutionalized classifiers on the VGG-16 net.
 2. Train the network on the Pascal VOC 2012 dataset.
 3. Implement the skip architecture as described in section 4.2 and depict improvement in results obtained.
