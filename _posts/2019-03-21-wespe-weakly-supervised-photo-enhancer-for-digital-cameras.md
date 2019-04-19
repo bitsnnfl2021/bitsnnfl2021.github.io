@@ -18,6 +18,6 @@ date: 2019-03-21 13:47:49 +0000
 
 1. Implement the architecture given in the paper using Keras with Tensorflow as backend.
 2. Use MobileNetV2 as feature extractor rather than VGG19 as prescribed.
-3. Conduct the Flickr Faves Score on Cityscapes dataset.
+3. Conduct the Flickr Faves Score test.
 
 **ID:** 94
