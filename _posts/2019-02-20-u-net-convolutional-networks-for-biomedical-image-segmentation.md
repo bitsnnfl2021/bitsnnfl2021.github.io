@@ -20,6 +20,6 @@ date: 2019-02-20 09:07:08 +0000
 **Paper Link:** [https://arxiv.org/pdf/1505.04597.pdf](https://arxiv.org/pdf/1505.04597.pdf "https://arxiv.org/pdf/1505.04597.pdf")
 
 1. Implement the architecture given in the paper preferably not using Caffe.
-2. Use Berkeley Segmentation Dataset to test the network rather than ISBI cell challenge dataset.
+2. Use ISBI cell challenge dataset.
 
 **Paper ID:** **95**
