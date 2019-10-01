@@ -17,4 +17,4 @@ As a part of your evaluation for the course Neural Networks and Fuzzy Logic, you
 
 **Evaluation Schedule:**
 
-The tentative dates for the evaluation of the Design Projects will be around **20th April**, details of which will be communicated soon.
+The tentative dates for the evaluation of the Design Projects will be around **15th November**, details of which will be communicated soon.
