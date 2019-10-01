@@ -26,7 +26,7 @@ feed:
   path: atom.xml
 
 # Search
-search_full_content: true # can have performance implications for large sites
+search_full_content: true # can have performance implications for large sites, so was initially set to false
 
 plugins:
   - jekyll-seo-tag
