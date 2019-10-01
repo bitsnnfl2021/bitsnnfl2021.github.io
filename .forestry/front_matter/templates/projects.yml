@@ -40,7 +40,6 @@ fields:
   hidden: false
   default: true
 pages:
-- _posts/2019-03-23-fully-convolutional-networks-for-semantic-segmentation.md
 - _posts/2019-03-23-deep-neural-networks-for-object-detection.md
 - _posts/2019-03-23-you-only-look-once-unified-real-time-object-detection.md
 - _posts/2019-03-20-simple-convolutional-neural-network-on-image-classification.md
