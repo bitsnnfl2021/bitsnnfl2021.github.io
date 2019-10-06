@@ -12,9 +12,10 @@ As a part of your evaluation for the course Neural Networks and Fuzzy Logic, you
 **Details:**
 
 * The projects are categorized according to the concepts required to implement them and tagged according to the difficulty level.
-* In case of any doubts, you can contact the concerned TA for a particular paper whose details are mentioned on the project page.
-* The project page also contains the guidelines that you **must strictly follow** while implementing the paper.
+* The project page contains the guidelines that you **must strictly follow** while implementing the paper.
+* In case of any doubts/discrepancies, please contact the concerned TA (whose details are mentioned on the project page) at the earliest.
+* In some cases, it might happen that we change the TA assigned for a particular paper after the procedure of students selecting their research papers for implementation has ended.
 
 **Evaluation Schedule:**
 
-The tentative dates for the evaluation of the Design Projects will be around **15th November**, details of which will be communicated soon.
+The tentative dates for the evaluation of the Design Projects will be around **15th November 2019**, details of which will be communicated soon.
