@@ -6,7 +6,8 @@ author:
   name: Suvigya VIjay
   email: f2015606@pilani.bits-pilani.ac.in
 categories:
-- CNN, GAN
+- CNN
+- GANs
 tags:
 - Hard
 date: 2019-03-21 13:47:49 +0000
