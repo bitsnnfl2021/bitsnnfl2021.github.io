@@ -26,13 +26,13 @@ results we use an iterative routing-by-agreement mechanism: A lower-level capsul
 prefers to send its output to higher level capsules whose activity vectors have a big
 scalar product with the prediction coming from the lower-level capsule.
 
-**Paper Link:** [https://arxiv.org/pdf/1710.09829.pdf)
+**Paper Link:** [https://arxiv.org/pdf/1710.09829.pdf]
 
 **Guidelines/Tasks:**
 
 1. Implement the architecture given in the paper using PyTorch with the following modifications: 
 - In the given paper, the enoder consists of 3 layers: Convolutional Layer, PrimaryCaps Layer (which is basically a convolutional layer) and a Capsule Layer(DigitCaps layer). You need to have one more capsule layer between PrimaryCaps layer and DigitCaps layer. 
-- In the given paper, the decoder consists of 3 fully connected (F.C.) layers. You can experiment with having either 3 or 4 F.C. layers in the decoder.
+- In the given paper, the decoder consists of 3 fully connected (F.C.) layers. You can experiment with having 4 or more F.C. layers in the decoder as for STL-10 dataset (mentioned below), we need to reconstruct a larger 96x96 image as opposed to 32x32 for MNIST.
 2. Use STL-10 dataset for training and validation. Note that you can easily access this dataset using PyTorch. Divide the dataset into train and validation sets. Report accuracy on the validation dataset. Since its not a very large dataset, you may perform image augmentation techniques.
 
 **ID :** 131
