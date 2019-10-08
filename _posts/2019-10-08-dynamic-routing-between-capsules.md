@@ -26,7 +26,7 @@ results we use an iterative routing-by-agreement mechanism: A lower-level capsul
 prefers to send its output to higher level capsules whose activity vectors have a big
 scalar product with the prediction coming from the lower-level capsule.
 
-**Paper Link:** [https://arxiv.org/pdf/1710.09829.pdf]
+**Paper Link:** [https://arxiv.org/pdf/1710.09829.pdf](https://arxiv.org/pdf/1710.09829.pdf "https://arxiv.org/pdf/1710.09829.pdf")
 
 **Guidelines/Tasks:**
 
