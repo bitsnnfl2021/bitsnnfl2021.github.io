@@ -3,13 +3,14 @@ layout: post
 share: true
 title: 'Convolutional Neural Networks for Sentence Classification (Paper ID: 65)'
 author:
-  name: Kabir Ahuja
-  email: f2015791@pilani.bits-pilani.ac.in
+  name: Parth Patel
+  email: f2016150@pilani.bits-pilani.ac.in
 categories:
+- CNN
 - NLP
 tags:
 - Easy
-date: 2019-03-20 10:44:03 +0000
+date: 2019-10-09 10:44:03 +0000
 
 ---
 **Abstract:** We report on a series of experiments with convolutional neural networks (CNN) trained on top of pre-trained word vectors for sentence-level classification tasks. We show that a simple CNN with little hyperparameter tuning and static vectors achieves excellent results on multiple benchmarks. Learning task-specific vectors through fine-tuning offers further gains in performance. We additionally propose a simple modification to the architecture to allow for the use of both task-specific and static vectors. The CNN models discussed herein improve upon the state of the art on 4 out of 7 tasks, which include sentiment analysis and question classification.
