@@ -1,7 +1,7 @@
 ---
 layout: post
 share: true
-title: 'StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation (Paper ID: 135)'
+title: 'StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation (Paper ID: 52)'
 author:
   name: Parth Patel
   email: f2016150@pilani.bits-pilani.ac.in
@@ -18,7 +18,7 @@ date: 2019-10-09 15:56:44 +0000
 
 **Paper Link:** [https://arxiv.org/pdf/1711.09020.pdf](https://arxiv.org/pdf/1711.09020.pdf)
 
-**Paper ID: 135**
+**Paper ID: 52**
 
 **Guidelines:** 
 
