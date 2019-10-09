@@ -29,4 +29,4 @@ date: 2019-10-09 10:44:03 +0000
 
 4\. Also train a baseline model which averages word vectors of all the words in the sentence and train a single layer neural network on the obtained vector to classify the sentence. Compare its performance with your cnn models. The accuracy obtained by your models should be more than this baseline.
 
-**Side Note:** Just in case you are curious to know how the word vectors are trained in an unsupervised manner for -word2vec_, visit [http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/).
+**Side Note:** Just in case you are curious to know how the word vectors are trained in an unsupervised manner for _word2vec_, visit [http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/).
