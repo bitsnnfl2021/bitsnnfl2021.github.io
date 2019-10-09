@@ -21,10 +21,12 @@ date: 2019-10-09 10:44:03 +0000
 
 **Guidelines**:
 
-1\. Implement all the model variants as given in setion 3.3 and compare their performance in terms of accuracy.
+1\. Implement the following 3 model variants as given in setion 3.3: CNN-static, CNN-non-static and CNN-multichannel.
 
-2\. Train on atleast 2 different datasets given in section 3
+2\. Compare the performance of the above 3 models in terms of accuracy by training on TREC question dataset [https://cogcomp.seas.upenn.edu/Data/QA/QC/train_5500.label](https://cogcomp.seas.upenn.edu/Data/QA/QC/train_5500.label), mentioned in section 3 of the paper.
 
 3\. As a sanity check train on 50 sentences first and see if the model can overfit i.e get close to 100% accuracy on those 50 sentences.
 
 4\. Also train a baseline model which averages word vectors of all the words in the sentence and train a single layer neural network on the obtained vector to classify the sentence. Compare its performance with your cnn models. The accuracy obtained by your models should be more than this baseline.
+
+**Side Note:** Just in case you are curious to know how the word vectors are trained in an unsupervised manner for -word2vec_, visit [http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/).
