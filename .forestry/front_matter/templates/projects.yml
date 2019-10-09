@@ -59,7 +59,6 @@ pages:
 - _posts/2019-03-22-character-level-convolutional-networks-for-text-classification.md
 - _posts/a-reduction-of-imitation-learning-and-structured-prediction-to-no-regret-online-learning.md
 - _posts/2019-03-22-evolution-strategies-as-a-scalable-alternative-to-reinforcement-learning.md
-- _posts/2019-03-20-convolutional-neural-networks-for-sentence-classification.md
 - _posts/2019-03-20-skip-thought-vectors.md
 - _posts/2019-03-19-deep-visual-semantic-alignments-for-generating-image-descriptions.md
 - _posts/2019-03-19-sequence-to-sequence-learning-with-neural-networks.md
@@ -92,3 +91,5 @@ pages:
 - _posts/2019-10-09-stargan-unified-generative-adversarial-networks-for-multi-domain-image-to-image-translation.md
 - _posts/2019-10-09-image-to-image-translation-with-conditional-adversarial-networks.md
 - _posts/2019-10-09-wespe-weakly-supervised-photo-enhancer-for-digital-cameras.md
+- _posts/2019-10-09-convolutional-neural-networks-for-sentence-classification.md
+
