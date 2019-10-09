@@ -33,3 +33,6 @@ This method has a wide range of applications. For example, we can use it to crea
 6. Dataset Recommended: **_Cityscapes_**
 7. You can use **_small part_** of the Dataset if you have machine limitations, **_more focus for this particular paper will be on your implementation and not high accuracy_**.
 8. Feel free to contact me in case of any doubt.
+
+**Side Notes:**
+1. For introduction to GANs, refer [https://medium.com/@jonathan_hui/gan-whats-generative-adversarial-networks-and-its-application-f39ed278ef09](https://medium.com/@jonathan_hui/gan-whats-generative-adversarial-networks-and-its-application-f39ed278ef09) .
