@@ -19,9 +19,11 @@ date: 2019-10-08 06:21:58 +0000
 
 **Guidelines/Tasks:**
 
-1. Implement the architecture given in the paper using PyTorch with the following modifications: 
+1. Implement the architecture given in the paper from scratch using PyTorch with the following modifications: 
 - In the given paper, the enoder consists of 3 layers: Convolutional Layer, PrimaryCaps Layer (which is basically a convolutional layer) and a Capsule Layer(DigitCaps layer). You need to have one more capsule layer between PrimaryCaps layer and DigitCaps layer. 
-- In the given paper, the decoder consists of 3 fully connected (F.C.) layers. You can experiment with having 4 or more F.C. layers in the decoder as for STL-10 dataset (mentioned below), we need to reconstruct a larger 96x96 image as opposed to 28x28 for MNIST.
+- In the given paper, the decoder consists of 3 fully connected (F.C.) layers. You should experiment with having 4 or more F.C. layers in the decoder as for STL-10 dataset (mentioned below), we need to reconstruct a larger 96x96 image as opposed to 28x28 for MNIST.
 2. Use STL-10 dataset for training and validation. Note that you can easily access this dataset using PyTorch. Divide the dataset into train and validation sets. Report accuracy on the validation dataset. Since its not a very large dataset, you may perform image augmentation techniques.
+
+**Side Note:** A good way to getting started with capsule nets might be the following 4 article series: [https://pechyonkin.me/capsules-1/] (https://pechyonkin.me/capsules-1/). Please do not think of it as a substitute for reading the original paper, but as a helping hand for understanding the paper fully as the paper itself is not very detailed and leaves some open questions about specifics of the network implementation.
 
 **ID :** 131
