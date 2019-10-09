@@ -1,11 +1,10 @@
 ---
 layout: post
 share: true
-title: 'High-Resolution Image Synthesis and Semantic Manipulation with Conditional
-  GANs (Paper ID: 71)'
+title: 'High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs (Paper ID: 71)'
 author:
-  name: Rishav
-  email: f2016108@pilani.bits-pilani.ac.in
+  name: Parth Patel
+  email: f2016150@pilani.bits-pilani.ac.in
 categories:
 - GANs
 - Computer Vision
@@ -32,7 +31,6 @@ This method has a wide range of applications. For example, we can use it to crea
 5. You are free to code in any framework of your choice.
 6. Dataset Recommended: **_Cityscapes_**
 7. You can use **_small part_** of the Dataset if you have machine limitations, **_more focus for this particular paper will be on your implementation and not high accuracy_**.
-8. Feel free to contact me in case of any doubt.
 
 **Side Notes:**
 1. For introduction to GANs, refer [https://medium.com/@jonathan_hui/gan-whats-generative-adversarial-networks-and-its-application-f39ed278ef09](https://medium.com/@jonathan_hui/gan-whats-generative-adversarial-networks-and-its-application-f39ed278ef09) .
