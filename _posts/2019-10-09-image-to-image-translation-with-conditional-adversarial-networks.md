@@ -21,7 +21,7 @@ date: 2019-10-09 09:22:38 +0000
 
 **Guidelines:**
 
-1. Read the paper thoroughly and understand all the concepts (like conditional GANs, generator's architecture and its analysis, discriminator's architecture and its analysis, choice of objective function and its analysis),  therein (including the Appendix). This is one of the best written papers till date.
+1. Read the paper thoroughly and understand all the concepts (like conditional GANs, generator's architecture and its analysis, discriminator's architecture and its analysis, choice of objective function and its analysis),  therein (including the Appendix). **This is one of the best written papers till date.**
 2. For the generator, you need to implement only the U-Net Architecture as described in the paper (see Appendix). No need to implement the encoder-decoder architecture.
 3. For the discriminator, implement the 70x70 PatchGAN architecture as specified in the paper (see Appendix).
 4. The loss function to be used is specified by equation 4 in the paper, with minor changes as specified in section 3.3.
