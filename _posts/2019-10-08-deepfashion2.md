@@ -10,7 +10,7 @@ categories:
 - Object Detection
 - Landmark estimation
 tags:
-- Hard
+- Medium
 date: 2019-10-08 06:24:58 +0000
 
 ---
