@@ -3,8 +3,8 @@ layout: post
 share: true
 title: 'Pyramid Scene Parsing Network (PSPNet) (Paper ID: 74)'
 author:
-  name: Rishav
-  email: f2016108@pilani.bits-pilani.ac.in
+  name: Patel Parth
+  email: f2016150@pilani.bits-pilani.ac.in
 categories:
 - Computer Vision
 - " Semantic Segmentation"
