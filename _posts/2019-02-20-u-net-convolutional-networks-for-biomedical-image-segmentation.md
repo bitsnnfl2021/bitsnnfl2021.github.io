@@ -4,8 +4,8 @@ share: true
 title: 'U-Net: Convolutional Networks for Biomedical Image Segmentation (Paper ID:
   95)'
 author:
-  name: Suvigya Vijay
-  email: f2015606@pilani.bits-pilani.ac.in
+  name: Parth Patel
+  email: f2016150@pilani.bits-pilani.ac.in
 categories:
 - CNN
 - Computer Vision
