@@ -3,8 +3,8 @@ layout: post
 share: true
 title: 'Fractional Max-Pooling (Paper ID: 45)'
 author:
-  name: Amit Tiwary
-  email: f2015818@pilani.bits-pilani.ac.in
+  name: Dhaivata Pandya
+  email: f2016020@pilani.bits-pilani.ac.in
 categories:
 - CNN
 tags:
