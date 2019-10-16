@@ -4,8 +4,8 @@ share: true
 title: 'Training recurrent networks to generate hypotheses about how the brain solves
   hard navigation problems (Paper ID: 15)'
 author:
-  name: Achal Agarwal
-  email: f2015436@pilani.bits-pilani.ac.in
+  name: Sahil Ranadive
+  email: f2016097@pilani.bits-pilani.ac.in
 categories:
 - RNN
 - Brain
