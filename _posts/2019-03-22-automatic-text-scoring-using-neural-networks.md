@@ -3,8 +3,8 @@ layout: post
 share: true
 title: 'Automatic Text Scoring Using Neural Networks (Paper ID: 112)'
 author:
-  name: Vikram Waradpande
-  email: f2015454@pilani.bits-pilani.ac.in
+  name: Dhaivata Pandya
+  email: f2016020@pilani.bits-pilani.ac.in
 categories:
 - LSTM
 - Architecture
