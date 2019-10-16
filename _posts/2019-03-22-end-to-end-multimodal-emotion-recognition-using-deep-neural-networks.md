@@ -4,8 +4,8 @@ share: true
 title: 'End-to-End Multimodal Emotion Recognition Using Deep Neural Networks (Paper
   ID: 75)'
 author:
-  name: Rishav
-  email: f2016108@pilani.bits-pilani.ac.in
+  name: Aditi Agarwal
+  email: f2016095@pilani.bits-pilani.ac.in
 categories:
 - CNN
 - RNN
