@@ -8,8 +8,8 @@ author:
   email: f2016097@pilani.bits-pilani.ac.in
 categories:
 - Image description
-- RNN
-- CNN
+- RNNs
+- CNNs
 tags:
 - Hard
 date: 2019-03-19 10:10:19 +0000
