@@ -4,8 +4,8 @@ share: true
 title: 'Ask Me Anything: Dynamic Memory Networks for Natural Language Processing (Paper
   ID: 82)'
 author:
-  name: Sanskriti Sharma
-  email: f2015553@pilani.bits-pilani.ac.in
+  name: Dhaivata Pandya
+  email: f2016020@pilani.bits-pilani.ac.in
 categories:
 - NLP
 - QA
