@@ -3,8 +3,8 @@ layout: post
 share: true
 title: 'Simple convolutional neural network on image classification (Paper ID: 101)'
 author:
-  name: Tanay Agrawal
-  email: f2015567@pilani.bits-pilani.ac.in
+  name: Vivek Golani
+  email: f2016196@pilani.bits-pilani.ac.in
 categories:
 - CNN
 - Optimisation
