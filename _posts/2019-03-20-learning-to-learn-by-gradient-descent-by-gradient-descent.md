@@ -3,8 +3,8 @@ layout: post
 share: true
 title: 'Learning to Learn by Gradient Descent by Gradient Descent (Paper ID: 61)'
 author:
-  name: Kabir Ahuja
-  email: f2015791@pilani.bits-pilani.ac.in
+  name: Dhaivata Pandya
+  email: f2016020@pilani.bits-pilani.ac.in
 categories:
 - Optimization
 tags:
