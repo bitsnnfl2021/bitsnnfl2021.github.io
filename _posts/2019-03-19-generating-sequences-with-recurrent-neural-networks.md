@@ -3,8 +3,8 @@ layout: post
 share: true
 title: 'Generating sequences with recurrent neural networks (Paper ID: 123)'
 author:
-  name: Charu Jain
-  email: f2015825@pilani.bits-pilani.ac.in
+  name: Sahil Ranadive
+  email: f2016097@pilani.bits-pilani.ac.in
 categories:
 - RNNs
 tags:
