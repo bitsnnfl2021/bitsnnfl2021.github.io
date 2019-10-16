@@ -4,8 +4,8 @@ share: true
 title: 'Show, Attend and Tell: Neural Image Caption Generation with Visual Attention
   (Paper ID: 64)'
 author:
-  name: Kabir Ahuja
-  email: f2015791@pilani.bits-pilani.ac.in
+  name: Smith Shah
+  email: f2016039@pilani.bits-pilani.ac.in
 categories:
 - Computer Vision
 - NLP
