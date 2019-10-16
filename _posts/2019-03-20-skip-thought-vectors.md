@@ -3,8 +3,8 @@ layout: post
 share: true
 title: 'Skip-Thought Vectors (Paper ID: 62)'
 author:
-  name: Kabir Ahuja
-  email: f2015791@pilani.bits-pilani.ac.in
+  name: Aditi Agarwal
+  email: f2016095@pilani.bits-pilani.ac.in
 categories:
 - NLP
 tags:
