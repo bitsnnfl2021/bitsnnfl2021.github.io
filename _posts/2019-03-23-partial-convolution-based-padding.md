@@ -3,8 +3,8 @@ layout: post
 share: true
 title: 'Partial Convolution based Padding (Paper ID: 42)'
 author:
-  name: Amit Tiwary
-  email: f2015818@pilani.bits-pilani.ac.in
+  name: Vivek Golani
+  email: f2016196@pilani.bits-pilani.ac.in
 categories:
 - CNN
 tags:
