@@ -3,8 +3,8 @@ layout: post
 share: true
 title: 'Fireﬂy Algorithm (Paper ID: 22)'
 author:
-  name: Aditya Rana
-  email: f2016182@pilani.bits-pilani.ac.in
+  name: Dhaivata Pandya
+  email: f2016020@pilani.bits-pilani.ac.in
 categories:
 - Optimization
 tags:
