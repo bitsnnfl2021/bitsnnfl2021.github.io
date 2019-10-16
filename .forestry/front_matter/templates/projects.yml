@@ -92,4 +92,17 @@ pages:
 - _posts/2019-10-09-image-to-image-translation-with-conditional-adversarial-networks.md
 - _posts/2019-10-09-wespe-weakly-supervised-photo-enhancer-for-digital-cameras.md
 - _posts/2019-10-09-convolutional-neural-networks-for-sentence-classification.md
-
+- _posts/2019-10-09-adaptive-gradient-methods-with-dynamic-bound-of-learning-rate.md
+- _posts/2019-10-09-batch-normalization-accelerating-deep-network-training-by-reducing-internal-covariate-shift.md
+- _posts/2019-10-09-detecting-people-in-artwork-with-cnns.md
+- _posts/2019-10-09-ecg-arrhythmia-classification-using-a-2-d-convolutional-neural-network.md
+- _posts/2019-10-09-finding-balanced-graph-bi-partitions-using-a-hybrid-genetic-algorithm.md
+- _posts/2019-10-09-focal-loss-for-dense-object-detection.md
+- _posts/2019-10-09-graph-partitioning-using-genetic-algorithms-with-opdx.md
+- _posts/2019-10-09-hyperspectral-image-classification-based-on-convolutional-neural-network-and-dimension-reduction.md
+- _posts/2019-10-09-object-detection-for-computer-vision-using-a-robust-genetic-algorithm.md
+- _posts/2019-10-09-orientation-robust-object-detection-in-aerial-images-based-on-r-nms.md
+- _posts/2019-10-09-phonocardiographic-sensing-using-deep-learning-for-abnormal-heartbeat-detection.md
+- _posts/2019-10-09-visualizing-and-understanding-convolutional-networks.md
+- _posts/2019-10-09-what-object-should-i-use-task-driven-object-detection.md
+- _posts/2019-10-09-w-rnn-news-text-classification-based-on-a-weighted-rnn.md
