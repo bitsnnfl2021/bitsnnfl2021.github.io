@@ -3,8 +3,8 @@ layout: post
 share: true
 title: 'Human Activity Recognition using Recurrent Neural Networks (Paper ID: 72)'
 author:
-  name: Rishav
-  email: f2016108@pilani.bits-pilani.ac.in
+  name: Aditi Agarwal
+  email: f2016095@pilani.bits-pilani.ac.in
 categories:
 - Sensors
 - Human Action Recognition
