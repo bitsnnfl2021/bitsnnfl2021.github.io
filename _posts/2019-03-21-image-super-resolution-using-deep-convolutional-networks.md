@@ -3,8 +3,8 @@ layout: post
 share: true
 title: " Image Super-Resolution Using Deep Convolutional Networks (Paper ID: 92)"
 author:
-  name: Suvigya Vijay
-  email: f2015606@pilani.bits-pilani.ac.in
+  name: Dhaivata Pandya
+  email: f2016020@pilani.bits-pilani.ac.in
 categories:
 - CNN
 tags:
