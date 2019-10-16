@@ -3,8 +3,8 @@ layout: post
 share: true
 title: 'Towards perspective-free object counting with deep learning (Paper ID: 33)'
 author:
-  name: Akash Sonth
-  email: f2015265@pilani.bits-pilani.ac.in
+  name: Vivek Golani
+  email: f2016196@pilani.bits-pilani.ac.in
 categories:
 - CNN
 tags:
