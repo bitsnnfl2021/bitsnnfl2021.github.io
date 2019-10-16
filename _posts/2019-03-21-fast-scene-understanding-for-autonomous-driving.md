@@ -3,10 +3,13 @@ layout: post
 share: true
 title: 'Fast Scene Understanding for Autonomous Driving (Paper ID : 24)'
 author:
-  name: Aditya Rana
-  email: f2016182pilani.bits-pilani.ac.in
-categories: []
-tags: []
+  name: Aditi Agarwal
+  email: f2016095@pilani.bits-pilani.ac.in
+categories:
+- Semantic Segmentation
+- Instance Segmentation
+tags:
+- Medium
 date: 2019-03-21 20:46:08 +0000
 
 ---
@@ -17,6 +20,7 @@ date: 2019-03-21 20:46:08 +0000
 **Task:**
 
 1. Implement the above paper in Python using PyTorch, Keras or Tensorflow.(paper was originally implemented using Torch, written in Lua).
-2. Compare your results with the state of the art-models.
+2. Semantic Segmentation needs to be implemented. You must also implement one of instance segmentation and depth.
+3. Compare your results with the state of the art-models.
 
 **Paper ID :** **24**
