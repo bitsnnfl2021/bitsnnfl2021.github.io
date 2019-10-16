@@ -4,8 +4,8 @@ share: true
 title: 'Deep Learning EEG Response Representation for Brain Computer Interfaces (Paper
   ID: 12)'
 author:
-  name: Achal Agarwal
-  email: f2015436@pilani.bits-pilani.ac.in
+  name: Saksham Consul
+  email: f2016424@pilani.bits-pilani.ac.in
 categories:
 - BCI
 - EEG
