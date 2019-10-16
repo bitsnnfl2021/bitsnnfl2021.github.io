@@ -4,8 +4,8 @@ share: true
 title: 'Converting Your Thoughts to Texts: Enabling Brain Typing via Deep Feature
   Learning of EEG Signals (Paper ID: 111)'
 author:
-  name: Vikram Waradpande
-  email: f2015454@pilani.bits-pilani.ac.in
+  name: Smith Shah
+  email: f2016039@pilani.bits-pilani.ac.in
 categories:
 - CNN
 - EEG
