@@ -4,8 +4,8 @@ share: true
 title: 'Infrared Colorization Using Deep Convolutional Neural Networks (Paper ID:
   34)'
 author:
-  name: Akash Sonth
-  email: f2015265@pilani.bits-pilani.ac.in
+  name: Abhilash Neog
+  email: f2016004@pilani.bits-pilani.ac.in
 categories:
 - CNN
 tags:
