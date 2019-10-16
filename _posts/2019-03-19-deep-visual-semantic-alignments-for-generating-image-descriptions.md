@@ -4,12 +4,12 @@ share: true
 title: 'Deep Visual-Semantic Alignments for Generating Image Descriptions (Paper ID:
   122)'
 author:
-  name: Charu Jain
-  email: f2015825@pilani.bits-pilani.ac.in
+  name: Sahil Ranadive
+  email: f2016097@pilani.bits-pilani.ac.in
 categories:
 - Image description
-- RNNs
-- CNNs
+- RNN
+- CNN
 tags:
 - Hard
 date: 2019-03-19 10:10:19 +0000
