@@ -4,8 +4,8 @@ share: true
 title: 'AdaNet: Adaptive Structural Learning of Artificial Neural Networks (Paper
   ID: 11)'
 author:
-  name: Achal Agarwal
-  email: f2015436@pilani.bits-pilani.ac.in
+  name: Saksham Consul
+  email: f2016424@pilani.bits-pilani.ac.in
 categories:
 - Artificial Neural Network
 - Milestone
