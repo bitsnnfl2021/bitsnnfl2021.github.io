@@ -3,8 +3,8 @@ layout: post
 share: true
 title: 'Deep Neural Networks for Object Detection (Paper ID: 81)'
 author:
-  name: Sanskriti Sharma
-  email: f2015553@pilani.bits-pilani.ac.in
+  name: Sahil Ranadive
+  email: f2016097@pilani.bits-pilani.ac.in
 categories:
 - Computer Vision
 - Object Detection
