@@ -3,8 +3,8 @@ layout: post
 share: true
 title: 'Everybody Dance Now (Paper ID: 44)'
 author:
-  name: Amit Tiwary
-  email: f2015818@pilani.bits-pilani.ac.in
+  name: Aditi Agarwal
+  email: f2016095@pilani.bits-pilani.ac.in
 categories:
 - Video Translation
 - GANs
