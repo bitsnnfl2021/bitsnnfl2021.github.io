@@ -3,8 +3,8 @@ layout: post
 share: true
 title: 'Human Level Control Through Deep Reinforcement Learning. (Paper ID: 63)'
 author:
-  name: Kabir Ahuja
-  email: f2015791@pilani.bits-pilani.ac.in
+  name: Aashay Mehta
+  email: f2016079@pilani.bits-pilani.ac.in
 categories:
 - Reinforcement Learning
 tags:
