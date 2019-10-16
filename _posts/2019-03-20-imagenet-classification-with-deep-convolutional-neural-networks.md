@@ -4,8 +4,8 @@ share: true
 title: 'ImageNet Classification with Deep Convolutional Neural Networks (Paper ID:
   105)'
 author:
-  name: Tanay Agrawal
-  email: f2015567@pilani.bits-pilani.ac.in
+  name: Abhilash Neog
+  email: f2016004@pilani.bits-pilani.ac.in
 categories:
 - CNN
 tags:
