@@ -3,8 +3,8 @@ layout: post
 share: true
 title: 'Deep Compression (Paper ID: 21)'
 author:
-  name: Aditya Rana
-  email: f2016182@pilani.bits-pilani.ac.in
+  name: Parth Patel
+  email: f2016150@pilani.bits-pilani.ac.in
 categories:
 - Architecture
 tags:
