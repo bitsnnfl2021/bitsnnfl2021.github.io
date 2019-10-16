@@ -4,8 +4,8 @@ share: true
 title: 'Character-level Convolutional Networks for Text Classification (Paper ID:
   51)'
 author:
-  name: Harsh Jaiswal
-  email: f2015525@pilani.bits-pilani.ac.in
+  name: Aashay Mehta
+  email: f2016079@pilani.bits-pilani.ac.in
 categories:
 - NLP
 tags:
