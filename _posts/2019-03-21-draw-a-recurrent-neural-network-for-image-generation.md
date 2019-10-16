@@ -3,8 +3,8 @@ layout: post
 share: true
 title: 'DRAW: A Recurrent Neural Network For Image Generation (Paper ID: 91)'
 author:
-  name: Suvigya Vijay
-  email: f2015606@pilani.bits-pilani.ac.in
+  name: Parth Patel
+  email: f2016150@pilani.bits-pilani.ac.in
 categories:
 - RNN
 - Attention
