@@ -1,7 +1,7 @@
 ---
 layout: post
 share: true
-title: 'WESPE: Weakly Supervised Photo Enhancer for Digital Cameras (Paper ID: 182)'
+title: 'Focal Loss for Dense Object Detection (Paper ID: 182)'
 author:
   name: Smith Shah
   email: f2016039@pilani.bits-pilani.ac.in
