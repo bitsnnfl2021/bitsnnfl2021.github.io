@@ -21,7 +21,10 @@ date: 2019-10-09 13:47:49 +0000
 
 **Guidelines:**
 
-1. Your job is to implement the core model using Keras, Tensorflow or PyTorch(preferably) on the given datasets.
-2. Reproduce the results of the research paper for all the given metrics.
+1. Implement the proposed architecture that gives the best results and train it on the MS COCO dataset as mentioned in the paper.
+2. As a debug step train your model on a small number of examples (50-100) and see if your model is able to overfit on those examples.
+3. Obtain the learning curves showing the validation and training loss after each epoch. Report your final results in the form of the Average Precision(AP) metric and Intersection over Union(IoU) as mentioned in the paper.
+
+(Bonus): Comparison with other variants like OHEM or other models.
 
 **Dataset Link**: [http://cocodataset.org/#home](http://cocodataset.org/#home)
