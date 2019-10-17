@@ -29,7 +29,7 @@ date: 2019-10-09 13:47:49 +0000
 
 Bonus: Ablation studies in Section 4.2 and 4.3.
 
-Useful Links: https://medium.com/coinmonks/paper-review-of-zfnet-the-winner-of-ilsvlc-2013-image-classification-d1a5a0c45103
+Useful Links: [https://medium.com/coinmonks/paper-review-of-zfnet-the-winner-of-ilsvlc-2013-image-classification-d1a5a0c45103](https://medium.com/coinmonks/paper-review-of-zfnet-the-winner-of-ilsvlc-2013-image-classification-d1a5a0c45103)
 
 **Dataset Link**: [http://image-net.org](http://image-net.org)
 
