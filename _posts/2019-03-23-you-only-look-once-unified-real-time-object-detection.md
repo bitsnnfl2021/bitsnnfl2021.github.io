@@ -23,4 +23,4 @@ date: 2019-03-23 10:23:43 +0000
 
 1. Implement the proposed architecture and train it on the Pascal VOC 2012 dataset.
 2. As a debug step train your model on small number of examples (50-100) and see if your model is able to overfit on those examples.
-3. Obtain the learning curves showing the validation and training loss after each epoch. Report your final results in the form of average Intersection Over Union (IOU) metric.
+3. Obtain the learning curves showing the validation and training loss after each epoch. Report your final results using a suitable metric.
