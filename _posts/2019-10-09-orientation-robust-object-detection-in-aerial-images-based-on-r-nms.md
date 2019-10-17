@@ -22,6 +22,6 @@ date: 2019-10-09 13:47:49 +0000
 
 1. Implement the given architecture as in the paper. It is not mandatory to perform rotated-NMS. Can implement the traditional NMS technique as well.  
 2. The loss functions can be standard ones, specific to the ones used in the standard faster R-CNN network, and may not be the one proposed in the paper.
-3. Report the accuracy in the form of IoU metrics
+3. Report the accuracy in the form of IoU or MAP metrics.
 
 **Dataset Link**: [https://captain-whu.github.io/DOTA/dataset.html](https://captain-whu.github.io/DOTA/dataset.html)
