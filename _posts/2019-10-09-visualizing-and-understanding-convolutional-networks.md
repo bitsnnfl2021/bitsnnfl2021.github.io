@@ -21,7 +21,15 @@ date: 2019-10-09 13:47:49 +0000
 
 **Guidelines:**
 
-1. Reproduce the results of the paper on the datasets that are mentioned in the paper.
+1. Visualize the pre-trained alexnet feature maps using deconvnet.
+2. Modify the alexnet architecture as mentioned in section 4.1 and visualize the new model alongside the pretrained alexnet as shown in Fig. 6 using deconvnet.
+3. Also, try to replicate the single model results mentioned in section 5.1. Ignore the rest of section 5.1.
+4. No need to reproduce the results on other datasets as mentioned in section 5.2, 5.3.
+5. Use the ImageNet 2012 dataset.
+
+Bonus: Ablation studies in Section 4.2 and 4.3.
+
+Useful Links: https://medium.com/coinmonks/paper-review-of-zfnet-the-winner-of-ilsvlc-2013-image-classification-d1a5a0c45103
 
 **Dataset Link**: [http://image-net.org](http://image-net.org)
 
