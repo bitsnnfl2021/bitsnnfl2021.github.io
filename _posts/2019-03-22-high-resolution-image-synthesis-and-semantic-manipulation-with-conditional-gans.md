@@ -26,11 +26,11 @@ This method has a wide range of applications. For example, we can use it to crea
 
 1. Develop a proper understanding of adversarial loss and why is it better?
 2. You can implement the paper using only the Semantic maps and not the instance map _(refer paper for details)_, if curious enough you can implement that too.
-3. **Implementation of pix2pix based architecture with modifications carries the highest credit**.
+3. **Carefully implement the pix2pix based architecture with modifications**.
 4. Save atleast 3 result images.
 5. You are free to code in any framework of your choice.
 6. Dataset Recommended: **_Cityscapes_**
-7. You can use **_small part_** of the Dataset if you have machine limitations, **_more focus for this particular paper will be on your implementation and not high accuracy_**.
+7. You can use **_small part_** of the Dataset if you have machine limitations.
 
 **Side Notes:**
 1. For introduction to GANs, refer [https://medium.com/@jonathan_hui/gan-whats-generative-adversarial-networks-and-its-application-f39ed278ef09](https://medium.com/@jonathan_hui/gan-whats-generative-adversarial-networks-and-its-application-f39ed278ef09) .
