@@ -17,7 +17,11 @@ date: 2019-03-21 13:39:23 +0000
 
 **Paper Link:** [https://arxiv.org/pdf/1602.07360.pdf](https://arxiv.org/pdf/1602.07360.pdf "https://arxiv.org/pdf/1602.07360.pdf")
 
-1. Implement the architecture given in the paper preferrably not in Pytorch.
-2. Plot the graphs and results for Imagenet and COCO dataset both.
-
 **ID:** 93
+
+**Guidelines:**
+
+1. In this paper you need to implement both SqueezeNet and [https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf](AlexNet) architectures.
+2. Compare their performance on the given dataset.
+
+**Dataset Link**: [https://www.kaggle.com/c/tiny-imagenet](https://www.kaggle.com/c/tiny-imagenet)
