@@ -6,7 +6,7 @@ author:
   name: Aashay Mehta
   email: f2016079@pilani.bits-pilani.ac.in
 categories:
-- CNN
+- Graph Neural Network
 - Object Detection
 tags:
 - Medium
