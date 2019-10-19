@@ -25,7 +25,7 @@ date: 2019-10-08 06:21:58 +0000
 2. Use STL-10 dataset for training and validation. Note that you can easily access this dataset using PyTorch. Divide the dataset into train and validation sets. Report accuracy on the validation dataset. Since its not a very large dataset, you may perform image augmentation techniques.
 
 **Side Note:** 
-1. One of the co-authors of this paper is Geoffrey Hinton, widely considered as the Godfather of deep learning.
+1. One of the co-authors of this paper is **Geoffrey Hinton**, widely considered as the Godfather of deep learning.
 2. A good way to getting started with capsule nets might be the following 4 article series: [https://pechyonkin.me/capsules-1/](https://pechyonkin.me/capsules-1/). Please do not think of it as a substitute for reading the original paper, but as a helping hand for understanding the paper fully as the paper itself is not very detailed and leaves some open questions about specifics of the network implementation.
 
 **ID :** 131
