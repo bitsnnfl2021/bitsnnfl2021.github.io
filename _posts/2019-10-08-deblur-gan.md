@@ -20,7 +20,7 @@ date: 2019-10-08 06:22:58 +0000
 
 **Guidelines/Tasks:**
 
-1. Implement the architecture given in the paper using Tensorflow. You may use tf.keras (for using pretrained models like MobileNetV2) but do not use Keras API (with tensorflow backend) directly.
+1. Implement the architecture given in the paper using Tensorflow, PyTorch or Keras.
 2. Use MobileNetV2 as feature extractor rather than VGG19 as prescribed.
 3. You have to divide your dataset into train and validation sets. You can go ahead with any one of the following for dataset:
 - GoPro_Large Dataset ([https://drive.google.com/file/d/1H0PIXvJH4c40pk7ou6nAwoxuR4Qh_Sa2/view](https://drive.google.com/file/d/1H0PIXvJH4c40pk7ou6nAwoxuR4Qh_Sa2/view)): This is a very large dataset (~9GB) but best for training purpose. If you are not able to download it, you can take it from me directly.
