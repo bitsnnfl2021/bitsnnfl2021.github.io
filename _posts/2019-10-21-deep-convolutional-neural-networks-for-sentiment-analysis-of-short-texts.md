@@ -21,7 +21,7 @@ date: 2019-10-21 13:37:49 +0000
 
 **Guidelines:**
 
-1. Use Tensorflow, PyTorch or Keras to implement the given CharSCNN architecture given in the paper.
+1. Use Tensorflow, PyTorch, Keras or Theano to implement the given CharSCNN architecture given in the paper.
 2. For training: either use STS or SSTb. No need to compare with other baseline models, as specified in the paper.
 3. Report accuracy of your model using pre-trained word embeddings.
 
