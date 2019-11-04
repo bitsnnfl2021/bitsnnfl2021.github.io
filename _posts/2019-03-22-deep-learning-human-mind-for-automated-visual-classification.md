@@ -20,8 +20,8 @@ date: 2019-03-22 02:23:36 +0000
 **Tasks:**
 
 1. Acquire the dataset from the sources mentioned by the authors in the paper.
-2. Implement the RNN and autoencoder network to classify images into the 40 ImageNet classes
+2. Implement the RNN and autoencoder network to classify images into the 40 ImageNet classes. Implement atleast 2 approaches for the LSTM encoder if you aren't attempting the CNN (2nd part) part, else implementation of 1 approach would be accepted. 
 3. Bonus: Also implement the transfer of learnt categories to the CNN as mentioned in the paper.
-4. Strictly DO NOT use any pre-exisiting implementations of this paper. Use a different framework.
+4. Strictly DO NOT use any pre-exisiting implementations of this paper (do not use official source code of this paper, if any). Use a different framework (other than that used in the offical source code , if any).
 
 **ID:** 124
