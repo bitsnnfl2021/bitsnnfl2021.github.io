@@ -3,8 +3,8 @@ layout: post
 share: true
 title: 'From Captions to Visual Concepts and Back (Paper ID: 102)'
 author:
-  name: Abhilash Neog
-  email: f2016004@pilani.bits-pilani.ac.in
+  name: Smith Shah
+  email: f2016039@pilani.bits-pilani.ac.in
 categories:
 - Captioning
 tags:
