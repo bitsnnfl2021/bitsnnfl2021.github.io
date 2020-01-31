@@ -19,9 +19,12 @@ Paper Link: [https://papers.nips.cc/paper/6461-learning-to-learn-by-gradient-des
 
 **Task:**
 
-1\. Implement the proposed algorithm (coordinate wise lstm) on the quadratic functions and a small fully connected neural network on MNIST and CIFAR10.  
-2\. Compare the results of the algorithm with other optimization methods like SGD, Adam, RMS Prop as done in the paper.  
- 3. Use the gradient pre-processing technique mentioned in the appendix and compare it with the variant which does not use that pre-processing scheme.  
- 4. Implement either Global averaging cells method or NTM BFGS or NTM L-BFGS on atleast one of the problems mentioned in first point.
+1\. Implement the proposed algorithm (coordinate wise lstm) on the quadratic functions and a small fully connected neural network on MNIST and CIFAR10.
+
+2\. Compare the results of the algorithm with other optimization methods like SGD, Adam, RMS Prop as done in the paper.
+
+3\. Use the gradient pre-processing technique mentioned in the appendix and compare it with the variant which does not use that pre-processing scheme.
+
+4\. Implement either Global averaging cells method or NTM BFGS or NTM L-BFGS on atleast one of the problems mentioned in first point.
 
 **ID:** 101
