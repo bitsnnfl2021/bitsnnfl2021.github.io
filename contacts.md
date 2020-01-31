@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Resources
-permalink: /resources/
+title: Contacts
+permalink: /contacts/
 excerpt: Project Portal
 show_excerpts: true
 paginate: true
