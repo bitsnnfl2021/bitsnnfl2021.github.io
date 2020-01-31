@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Contacts
 permalink: /contacts/
 excerpt: Project Portal
