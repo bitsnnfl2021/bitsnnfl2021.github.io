@@ -1,27 +1,27 @@
 ---
 layout: post
 share: true
-title: 'TEST: Simple convolutional neural network on image classification (Paper ID:
-  101)'
+title: Learning to Learn by Gradient Descent by Gradient Descent
 author:
-  name: Tanay Agrawal
-  email: f2015567@pilani.bits-pilani.ac.in
+  name: Aditya Rana
+  email: f2016182@pilani.bits-pilani.ac.in
 categories:
-- CNN
 - Optimisation
+- Gradient Descent
 tags:
-- Easy
+- Medium
 date: '2019-03-20T06:24:25.000+00:00'
 
 ---
-**Abstract:** In recent years, deep learning has been used in image classification, object tracking, pose estimation, text detection and recognition, visual saliency detection, action recognition and scene labeling. Auto Encoder, sparse coding, Restricted Boltzmann Machine, Deep Belief Networks and Convolutional neural networks is commonly used models in deep learning. Among different type of models, Convolutional neural networks has been demonstrated high performance on image classification. In this paper we bulided a simple Convolutional neural network on image classification. This simple Convolutional neural network completed the image classification. Our experiments are based on benchmarking datasets minist and cifar-10. On the basis of the Convolutional neural network, we also analyzed different methods of learning rate set and different optimization algorithm of solving the optimal parameters of the influence on image classification.
+**Abstract:** The move from hand-designed features to learned features in machine learning has been wildly successful. In spite of this, optimization algorithms are still designed by hand. In this paper we show how the design of an optimization algorithm can be cast as a learning problem, allowing the algorithm to learn to exploit structure in the problems of interest in an automatic way. Our learned algorithms, implemented by LSTMs, outperform generic, hand-designed competitors on the tasks for which they are trained, and also generalize well to new tasks with similar structure. We demonstrate this on a number of tasks, including simple convex problems, training neural networks, and styling images with neural art.
 
-Paper Link: [https://ieeexplore.ieee.org/abstract/document/8078730](https://ieeexplore.ieee.org/abstract/document/8078730 "https://ieeexplore.ieee.org/abstract/document/8078730")
+Paper Link: [https://papers.nips.cc/paper/6461-learning-to-learn-by-gradient-descent-by-gradient-descent.pdf](https://papers.nips.cc/paper/6461-learning-to-learn-by-gradient-descent-by-gradient-descent.pdf "https://papers.nips.cc/paper/6461-learning-to-learn-by-gradient-descent-by-gradient-descent.pdf")
 
 **Task:**
 
-1. Implement the architecture in the paper.
-2. Try different learning rates and update rules and get the graphs as in the paper.
-3. Try different optimisation algorithms and get the graph as in the paper.
+1\. Implement the proposed algorithm (coordinate wise lstm) on the quadratic functions and a small fully connected neural network on MNIST and CIFAR10.  
+2\. Compare the results of the algorithm with other optimization methods like SGD, Adam, RMS Prop as done in the paper.  
+ 3. Use the gradient pre-processing technique mentioned in the appendix and compare it with the variant which does not use that pre-processing scheme.  
+ 4. Implement either Global averaging cells method or NTM BFGS or NTM L-BFGS on atleast one of the problems mentioned in first point.
 
 **ID:** 101
