@@ -1,0 +1,19 @@
+---
+layout: post
+share: true
+title: 'YOLO: You Only Look Once'
+author:
+  name: ''
+  email: ''
+categories: []
+tags: []
+
+---
+The paper is straightforward. Implement the architecture as described in the paper using Keras/Tensorflow. Try training for limited images and of limited categories(say 5000 images for).
+
+* Show quantitative tangibles such as Mean errors, etc.
+* Try new things(say dropout) on your own for improving the results.
+
+Link to the paper : [https://arxiv.org/pdf/1506.02640.pdf](https://arxiv.org/pdf/1506.02640.pdf "https://arxiv.org/pdf/1506.02640.pdf")
+
+Dataset to be used : Pascal VOC 2012
