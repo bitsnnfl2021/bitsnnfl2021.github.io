@@ -16,3 +16,5 @@ entries_layout: list
 	- [CS231n Winter 2016: Lecture 4: Backpropagation, Neural Networks 1](https://www.youtube.com/watch?v=i94OvYb6noo&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&index=4), so you can have a good intuition of backpropagation
 	- [CS231n Winter 2016: Lecture 7: Convolutional Neural Networks](https://www.youtube.com/watch?v=LxfUGhug-iQ&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&index=7)
 	- [CS231n Winter 2016: Lecture 8: Localization and Detection](https://www.youtube.com/watch?v=GxZrEKZfW2o&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&index=8), for those who want to know enough to be able to choose a good design project.
+
+3. [Jupyter Notebooks Tutorial](https://github.com/adityassrana/BITS-F312-Neural-Networks-and-Fuzzy-Logic), for those who are new to Jupyter Notebooks.
