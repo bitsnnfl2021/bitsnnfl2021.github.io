@@ -3,8 +3,8 @@ layout: post
 share: true
 title: 'YOLO: You Only Look Once'
 author:
-  name: ''
-  email: ''
+  name: Team NNFL
+  email: bitsnnfl@gmail.com
 categories: []
 tags: []
 
