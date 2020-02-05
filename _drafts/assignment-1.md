@@ -12,6 +12,8 @@ tags: []
 # Assignment 1 Draft
 
 * This drive link contains the Assignment 1 draft notebooks.
+
+  [https://drive.google.com/drive/folders/1YZWYzhRmqZcVZXKMO1sv_QoA-OgkK5WW?usp=sharing](https://drive.google.com/drive/folders/1YZWYzhRmqZcVZXKMO1sv_QoA-OgkK5WW?usp=sharing "Drive Link")
 * The assignment is majorly divided into two sections:
   * PCA
   * SVD
