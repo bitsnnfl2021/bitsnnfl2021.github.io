@@ -7,7 +7,9 @@ author:
   email: bitsnnfl@gmail.com
 categories:
 - cnn
-tags: []
+- tuning
+tags:
+- easy
 
 ---
 [https://arxiv.org/abs/1812.01187](https://arxiv.org/abs/1812.01187 "https://arxiv.org/abs/1812.01187")
