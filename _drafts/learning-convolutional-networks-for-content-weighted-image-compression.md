@@ -19,13 +19,13 @@ Conference : CVPR 2018
 
 **Task:**
 
-1\. Implement the autoencoder proposed in the paper without the importance map branch.
+1. Implement the autoencoder proposed in the paper without the importance map branch.
 
-2\. The binarizer function is non-differentiable so you will have to write your own forward pass and backward pass for this unit.
+2. The binarizer function is non-differentiable so you will have to write your own forward pass and backward pass for this unit.
 
-3\. Use the gradient pre-processing technique mentioned in the appendix and compare it with the variant which does not use that pre-processing scheme.
+3. sds 
 
-4\. Implement either Global averaging cells method or NTM BFGS or NTM L-BFGS on atleast one of the problems mentioned in first point.
+4. Plot bit-rate vs PSNR/SSIM as given in paper
 
 **Dataset**
 Use any publicly available dataset with high quality images. You may use [Flickr30k ](https://www.kaggle.com/hsankesara/flickr-image-dataset#1001545525.jpg) or [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/)
