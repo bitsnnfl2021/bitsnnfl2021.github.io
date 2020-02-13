@@ -7,6 +7,7 @@ author:
   email: bitsnnfl@gmail.com
 categories:
 - Object Detection
+- CNN
 tags: []
 
 ---
