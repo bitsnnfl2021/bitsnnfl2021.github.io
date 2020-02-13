@@ -41,10 +41,10 @@ fields:
   default: true
 pages:
 - _posts/2020-02-01-yolo-you-only-look-once.md
+- _posts/2020-02-13-learning-convolutional-networks-for-content-weighted-image-compression.md
 - _posts/deep-residual-learning-for-image-recognition.md
 - _posts/id-31-bag-of-tricks-for-image-classification-with-convolutional-neural-networks.md
 - _posts/id-32-linknet-exploiting-encoder-representations-for-efficient-semantic-segmentation.md
 - _posts/id-63-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.md
 - _posts/id-64-inception-v4-inception-resnet-and-the-impact-of-residual-connections-on-learning.md
 - _posts/id-71-u-net-convolutional-networks-for-biomedical-image-segmentation.md
-- _posts/learning-convolutional-networks-for-content-weighted-image-compression.md
