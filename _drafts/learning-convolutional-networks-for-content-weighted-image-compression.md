@@ -7,7 +7,7 @@ author:
   email: bitsnnfl@gmail.com
 categories:
 - Autoencoders
-- Compression
+- Image Compression
 tags: []
 
 ---
