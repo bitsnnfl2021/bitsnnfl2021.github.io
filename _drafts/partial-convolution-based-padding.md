@@ -22,10 +22,8 @@ Conference : IEEE PAMI 2016
 
 2\. Implement the proper dataloader with any 2 data augmentation techniques.
 
-3\. Show reconstructed images and calculate the corresponding PSNR/SSIM metrics.
+3\. Show reconstructed images and calculate the corresponding PSNR metric.
 
-4\. (Bonus):You can try to implement the binarizer function. It is non-differentiable so you may choose to write your own forward pass and backward pass for this unit using this [link](https://pytorch.org/tutorials/beginner/examples_autograd/two_layer_net_custom_function.html). The bonus is just for you to learn more from this project. Do it only if you have time left towards the end.
-
-**Dataset** Use any publicly available dataset with high quality images. You may use [http://www.image-net.org/](http://www.image-net.org/ "ImageNet")
+**Dataset** Use any publicly available dataset with high quality images. You may use [ImageNet](http://www.image-net.org/)
 
 **ID:** 21
