@@ -19,13 +19,11 @@ Conference : CVPR 2018
 
 **Task:**
 
-1. Implement the autoencoder proposed in the paper without the importance map branch.
+1./ Implement the autoencoder proposed in the paper without the importance map branch.
 
-2. The binarizer function is non-differentiable so you will have to write your own forward pass and backward pass for this unit.
+2./ The binarizer function is non-differentiable so you will have to write your own forward pass and backward pass for this unit.
 
-3. sds 
-
-4. Plot bit-rate vs PSNR/SSIM as given in paper
+3./ Show reconstructed images and calculate the PSNR/SSIM
 
 **Dataset**
 Use any publicly available dataset with high quality images. You may use [Flickr30k ](https://www.kaggle.com/hsankesara/flickr-image-dataset#1001545525.jpg) or [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/)
