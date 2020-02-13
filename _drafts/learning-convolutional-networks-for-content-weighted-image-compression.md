@@ -15,6 +15,8 @@ tags: []
 
 Paper Link: [https://arxiv.org/pdf/1703.10553.pdf]()
 
+Conference : CVPR 2018
+
 **Task:**
 
 1\. Implement the proposed algorithm (coordinate wise lstm) on the quadratic functions and a small fully connected neural network on MNIST and CIFAR10.
