@@ -5,7 +5,8 @@ title: "[ID:61] YOLO: You Only Look Once"
 author:
   name: Team NNFL
   email: bitsnnfl@gmail.com
-categories: []
+categories:
+- Object Detection
 tags: []
 
 ---
