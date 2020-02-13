@@ -22,7 +22,7 @@ Conference : IEEE PAMI 2016
 
 2\. Implement the proper dataloader with any 2 data augmentation techniques.
 
-3\. Show reconstructed images and calculate the corresponding PSNR metric.
+3\. Show reconstructed images and calculate the corresponding PSNR metric for a single filter configuration. Check Table 1
 
 **Dataset** Use any publicly available dataset with high quality images. You may use [ImageNet](http://www.image-net.org/)
 
