@@ -19,7 +19,7 @@ Conference : CVPR 2018
 
 **Task:**
 
-1\. Implement the autoencoder proposed in the paper without the importance map branch and without the binarizer.
+1\. Implement the autoencoder proposed in the paper without the importance map branch and without the binarizer. You are expected to learn and present all the ideas from the paper, even the ones that you are not presenting.
 
 2\. Implement the proper dataloader with any 2 data augmentation techniques.
 
