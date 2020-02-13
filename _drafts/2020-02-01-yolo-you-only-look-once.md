@@ -14,8 +14,8 @@ The paper is straightforward. Implement the architecture as described in the pap
 * Show quantitative tangibles such as Mean errors, etc.
 * Try new things (say dropout) on your own for improving the results.
 
-Link to the paper : [https://arxiv.org/pdf/1506.02640.pdf](https://arxiv.org/pdf/1506.02640.pdf "https://arxiv.org/pdf/1506.02640.pdf")
+Link to the paper: [https://arxiv.org/pdf/1506.02640.pdf](https://arxiv.org/pdf/1506.02640.pdf "https://arxiv.org/pdf/1506.02640.pdf")
 
-Dataset to be used : Pascal VOC 2012
+Dataset to be used: Pascal VOC 2012
 
 ID: 61
