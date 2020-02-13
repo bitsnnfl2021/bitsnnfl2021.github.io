@@ -19,9 +19,9 @@ Conference : CVPR 2018
 
 **Task:**
 
-1\. Implement the proposed algorithm (coordinate wise lstm) on the quadratic functions and a small fully connected neural network on MNIST and CIFAR10.
+1\. Implement the autoencoder proposed in the paper without the importance map branch.
 
-2\. Compare the results of the algorithm with other optimization methods like SGD, Adam, RMS Prop as done in the paper.
+2\. The binarizer function is non-differentiable so you will have to write your own forward pass and backward pass for this unit.
 
 3\. Use the gradient pre-processing technique mentioned in the appendix and compare it with the variant which does not use that pre-processing scheme.
 
