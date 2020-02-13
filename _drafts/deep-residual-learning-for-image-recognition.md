@@ -1,11 +1,12 @@
 ---
 layout: post
 share: true
-title: "[62] Deep Residual Learning for Image Recognition"
+title: "[ID:62] Deep Residual Learning for Image Recognition"
 author:
-  name: D
+  name: Team NNFL
   email: bitsnnfl@gmail.com
 categories: []
 tags: []
 
 ---
+Adding Details Soon.
