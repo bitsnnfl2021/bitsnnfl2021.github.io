@@ -9,9 +9,7 @@ entries_layout: list
 ---
 ## Design Project
 
-1. You are expected to learn and present all the ideas from the paper, even the ones that you are not presenting.
-
-
+1. You are expected to learn and present all the ideas from the paper, even the parts that you are not implementing.
 
 
 
