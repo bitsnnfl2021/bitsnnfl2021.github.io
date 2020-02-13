@@ -7,6 +7,7 @@ author:
   email: bitsnnfl@gmail.com
 categories:
 - Image Recognition
+- Res-Nets
 tags: []
 
 ---
