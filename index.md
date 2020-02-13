@@ -7,11 +7,6 @@ paginate: true
 entries_layout: list
 
 ---
-## Design Project
-
-1. You are expected to learn and present all the ideas from the paper, even the parts that you are not implementing.
-
-
 ### Assignment 1
 
 1) The notebooks are available at https://github.com/bitsnnfl/Assignment1-2020
