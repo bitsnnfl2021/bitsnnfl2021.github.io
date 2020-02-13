@@ -46,4 +46,5 @@ pages:
 - _posts/deep-residual-learning-for-image-recognition.md
 - _posts/id-31-bag-of-tricks-for-image-classification-with-convolutional-neural-networks.md
 - _posts/id-32-linknet-exploiting-encoder-representations-for-efficient-semantic-segmentation.md
+- _posts/id-63-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.md
 - _posts/id-71-u-net-convolutional-networks-for-biomedical-image-segmentation.md
