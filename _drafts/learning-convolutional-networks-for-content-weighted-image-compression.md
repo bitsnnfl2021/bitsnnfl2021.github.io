@@ -27,4 +27,7 @@ Conference : CVPR 2018
 
 4\. Implement either Global averaging cells method or NTM BFGS or NTM L-BFGS on atleast one of the problems mentioned in first point.
 
+**Dataset**
+Use any publicly available dataset with high quality images. You may use [Flickr30k ](https://www.kaggle.com/hsankesara/flickr-image-dataset#1001545525.jpg) or [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/)
+
 **ID:** 21
