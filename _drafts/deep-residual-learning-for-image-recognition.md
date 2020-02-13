@@ -1,10 +1,10 @@
 ---
 layout: post
 share: true
-title: Deep Residual Learning for Image Recognition
+title: "[62] Deep Residual Learning for Image Recognition"
 author:
-  name: ''
-  email: ''
+  name: D
+  email: bitsnnfl@gmail.com
 categories: []
 tags: []
 
