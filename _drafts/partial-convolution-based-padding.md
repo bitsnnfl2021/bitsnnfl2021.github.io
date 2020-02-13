@@ -18,13 +18,13 @@ Conference : IEEE PAMI 2016
 
 **Task:**
 
-1\. Implement the autoencoder proposed in the paper without the importance map branch and without the binarizer.
+1\. Implement the architecture given in the paper using PyTorch.
 
 2\. Implement the proper dataloader with any 2 data augmentation techniques.
 
 3\. Show reconstructed images and calculate the corresponding PSNR/SSIM metrics.
 
-4\. (Bonus): The binarizer function is non-differentiable so you may choose to write your own forward pass and backward pass for this unit using this [link](https://pytorch.org/tutorials/beginner/examples_autograd/two_layer_net_custom_function.html). The bonus is just for you to learn more from this project. Do it only if you have time left towards the end.
+4\. (Bonus):You can try to implement the binarizer function. It is non-differentiable so you may choose to write your own forward pass and backward pass for this unit using this [link](https://pytorch.org/tutorials/beginner/examples_autograd/two_layer_net_custom_function.html). The bonus is just for you to learn more from this project. Do it only if you have time left towards the end.
 
 **Dataset** Use any publicly available dataset with high quality images. You may use [Flickr30k ](https://www.kaggle.com/hsankesara/flickr-image-dataset#1001545525.jpg) or [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/)
 
