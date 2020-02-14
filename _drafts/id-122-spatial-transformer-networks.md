@@ -17,13 +17,14 @@ Paper Link : [https://arxiv.org/pdf/1506.02025.pdf](https://arxiv.org/pdf/1506.0
 
 Conference : NIPS
 
-**Task :** 
+**Task :**
 
 1. Implement the model discussed in paper in three parts:
    * Localisation Network
    * Parameterised Sampling Grid
    * Differentiable Image Sampling.
-2. All three of the above should be implemented separately such that they can be tested individually.
-3. Test the model according to the sections 4.1 and 4.2 of the Paper.You can use any dataset available. You can also use the 2 datasets mentioned in the paper . Refer to this link for reducing the size of datasets : [https://stackoverflow.com/questions/44634007/how-to-subset-a-mnist-dataset](https://stackoverflow.com/questions/44634007/how-to-subset-a-mnist-dataset "https://stackoverflow.com/questions/44634007/how-to-subset-a-mnist-dataset")
+2.  Implement the proper dataloader with any 2 data augmentation techniques.
+3. All three of the above should be implemented separately such that they can be tested individually.
+4. Test the model according to the sections 4.1 and 4.2 of the Paper.You can use any dataset available. You can also use the 2 datasets mentioned in the paper . Refer to this link for reducing the size of datasets : [https://stackoverflow.com/questions/44634007/how-to-subset-a-mnist-dataset](https://stackoverflow.com/questions/44634007/how-to-subset-a-mnist-dataset "https://stackoverflow.com/questions/44634007/how-to-subset-a-mnist-dataset")
 
 **Dataset:** Already mentioned in 2 point of Tasks (MNIST and SVNH).
