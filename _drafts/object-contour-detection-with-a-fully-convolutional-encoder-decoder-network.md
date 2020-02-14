@@ -23,10 +23,9 @@ Conference : CVPR 2016
 
 3\. Show results similar on edge and contour detection as given in Figure 5
 
-4\. 
+4\. Generate precision vs recall curve  given in Figure 4
 
  
-
-**Dataset** PASCAL VOC
+**Dataset** PASCAL VOC 2012
 
 **ID:** 21
