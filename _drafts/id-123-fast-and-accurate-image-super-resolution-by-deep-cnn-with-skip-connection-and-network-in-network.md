@@ -22,6 +22,6 @@ Conference :CVPR
 **Task:**
 
 1. Implement the CNN model discussed in paper in an framework other than PyTorch.
-2. Show the Train and test the models for atleast two different datasets and do comparison on the basis of PSNR.
+2. Show reconstructed images and calculate the corresponding PSNR/SSIM metrics.
 
 **Dataset** : Use any publicly available dataset with high quality images. You may use  [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/)
