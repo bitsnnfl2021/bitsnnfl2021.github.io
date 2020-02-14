@@ -21,4 +21,4 @@ Conference : ICML 2014
 
 **Tasks:**
 
-1. 
+1. Implement the proper dataloader with any 2 data augmentation techniques.
