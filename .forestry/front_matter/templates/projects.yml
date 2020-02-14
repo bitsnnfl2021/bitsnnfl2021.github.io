@@ -57,6 +57,7 @@ pages:
 - _posts/id-51-mask-r-cnn.md
 - _posts/id-52-convolutional-neural-network-with-an-optimized-backpropagation-technique.md
 - _posts/id-53-controlled-dropout-a-different-approach-to-using-dropout-on-deep-neural-network.md
+- _posts/id-54-self-training-with-adaptive-regularization-for-s3vm.md
 - _posts/id-63-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.md
 - _posts/id-64-inception-v4-inception-resnet-and-the-impact-of-residual-connections-on-learning.md
 - _posts/id-71-u-net-convolutional-networks-for-biomedical-image-segmentation.md
