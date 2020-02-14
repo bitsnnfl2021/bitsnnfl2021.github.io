@@ -21,8 +21,8 @@ Conference :CVPR
 
 **Task:**
 
-1. Implement the CNN model discussed in paper in an framework other than PyTorch.
-2.  Implement the proper dataloader with any 2 data augmentation techniques.
+1. Implement the CNN model discussed in paper in keras.
+2. Implement the proper dataloader with any 2 data augmentation techniques.
 3. Show reconstructed images and calculate the corresponding PSNR/SSIM metrics.
 
 **Dataset** : Use any publicly available dataset with high quality images. You may use  [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/)
