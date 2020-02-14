@@ -51,6 +51,7 @@ pages:
 - _posts/id-121-dropout-a-simple-way-to-prevent-neural-networks-from-overfitting.md
 - _posts/id-122-spatial-transformer-networks.md
 - _posts/id-123-fast-and-accurate-image-super-resolution-by-deep-cnn-with-skip-connection-and-network-in-network.md
+- _posts/id-124-overfeat-integrated-recognition-localization-and-detection-using-convolutional-networks.md
 - _posts/id-31-bag-of-tricks-for-image-classification-with-convolutional-neural-networks.md
 - _posts/id-32-linknet-exploiting-encoder-representations-for-efficient-semantic-segmentation.md
 - _posts/id-63-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.md
