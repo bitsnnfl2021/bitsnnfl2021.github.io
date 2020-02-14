@@ -21,6 +21,8 @@ This paper exhibits an Object recognition technique using the Convolutional Neur
 
 (Use [Sci Hub](https://sci-hub.tw/ "Sci Hub") in case you are not able to access the paper)
 
+**Published in:** [2019 IEEE International Conference on System, Computation, Automation and Networking (ICSCAN)](https://ieeexplore.ieee.org/xpl/conhome/8870340/proceeding)
+
 **Tasks:**
 
 1. Implement the model in Tensorflow. Specify the number of layers of each type for the CNN that you are implementing.
