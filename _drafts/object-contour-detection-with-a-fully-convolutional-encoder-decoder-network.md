@@ -4,7 +4,8 @@ author:
   name: Team NNFL
   email: bitsnnfl@gmail.com
 share: true
-title: Object Contour Detection with a Fully Convolutional Encoder-Decoder Network
+title: "[ID_24]Object Contour Detection with a Fully Convolutional Encoder-Decoder
+  Network"
 categories: []
 tags: []
 
