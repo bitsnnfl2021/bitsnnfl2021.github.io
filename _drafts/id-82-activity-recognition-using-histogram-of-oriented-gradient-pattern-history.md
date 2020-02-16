@@ -4,8 +4,8 @@ author:
   name: Team NNFL
   email: bitsnnfl@gmail.com
 share: true
-title: "[ID_82] ACTIVITY RECOGNITION USING HISTOGRAM OF ORIENTED GRADIENT PATTERN
-  HISTORY"
+title: "[ID_82] Activity Recognition using Histogram Of Oriented Gradient Pattern
+  History"
 categories:
 - Action Recognition
 tags: []
