@@ -16,6 +16,6 @@ tags: []
 
 **Paper Link:** [https://arxiv.org/pdf/1505.04597.pdf](https://arxiv.org/pdf/1505.04597.pdf "https://arxiv.org/pdf/1505.04597.pdf")
 
-**Conference:** 
+**Conference:** MICCAI 2015
 
 **Task:**
