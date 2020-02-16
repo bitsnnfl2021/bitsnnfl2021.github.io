@@ -4,7 +4,7 @@ author:
   name: Team NNFL
   email: bitsnnfl@gmail.com
 share: true
-title: "[ID 62] Recursive Deep Models for Semantic Compositionality Over a Sentiment
+title: "[ID_62] Recursive Deep Models for Semantic Compositionality Over a Sentiment
   Treebank"
 categories:
 - Sentiment Analysis
