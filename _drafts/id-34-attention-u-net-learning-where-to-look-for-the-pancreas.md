@@ -20,8 +20,10 @@ tags:
 **Task:**
 
 1. Implement the network architecture
-2. Try and replciate the results on the relevant metrics in the paper
+2. Try and replicate the results on the relevant metrics in the paper
 
 **Dataset:**
 
 [https://wiki.cancerimagingarchive.net/display/Public/Pancreas-CT](https://wiki.cancerimagingarchive.net/display/Public/Pancreas-CT "https://wiki.cancerimagingarchive.net/display/Public/Pancreas-CT")
+
+**Framework:** You cannot use PyTorch for this paper.
