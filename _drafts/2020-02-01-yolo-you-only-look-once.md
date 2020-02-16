@@ -21,4 +21,5 @@ Tasks:
 
 1. Implement the LSTM architecture in Tensorflow.
 2. Show the results for Text Classification. (Dataset-SST is mentioned in the paper)
-3. 
+
+ID: 61
