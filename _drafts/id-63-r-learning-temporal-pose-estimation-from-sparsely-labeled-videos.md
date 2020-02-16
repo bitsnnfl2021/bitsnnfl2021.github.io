@@ -21,6 +21,6 @@ Conference: Neurl IPS 2019
 Tasks:
 
 1. Implement the paper in Tensorflow.
-2. Implement a data-
+2. Implement a proper data-loader with any 2 data augmentation techniques.
 3. Dataset to be used is PoseTrack 2017/2018
 4. Show quantifiable measures such as mAP.
