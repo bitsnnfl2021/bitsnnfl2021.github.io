@@ -1,23 +1,24 @@
 ---
 layout: post
 share: true
-title: "[ID:61] YOLO: You Only Look Once"
+title: "[ID_61] Star-Transformer"
 author:
   name: Team NNFL
   email: bitsnnfl@gmail.com
 categories:
-- Object Detection
-- CNN
+- Natural Language Inference
+- Text Classification
 tags: []
 
 ---
-The paper is straightforward. Implement the architecture as described in the paper using Keras/Tensorflow. Try training for limited images and of limited categories(say 5000 images for).
+Although Transformer has achieved great successes on many NLP tasks, its heavy structure with fully-connected attention connections leads to dependencies on large training data. In this paper, we present StarTransformer, a lightweight alternative by careful sparsification. To reduce model complexity, we replace the fully-connected structure with a star-shaped topology, in which every two non-adjacent nodes are connected through a shared relay node. Thus, complexity is reduced from quadratic to linear, while preserving capacity to capture both local composition and long-range dependency. The experiments on four tasks (22 datasets) show that Star-Transformer achieved significant improvements against the standard Transformer for the modestly sized datasets.
 
-* Show quantitative tangibles such as Mean errors, etc.
-* Try new things (say dropout) on your own for improving the results.
+Paper: [https://arxiv.org/pdf/1902.09113v2.pdf](https://arxiv.org/pdf/1902.09113v2.pdf "https://arxiv.org/pdf/1902.09113v2.pdf")
 
-Link to the paper: [https://arxiv.org/pdf/1506.02640.pdf](https://arxiv.org/pdf/1506.02640.pdf "https://arxiv.org/pdf/1506.02640.pdf")
+NAACL 2019
 
-Dataset to be used- Pascal VOC 2012
+Tasks:
 
-ID: 61
+1. Implement the LSTM architecture in Tensorflow.
+2. Show the results for Text Classification. (Dataset-SST is mentioned in the paper)
+3. 
