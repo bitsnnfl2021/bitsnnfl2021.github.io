@@ -4,7 +4,7 @@ author:
   name: Team NNFL
   email: bitsnnfl@gmail.com
 share: true
-title: SEMI-SUPERVISED CLASSIFICATION WITH GRAPH CONVOLUTIONAL NETWORKS
+title: "[ID:72]Semi-Supervised Classification With Graph Convolutional Networks"
 categories:
 - Graphs
 - Convolutional Networks
