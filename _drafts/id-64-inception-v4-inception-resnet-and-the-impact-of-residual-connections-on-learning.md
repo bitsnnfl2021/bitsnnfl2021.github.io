@@ -9,6 +9,7 @@ categories:
 - Edge Detection
 - Image Classification
 - Object Detection
+- Faster R-CNN
 tags: []
 
 ---
@@ -16,4 +17,7 @@ Abstract—Convolutional neural networks (CNNs) learn filters in order to captur
 
 Tasks:
 
-Implement the architecture as mentioned in the Paper.
+1. Train Faster R-CNN model based on harmonic ResNets mentioned in the paper for Object Detection and Segmentation on Pascal VOC (Topic 5 in the paper).
+2. Implementation to be done in Tensorflow.
+3. Implement the proper data-loader with any 2 data augmentation techniques.
+4. Show results in mAP (mean Average Precision).
