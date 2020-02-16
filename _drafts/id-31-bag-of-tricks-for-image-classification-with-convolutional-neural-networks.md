@@ -43,7 +43,7 @@ Tasks for group 2:
 Both groups have to show their results on two different datasets (both available at [https://github.com/fastai/imagenette](https://github.com/fastai/imagenette "https://github.com/fastai/imagenette")):  
 1\. Imagenette (a simpler, easy subset of Imagenet)
 
-2. Imagewoof (a relatively harder subset of Imagenet)
+1. Imagewoof (a relatively harder subset of Imagenet)
 
 Bonus: After implementing the tasks assigned to you, try and implement the tweaks assigned to the other group if you have time left.
 
