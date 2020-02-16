@@ -7,9 +7,9 @@ author:
   email: bitsnnfl@gmail.com
 categories:
 - cnn
-- tuning
+- hyperparameter tuning
 tags:
-- easy
+- medium
 
 ---
 _This paper will be assigned to two separate groups._
