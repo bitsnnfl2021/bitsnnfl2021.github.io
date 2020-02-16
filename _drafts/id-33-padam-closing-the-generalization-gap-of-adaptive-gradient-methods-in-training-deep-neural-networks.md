@@ -22,14 +22,14 @@ tags:
 **Task:**
 
 1. Implement the PADAM Optimizer
-2. Compare PADAM's generalization performance with Adam, SGD+Momentum and Amsgrad using a Resnet34 Network.
+2. Compare PADAM's generalization performance with Adam, SGD+Momentum and Amsgrad using a Resnet34.
 3. Show results on 2 datasets: Imagenet and Imagewoof.
 
 ***
 
 **Dataset:**
 
- Show results on two different datasets (both available at [https://github.com/fastai/imagenette](https://github.com/fastai/imagenette "https://github.com/fastai/imagenette")):  
+Show results on two different datasets (both available at [https://github.com/fastai/imagenette](https://github.com/fastai/imagenette "https://github.com/fastai/imagenette")):  
 1\. Imagenette (a simpler, easy subset of Imagenet)
 
 2\. Imagewoof (a relatively harder subset of Imagenet)
