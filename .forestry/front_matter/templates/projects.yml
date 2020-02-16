@@ -54,6 +54,7 @@ pages:
 - _posts/id-124-overfeat-integrated-recognition-localization-and-detection-using-convolutional-networks.md
 - _posts/id-31-bag-of-tricks-for-image-classification-with-convolutional-neural-networks.md
 - _posts/id-32-linknet-exploiting-encoder-representations-for-efficient-semantic-segmentation.md
+- _posts/id-33-padam-closing-the-generalization-gap-of-adaptive-gradient-methods-in-training-deep-neural-networks.md
 - _posts/id-51-mask-r-cnn.md
 - _posts/id-52-convolutional-neural-network-with-an-optimized-backpropagation-technique.md
 - _posts/id-53-controlled-dropout-a-different-approach-to-using-dropout-on-deep-neural-network.md
