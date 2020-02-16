@@ -19,3 +19,7 @@ tags: []
 **Conference:** MICCAI 2015
 
 **Task:**
+
+1)Implement the encoder-decoder architecture in a framework of your choice.
+
+2)Add Skip Connections
