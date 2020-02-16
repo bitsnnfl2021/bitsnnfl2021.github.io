@@ -6,8 +6,8 @@ author:
   name: BITS NNFL
   email: bitsnnfl@gmail.com
 categories:
-- cnn
 - hyperparameter tuning
+- cnn
 tags:
 - medium
 
