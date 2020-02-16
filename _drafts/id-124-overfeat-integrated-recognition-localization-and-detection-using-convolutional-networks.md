@@ -24,4 +24,11 @@ Conference : ICLR 2013
 **Tasks**
 
 1. Implement the proper dataloader with any 2 data augmentation techniques.
-2. 
+2. Build three different models as mentioned in the paper :
+   * Classifiaction
+   * localization
+   * detection
+3. For each model test them according to section 3.4, 4.4 and 5 respectively.
+4. Calculate the mean average precision score for each model separately.
+
+**Datasets** : Any dataset of your choice (please take a subset dataset of ImageNet if using ImageNet).
