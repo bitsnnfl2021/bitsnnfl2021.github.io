@@ -14,13 +14,17 @@ tags: []
 
 Paper Link: [https://arxiv.org/pdf/1907.11830.pdf](https://arxiv.org/pdf/1907.11830.pdf "https://arxiv.org/pdf/1907.11830.pdf")
 
-Conference : 
+Conference :
 
 **Task:**
 
-1\.  Implement the Reprojection R-CNN architecture
+1\.  Implement the proper dataloader with any two augmentation techniques.
 
-2\. Compare the performance of the architecture on VOC360 and COCO-MEN datasets. 
+2\. Implement the Reprojection R-CNN architecture
+
+3\. Compare the performance of the architecture on VOC360 and COCO-MEN datasets. (Refer table 2)
+
+4\. You can use any framework.
 
 **Dataset**: VOC360. You may download it from here: [https://researchdata.sfu.ca/islandora/object/sfu%3A2724](https://researchdata.sfu.ca/islandora/object/sfu%3A2724 "https://researchdata.sfu.ca/islandora/object/sfu%3A2724")
 
