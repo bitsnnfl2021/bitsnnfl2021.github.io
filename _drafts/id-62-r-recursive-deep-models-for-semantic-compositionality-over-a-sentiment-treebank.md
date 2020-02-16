@@ -15,9 +15,12 @@ Semantic word spaces have been very useful but cannot express the meaning of lon
 
 Paper: [https://www.aclweb.org/anthology/D13-1170.pdf](https://www.aclweb.org/anthology/D13-1170.pdf "https://www.aclweb.org/anthology/D13-1170.pdf")
 
-[Dataset]( http://nlp.stanford.edu/sentiment "Dataset")
+[Dataset](http://nlp.stanford.edu/sentiment "Dataset")
 
 Tasks:
 
 1. Implement the Recursive Neural Tensor Network as mentioned in the paper.
-2. Implement a data-
+2. Implement a data-autoloader for text.
+3. Try achieving the same accuracy measures as in the paper.
+
+ID: 62
