@@ -20,7 +20,6 @@ Paper: [https://www.aclweb.org/anthology/D13-1170.pdf](https://www.aclweb.org/an
 Tasks:
 
 1. Implement the Recursive Neural Tensor Network as mentioned in the paper in Tensorflow/Pytorch.
-2. Implement a data-autoloader for text.
-3. Try achieving the same accuracy measures as in the paper.
+2. Try achieving the same accuracy measures as in the paper.
 
 ID: 62
