@@ -4,27 +4,24 @@ author:
   name: Team NNFL
   email: bitsnnfl@gmail.com
 share: true
-title: "[ID_22] Image Super-Resolution Using Deep Convolutional Networks"
+title: "[ID_81] Reprojection R-CNN: A Fast and Accurate Object Detector for 360◦ Images"
 categories:
-- CNN
-- Image Processing
+- R-CNN
 tags: []
 
 ---
-**Abstract:** We propose a deep learning method for single image super-resolution (SR). Our method directly learns an end-to-end mapping between the low/high-resolution images. The mapping is represented as a deep convolutional neural network (CNN) that takes the low-resolution image as the input and outputs the high-resolution one. We further show that traditional sparse-coding-based SR methods can also be viewed as a deep convolutional network. But unlike traditional methods that handle each component separately, our method jointly optimizes all layers. Our deep CNN has a lightweight structure, yet demonstrates state-of-the-art restoration quality, and achieves fast speed for practical on-line usage. We explore different network structures and parameter settings to achieve trade-offs between performance and speed. Moreover, we extend our network to cope with three color channels simultaneously, and show better overall reconstruction quality.
+**Abstract:** 360◦ images are usually represented in either equirectangular projection (ERP) or multiple perspective projections. Different from the flat 2D images, the detection task is challenging for 360◦ images due to the distortion of ERP and the inefficiency of perspective projections. However, existing methods mostly focus on one of the above representations instead of both, leading to limited detection performance. Moreover, the lack of appropriate bounding-box annotations as well as the annotated datasets further increases the difficulties of the detection task. In this paper, we present a standard object detection framework for 360◦ images. Specifically, we adapt the terminologies of the traditional object detection task to the omnidirectional scenarios, and propose a novel two-stage object detector, i.e., Reprojection R-CNN by combining both ERP and perspective projection. Owing to the omnidirectional field-ofview of ERP, Reprojection R-CNN first generates coarse region proposals efficiently by a distortion-aware spherical region proposal network. Then, it leverages the distortionfree perspective projection and refines the proposed regions by a novel reprojection network. We construct two novel synthetic datasets for training and evaluation. Experiments reveal that Reprojection R-CNN outperforms the previous state-of-the-art methods on the mAP metric. In addition, the proposed detector could run at 178ms per image in the panoramic datasets, which implies its practicability in realworld applications.
 
-Paper Link: [https://arxiv.org/abs/1501.00092](https://arxiv.org/abs/1501.00092 "https://arxiv.org/abs/1501.00092")
+Paper Link: [https://arxiv.org/pdf/1907.11830.pdf](https://arxiv.org/pdf/1907.11830.pdf "https://arxiv.org/pdf/1907.11830.pdf")
 
-Conference : IEEE PAMI 2016
+Conference : 
 
 **Task:**
 
-1\. Implement the architecture given in the paper using PyTorch.
+1\.  Implement the Reprojection R-CNN architecture
 
-2\. Implement the proper dataloader with any 2 data augmentation techniques.
+2\. Compare the performance of the architecture on VOC360 and COCO-MEN datasets. 
 
-3\. Show reconstructed images and calculate the corresponding PSNR metric for a single filter configuration. Check Table 1
+**Dataset**: VOC360. You may download it from here: [https://researchdata.sfu.ca/islandora/object/sfu%3A2724](https://researchdata.sfu.ca/islandora/object/sfu%3A2724 "https://researchdata.sfu.ca/islandora/object/sfu%3A2724")
 
-**Dataset** Use any publicly available dataset with high quality images. You may use [ImageNet](http://www.image-net.org/)
-
-**ID:** 22
+**ID:** 81
