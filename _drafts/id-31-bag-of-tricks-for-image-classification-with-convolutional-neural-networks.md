@@ -22,11 +22,6 @@ _This paper will be assigned to two separate groups._
 
 **Task:**
 
-Both groups have to show their results on two different datasets (both available at [https://github.com/fastai/imagenette](https://github.com/fastai/imagenette "https://github.com/fastai/imagenette")):  
-1\. Imagenette (a simpler, easy subset of Imagenet)
-
-2. Imagewoof (a relatively harder subset of Imagenet)
-
 Each group has to implement all the methods mentioned for them and show the improvements in metrics for each added tweak to the model training process.
 
 Tasks for group 1:
