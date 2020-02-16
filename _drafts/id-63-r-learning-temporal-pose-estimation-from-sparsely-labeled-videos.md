@@ -4,7 +4,7 @@ author:
   name: Team NNFL
   email: bitsnnfl@gmail.com
 share: true
-title: "[ID_63 r] Learning Temporal Pose Estimation from Sparsely-Labeled Videos"
+title: "[ID_63] Learning Temporal Pose Estimation from Sparsely-Labeled Videos"
 categories:
 - Multi-person Pose Estimation
 - Optical Flow Estimation
