@@ -22,3 +22,8 @@ Conference : ICML 2014
 **Tasks:**
 
 1. Implement the proper dataloader with any 2 data augmentation techniques.
+2. Training procedure should be according to section 5.1.
+3. Implement the Dropout Neural Network model discussed in the paper in any framework of your choice.
+4. Also implement a simple CNN model without dropout for classification and compare the final results of both the model on the basis of mAp or Error rate.
+
+**Dataset :** You can choose any dataset of your choice(MNIST,CIFAR 10 ,CIFAR 100 are recommended). You can decrease the size of dataset if the size is very large.
