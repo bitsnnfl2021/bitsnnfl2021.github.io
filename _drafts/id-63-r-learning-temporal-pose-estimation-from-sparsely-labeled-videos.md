@@ -24,3 +24,5 @@ Tasks:
 2. Implement a proper data-loader with any 2 data augmentation techniques.
 3. Dataset to be used is PoseTrack 2017/2018
 4. Show quantifiable measures such as mAP.
+
+ID: 63
