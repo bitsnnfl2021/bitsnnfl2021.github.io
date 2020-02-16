@@ -1,7 +1,7 @@
 ---
 layout: post
 share: true
-title: "[ID_64]Harmonic Convolutional Networks based on Discrete Cosine Transform"
+title: "[ID_64] Harmonic Convolutional Networks based on Discrete Cosine Transform"
 author:
   name: Team NNFL
   email: bitsnnfl@gmail.com
