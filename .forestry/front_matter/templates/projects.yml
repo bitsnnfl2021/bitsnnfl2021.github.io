@@ -49,6 +49,7 @@ pages:
 - _posts/2020-02-13-partial-convolution-based-padding.md
 - _posts/2020-02-14-id-21-learning-convolutional-networks-for-content-weighted-image-compression.md
 - _posts/a-deeper-look-into-sarcastic-tweets-using-deep-convolutional-neural-networks.md
+- _posts/id-12-deep-convolutional-and-lstm-recurrent-neural-networks-for-multimodal-wearable-activity-recognition.md
 - _posts/id-121-dropout-a-simple-way-to-prevent-neural-networks-from-overfitting.md
 - _posts/id-122-spatial-transformer-networks.md
 - _posts/id-123-fast-and-accurate-image-super-resolution-by-deep-cnn-with-skip-connection-and-network-in-network.md
