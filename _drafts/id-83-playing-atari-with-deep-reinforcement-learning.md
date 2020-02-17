@@ -14,13 +14,13 @@ tags: []
 
 Paper Link: [https://arxiv.org/pdf/1312.5602.pdf](https://arxiv.org/pdf/1312.5602.pdf "https://arxiv.org/pdf/1312.5602.pdf")
 
-Conference : 
+Conference :
 
 **Task:**
 
 1\. Perform pre-processing steps as mentioned in the paper.
 
-2\. Implement Algorithm 1 Deep Q-learning with Experience Replay
+2\. Implement Algorithm 1, Deep Q-learning with Experience Replay
 
 3\. Plot average reward per episode on any two Atari 2600 Games respectively during training as shown in Figure 2
 
