@@ -20,5 +20,6 @@ tags: []
 **Problem Statement -**
 
 1. Implement the paper using Keras and Tensorflow. Split the training and testing set as given in the paper and then develop the model. Clearly report the number of data samples of each category in training and testing sets.
-2. Use GRU blocks as the RNN units while developing the model. Vanilla RNN/LSTM blocks won't be accepted.
-3. Show comparison with C-RNN model and baseline GRU-based RNN model
+2. Use GRU blocks as the RNN units while developing the model. Use early stopping with respect to cross-validation loss as stopping criteria.
+3. Show comparison with replacing the GRU unit by LSTM unit in the above model, and with baseline GRU-based RNN model. Clearly report the difference in terms of accuracy, convergence rate of loss function and avg time per epoch.
+4. Report graph of loss function & accuracy vs. epochs, confusion matrix, precision, recall, F1 score, and accuracy for all three cases.
