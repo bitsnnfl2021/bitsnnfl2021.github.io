@@ -5,7 +5,9 @@ author:
   email: bitsnnfl@gmail.com
 share: true
 title: "[ID_92] Web traffic anomaly detection using C-LSTM Neural Networks"
-categories: []
+categories:
+- CNN
+- LSTM
 tags: []
 
 ---
