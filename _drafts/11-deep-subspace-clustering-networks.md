@@ -4,7 +4,7 @@ author:
   name: Team NNFL
   email: bitsnnfl@gmail.com
 share: true
-title: "[11]-Deep Subspace Clustering Networks"
+title: "[ID-11]-Deep Subspace Clustering Networks"
 categories:
 - CNN
 - Autoencoders
