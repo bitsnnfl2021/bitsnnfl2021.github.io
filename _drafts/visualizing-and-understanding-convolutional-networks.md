@@ -4,11 +4,11 @@ author:
   name: Team NNFL
   email: bitsnnfl@gmail.com
 share: true
-title: "[]-Visualizing and Understanding Convolutional Networks"
+title: "[ID-14]-Study on the prediction of stock price based on the associated network
+  model of LSTM"
 categories:
-- CNN
-- Classification
+- LSTM
 tags: []
 
 ---
-**Abstract -** Large Convolutional Network models have recently demonstrated impressive classification performance on the ImageNet benchmark (Krizhevsky et al., 2012). However there is no clear understanding of why they perform so well, or how they might be improved. In this paper we address both issues. We introduce a novel visualization technique that gives insight into the function of intermediate feature layers and the operation of the classifier. Used in a diagnostic role, these visualizations allow us to find model architectures that outperform Krizhevsky et al. on the ImageNet classification benchmark. We also perform an ablation study to discover the performance contribution from different model layers. We show our ImageNet model generalizes well to other datasets: when the softmax classifier is retrained, it convincingly beats the current state-of-the-art results on Caltech-101 and Caltech-256 datasets
+**Abstract -** Stock market has received widespread attention from investors. It has always been a hot spot for investors and investment companies to grasp the change regularity of the stock market and predict its trend. Currently, there are many methods for stock price prediction. The prediction methods can be roughly divided into two categories: statistical methods and artifcial intelligence methods. Statistical methods include logistic regression model, ARCH model, etc. Artifcial intelligence methods include multi-layer perceptron, convolutional neural network, naive Bayes network, back propagation network, single-layer LSTM, support vector machine, recurrent neural network, etc. But these studies predict only one single value. In order to predict multiple values in one model, it need to design a model which can handle multiple inputs and produces multiple associated output values at the same time. For this purpose, it is proposed an associated deep recurrent neural network model with multiple inputs and multiple outputs based on long short-term memory network. The associated network model can predict the opening price, the lowest price and the highest price of a stock simultaneously. The associated network model was compared with LSTM network model and deep recurrent neural network model. The experiments show that the accuracy of the associated model is superior to the other two models in predicting multiple values at the same time, and its prediction accuracy is over 95%
