@@ -21,6 +21,8 @@ Neural machine translation is a recently proposed approach to machine translatio
 
 Paper Link: [https://arxiv.org/abs/1409.0473](https://arxiv.org/abs/1409.0473 "https://arxiv.org/abs/1409.0473")
 
+Paper Link for GloVe : [https://nlp.stanford.edu/pubs/glove.pdf](https://nlp.stanford.edu/pubs/glove.pdf "https://nlp.stanford.edu/pubs/glove.pdf")
+
 Conference: ICLR 2015
 
 Dataset: Train ([English](https://nlp.stanford.edu/projects/nmt/data/iwslt15.en-vi/train.en), [Vietnamese](https://nlp.stanford.edu/projects/nmt/data/iwslt15.en-vi/train.vi))
