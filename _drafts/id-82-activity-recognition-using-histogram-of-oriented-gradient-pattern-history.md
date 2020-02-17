@@ -4,26 +4,26 @@ author:
   name: Team NNFL
   email: bitsnnfl@gmail.com
 share: true
-title: "[ID_82] Activity Recognition using Histogram Of Oriented Gradient Pattern
-  History"
+title: "[ID_82] 3D Convolutional Neural Networks for Human Action Recognition"
 categories:
 - Action Recognition
+- CNN
 tags: []
 
 ---
-**Abstract:** Human activity recognition is an important task in computer vision because it has many application areas such as, healthcare, security, entertainment, and tactical scenarios. This paper presents a methodology to automatically recognize human activity from input video stream using Histogram of Oriented Gradient Pattern History (HOGPH) features and SVM classifier. For this purpose, the proposed system extracts HOG features from a sequence of consecutive video frames and analyzes them to construct HOGPH feature vector. The HOGPH feature vectors are used to train a multi-class SVM classifier for different human activities. In test mode, we use the classifier with HOGPH feature vector to recognize human activity. We have experimented with video data of human activity in real environments for three different tasks (browsing, reading, and writing). The experimental result and its accuracy reveal that the proposed system is applicable to recognize human activity in real-life.
+**Abstract:** We consider the automated recognition of human actions in surveillance videos. Most current methods build classifiers based on complex handcrafted features computed from the raw inputs. Convolutional neural networks (CNNs) are a type of deep model that can act directly on the raw inputs. However, such models are currently limited to handling 2D inputs. In this paper, we develop a novel 3D CNN model for action recognition. This model extracts features from both the spatial and the temporal dimensions by performing 3D convolutions, thereby capturing the motion information encoded in multiple adjacent frames. The developed model generates multiple channels of information from the input frames, and the final feature representation combines information from all channels. To further boost the performance, we propose regularizing the outputs with high-level features and combining the predictions of a variety of different models. We apply the developed models to recognize human actions in the real-world environment of airport surveillance videos, and they achieve superior performance in comparison to baseline methods
 
-Paper Link: [https://pdfs.semanticscholar.org/69f9/01d498637ba659359419284b49f08777dcfc.pdf](https://pdfs.semanticscholar.org/69f9/01d498637ba659359419284b49f08777dcfc.pdf "https://pdfs.semanticscholar.org/69f9/01d498637ba659359419284b49f08777dcfc.pdf")
+Paper Link: [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6165309](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6165309 "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6165309")
 
-Conference : International Journal of Computer Science, Engineering and Information Technology (IJCSEIT)
+Conference : IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE
 
 **Task:**
 
-1\. Implement the architecture proposed in the paper in MATLAB.
+1\. Implement the 3D CNN architecture for human recognition as given in Fig. 3.
 
-2\. Vary hyperparameters of SVM and plot the results for different values of hyperparameters.
+2\. Implement the three alternative 3D CNN architectures as described in section 4.1.
 
-3\. Present results as given in Table 3 for a minimum of ten different class of activities.
+3\. Present results as given in Table 2 for a minimum of five different class of activities for the architectures designed above.
 
 **Dataset**: Use any human motion database (Eg: HMDB51)
 
