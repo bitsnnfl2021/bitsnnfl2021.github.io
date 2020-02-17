@@ -4,23 +4,24 @@ author:
   name: Team NNFL
   email: bitsnnfl@gmail.com
 share: true
-title: "[ID_54] XNet: A convolutional neural network (CNN) implementation for medical
-  X-Ray image segmentation suitable for small datasets"
+title: "[ID_54] ImageNet Classification with Deep Convolutional Neural Networks"
 categories:
-- SVM
-- Semi-supervised
-- Imbalanced datasets
+- CNN
+- Overfitting
+- Classification
 tags: []
 
 ---
-**Abstract:** X-Ray image enhancement, along with many other medical image processing applications, requires the segmentation of images into bone, soft tissue, and open beam regions. We apply a machine learning approach to this problem, presenting an end-to-end solution which results in robust and efficient inference. Since medical institutions frequently do not have the resources to process and label the large quantity of X-Ray images usually needed for neural network training, we design an end-to-end solution for small datasets, while achieving state-of-the-art results. Our implementation produces an overall accuracy of 92%, F1 score of 0.92, and an AUC of 0.98, surpassing classical image processing techniques, such as clustering and entropy based methods, while improving upon the output of existing neural networks used for segmentation in non-medical contexts.
+**Abstract:** We trained a large, deep convolutional neural network to classify the 1.2 million high-resolution images in the ImageNet LSVRC-2010 contest into the 1000 different classes. On the test data, we achieved top-1 and top-5 error rates of 37.5% and 17.0% which is considerably better than the previous state-of-the-art. The neural network, which has 60 million parameters and 650,000 neurons, consists of five convolutional layers, some of which are followed by max-pooling layers, and three fully-connected layers with a final 1000-way softmax. To make training faster, we used non-saturating neurons and a very efficient GPU implementation of the convolution operation. To reduce overfitting in the fully-connected layers we employed a recently-developed regularization method called “dropout” that proved to be very effective. We also entered a variant of this model in the ILSVRC-2012 competition and achieved a winning top-5 test error rate of 15.3%, compared to 26.2% achieved by the second-best entry
 
-**Paper Link:** [https://arxiv.org/pdf/1812.00548.pdf](https://arxiv.org/pdf/1812.00548.pdf "https://arxiv.org/pdf/1812.00548.pdf")
+**Paper Link:** [https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf "https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf")
 
-**Published in:** Medical Imaging 2018
+**Published in:** [Advances in neural information processing systems](https://www.researchgate.net/journal/1049-5258_Advances_in_neural_information_processing_systems)
 
 **Tasks:**
 
-**Data Set:**
+1. 
+
+**Data Set:** ILSVRC-2010 ([http://www.image-net.org/challenges/LSVRC/2010/](http://www.image-net.org/challenges/LSVRC/2010/ "http://www.image-net.org/challenges/LSVRC/2010/")
 
 **Paper ID:** 54
