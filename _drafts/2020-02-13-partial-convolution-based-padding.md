@@ -18,7 +18,7 @@ Conference :
 
 **Task:**
 
-1\.  Implement the proper dataloader with any two augmentation techniques.
+1\. Implement the proper dataloader with any two augmentation techniques.
 
 2\. Implement the Reprojection R-CNN architecture
 
