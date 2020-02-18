@@ -24,3 +24,9 @@ tags: []
 2. Use Keras API of Tensorflow to implement the model as in the paper
 3. Train the model on ADCNN and baseline CNN after necessary data augmentation as given in the paper
 4. Report the graph of the loss function & accuracy vs. epochs during training, and confusion matrix, precision, recall, F1 score and accuracy of the model for the test case (in the notebook) for both the models.
+
+**Few Resources to Understand Key Concepts -**
+
+1. Understand CNNs - [http://cs231n.github.io/convolutional-networks/](http://cs231n.github.io/convolutional-networks/ "http://cs231n.github.io/convolutional-networks/"), [http://cs231n.github.io/understanding-cnn/](http://cs231n.github.io/understanding-cnn/ "http://cs231n.github.io/understanding-cnn/"), [https://towardsdatascience.com/understanding-cnn-convolutional-neural-network-69fd626ee7d4](https://towardsdatascience.com/understanding-cnn-convolutional-neural-network-69fd626ee7d4 "https://towardsdatascience.com/understanding-cnn-convolutional-neural-network-69fd626ee7d4")
+
+(**Note** - These resources are just suggestive and not compulsory to go through. Feel free to explore and understand in your own way)
