@@ -26,8 +26,8 @@ Deep neural networks (DNNs), which show outstanding performance in various areas
 **Tasks:**
 
 1. Implement the model in Tensorflow
-2. Compare results of traditional dropout and the proposed method for droupout rate = 0.5 and 2 hidden layers. Report the results in your final presentation. 
-3. Do not use the entire dataset, use a subset instead and specify which part is being used by you.
+2. Compare results of traditional dropout and the proposed method for droupout rate = 0.5 and 2 hidden layers. Report the results in your final presentation.
+3. Do not use the entire dataset, use a subset instead and specify which part is being used by you. Clearly report the number of data samples of each category in training and testing sets.
 
 **Data Set:** [http://yann.lecun.com/exdb/mnist/](http://yann.lecun.com/exdb/mnist/ "http://yann.lecun.com/exdb/mnist/")
 
