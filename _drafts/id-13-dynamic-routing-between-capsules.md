@@ -1,10 +1,10 @@
 ---
 layout: post
 author:
-  name: Team NNFL
+  name: 'Paper ID: 13'
   email: bitsnnfl@gmail.com
 share: true
-title: "[ID-13] Dynamic Routing Between Capsules"
+title: Dynamic Routing Between Capsules
 categories:
 - CNN
 tags: []
