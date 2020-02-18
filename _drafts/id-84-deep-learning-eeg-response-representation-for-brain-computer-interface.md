@@ -1,10 +1,10 @@
 ---
 layout: post
 author:
-  name: Team NNFL
+  name: 'Paper ID: 84'
   email: bitsnnfl@gmail.com
 share: true
-title: "[ID_84] Deep learning EEG response representation for brain computer interface"
+title: Deep learning EEG response representation for brain computer interface
 categories:
 - BCI
 - CNN
