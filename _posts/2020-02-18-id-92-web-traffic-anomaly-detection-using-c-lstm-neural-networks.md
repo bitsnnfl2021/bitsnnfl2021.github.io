@@ -20,7 +20,9 @@ tags: []
 * Primary Link - [https://webscope.sandbox.yahoo.com/catalog.php?datatype=s&did=70](https://webscope.sandbox.yahoo.com/catalog.php?datatype=s&did=70 "https://webscope.sandbox.yahoo.com/catalog.php?datatype=s&did=70") (Note - Sign up and agree to the licenses beforehand, as it might take time for them to approve the access)
 * Alternate Link - [https://github.com/harris0704/nbaData16-17/tree/master/Yahoo_S5_Data](https://github.com/harris0704/nbaData16-17/tree/master/Yahoo_S5_Data "https://github.com/harris0704/nbaData16-17/tree/master/Yahoo_S5_Data")
 
-**Problem Statement** - 
+**Problem Statement** -
 
-1. Implement the C-LSTM architecture as given in the paper using Keras & Tensorflow
-2. Report the results providing graphs of cross-entropy loss and accuracy vs. epochs, confusion matrix, and precision, recall, F1-score.
+1. Split the data in 70% training and 30% testing set as given in the paper. Perform data preprocessing and clearly report all parameters of the data, eg. number of data samples of various categories in training and testing sets. In the notebook containing the code, clearly show graphs with respect to these.
+2. Implement the C-LSTM architecture (table 6) as given in the paper using Keras API of Tensorflow, and train the model for classification of the data as Normal & Abnormal.
+3. Report the results providing graphs of cross-entropy loss and accuracy vs. epochs, confusion matrix, and precision, recall, F1-score and accuracy on the test set.
+4. **Bonus**: Perform Misclassification data analysis (Section 4.2.3) and mention probable reasons for the same.
