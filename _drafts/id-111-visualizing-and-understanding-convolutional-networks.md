@@ -1,10 +1,10 @@
 ---
 layout: post
 author:
-  name: Team NNFL
+  name: 'Paper ID: 111'
   email: bitsnnfl@gmail.com
 share: true
-title: "[ID_111] Visualizing and Understanding Convolutional Networks"
+title: Visualizing and Understanding Convolutional Networks
 categories:
 - CNN
 tags: []
