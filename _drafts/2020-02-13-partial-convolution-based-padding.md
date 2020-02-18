@@ -1,10 +1,10 @@
 ---
 layout: post
 author:
-  name: Team NNFL
+  name: 'Paper ID: 81'
   email: bitsnnfl@gmail.com
 share: true
-title: "[ID_81] Reprojection R-CNN: A Fast and Accurate Object Detector for 360◦ Images"
+title: 'Reprojection R-CNN: A Fast and Accurate Object Detector for 360◦ Images'
 categories:
 - R-CNN
 tags: []
