@@ -25,3 +25,5 @@ One of the few papers having a Wiki page([https://en.wikipedia.org/wiki/U-Net](h
 1)Implement the encoder-decoder architecture in a framework of your choice.
 
 2)Add Skip Connections
+
+3)Implement Shared Weights residual block
