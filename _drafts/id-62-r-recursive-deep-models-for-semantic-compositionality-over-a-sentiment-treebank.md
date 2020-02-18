@@ -1,11 +1,10 @@
 ---
 layout: post
 author:
-  name: Team NNFL
+  name: 'Paper ID: 62'
   email: bitsnnfl@gmail.com
 share: true
-title: "[ID_62] Recursive Deep Models for Semantic Compositionality Over a Sentiment
-  Treebank"
+title: Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank
 categories:
 - Sentiment Analysis
 tags: []
