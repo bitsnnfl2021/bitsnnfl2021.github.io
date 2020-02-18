@@ -1,11 +1,11 @@
 ---
 layout: post
 author:
-  name: Team NNFL
+  name: 'Paper ID: 91'
   email: bitsnnfl@gmail.com
 share: true
-title: "[ID_91] Hand Gesture Recognition Using an Adapted Convolutional Neural Network
-  with Data Augmentation"
+title: Hand Gesture Recognition Using an Adapted Convolutional Neural Network with
+  Data Augmentation
 categories:
 - Gesture Recognition
 - CNN
