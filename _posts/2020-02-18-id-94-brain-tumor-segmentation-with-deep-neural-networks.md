@@ -20,7 +20,7 @@ tags: []
 **Problem Statement** -
 
 1. The paper is implemented on BRATS 2013 dataset. Implement the paper using the BRATS 2015 dataset (as given above). Clearly mention the details of the data set, like the number of samples, input features, etc. Report all these through necessary graphs in the notebook. Also, include the final processed data set used for training and testing in the submission.
-2. Implement the InputCascadeCNN architecture, as described in the paper (Fig. 3 (a)) using Keras API of Tensorflow.
+2. Implement the InputCascadeCNN architecture, as described in the paper (Fig. 3 (a)) using the Keras API of Tensorflow.
 3. Show the segmented image for 10 samples from the test set. Also report the precision, recall, and dice score for all three tumor categories (in the notebook).
 4. **Bonus**: Train the LocalCascadeCNN architecture (Fig. 3 (b)) and perform a comparative analysis with InputCascadeCNN in terms of metrics defined in point number 3.
 
