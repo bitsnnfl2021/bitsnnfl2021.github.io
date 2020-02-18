@@ -45,7 +45,6 @@ fields:
 pages:
 - _posts/2020-02-01-yolo-you-only-look-once.md
 - _posts/2020-02-13-learning-convolutional-networks-for-content-weighted-image-compression.md
-- _posts/2020-02-13-partial-convolution-based-padding.md
 - _posts/2020-02-14-id-21-learning-convolutional-networks-for-content-weighted-image-compression.md
 - _posts/2020-02-18-11-deep-subspace-clustering-networks.md
 - _posts/2020-02-18-a-deeper-look-into-sarcastic-tweets-using-deep-convolutional-neural-networks.md
