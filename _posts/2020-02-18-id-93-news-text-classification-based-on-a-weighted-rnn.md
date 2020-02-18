@@ -8,6 +8,7 @@ title: News Text Classification based on a Weighted RNN
 categories:
 - NLP
 - RNN
+- Text Classification
 tags: []
 
 ---
