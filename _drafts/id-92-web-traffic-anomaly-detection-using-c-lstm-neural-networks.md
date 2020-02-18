@@ -1,10 +1,10 @@
 ---
 layout: post
 author:
-  name: Team NNFL
+  name: 'Paper ID: 92'
   email: bitsnnfl@gmail.com
 share: true
-title: "[ID_92] Web traffic Anomaly Detection using C-LSTM Neural Networks"
+title: Web traffic Anomaly Detection using C-LSTM Neural Networks
 categories:
 - CNN
 - LSTM
