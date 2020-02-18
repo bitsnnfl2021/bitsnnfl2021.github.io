@@ -1,10 +1,10 @@
 ---
 layout: post
 author:
-  name: Team NNFL
+  name: 'Paper ID: 41'
   email: bitsnnfl@gmail.com
 share: true
-title: "[ID_41] Neural Machine Translation by Jointly Learning to Align and Translate"
+title: Neural Machine Translation by Jointly Learning to Align and Translate
 categories:
 - Natural Language Processing
 tags:
