@@ -1,11 +1,11 @@
 ---
 layout: post
 author:
-  name: Team NNFL
+  name: 'Paper ID: 33'
   email: bitsnnfl@gmail.com
 share: true
-title: "[ID_33] Padam: Closing the Generalization gap of adaptive gradient methods
-  in training deep neural networks"
+title: 'Padam: Closing the Generalization gap of adaptive gradient methods in training
+  deep neural networks'
 categories:
 - optimizers
 - hyperparameter tuning
