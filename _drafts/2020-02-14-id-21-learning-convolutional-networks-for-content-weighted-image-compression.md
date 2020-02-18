@@ -1,10 +1,10 @@
 ---
 layout: post
 author:
-  name: Team NNFL
+  name: 'Paper ID: 23'
   email: bitsnnfl@gmail.com
 share: true
-title: "[ID_23] End-to-end people detection in crowded scenes"
+title: End-to-end people detection in crowded scenes
 categories:
 - Object Detection
 - CNN
