@@ -19,10 +19,12 @@ Paper - [https://www.mdpi.com/1424-8220/16/1/115](https://www.mdpi.com/1424-8220
 
 **Task:**
 
-1. Implement the network architecture of DeepConvLSTM only 3.1
+1. Implement the network architecture of DeepConvLSTM only (3.1)
 2. Try and replicate the results on the relevant metrics in the paper for Opportunity dataset only. Task A and Task B with and without Null class(4.1.1)(4.2)(5.1).
 3. Multimodal Fusion Analysis (5.2)
 
+Section of the paper is mentioned for each task
+
 **Data set:**
 
-1. Opportunity Dataset. 2012. Available online: [**https://archive.ics.uci.edu/ml/datasets/OPPORTUNITY+Activity+Recognition**](https://archive.ics.uci.edu/ml/datasets/OPPORTUNITY+Activity+Recognition "https://archive.ics.uci.edu/ml/datasets/OPPORTUNITY+Activity+Recognition") 
+1. Opportunity Dataset. 2012. Available online: [**https://archive.ics.uci.edu/ml/datasets/OPPORTUNITY+Activity+Recognition**](https://archive.ics.uci.edu/ml/datasets/OPPORTUNITY+Activity+Recognition "https://archive.ics.uci.edu/ml/datasets/OPPORTUNITY+Activity+Recognition")
