@@ -1,10 +1,10 @@
 ---
 layout: post
 author:
-  name: Team NNFL
+  name: 'Paper ID: 121'
   email: bitsnnfl@gmail.com
 share: true
-title: "[ID:121]-Dropout: A Simple Way to Prevent Neural Networks from Overfitting"
+title: 'Dropout: A Simple Way to Prevent Neural Networks from Overfitting'
 categories:
 - CNN
 - Overfitting
