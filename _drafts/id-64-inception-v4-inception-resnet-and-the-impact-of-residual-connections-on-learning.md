@@ -1,9 +1,9 @@
 ---
 layout: post
 share: true
-title: "[ID_64] Harmonic Convolutional Networks based on Discrete Cosine Transform"
+title: Harmonic Convolutional Networks based on Discrete Cosine Transform
 author:
-  name: Team NNFL
+  name: 'Paper ID: 64'
   email: bitsnnfl@gmail.com
 categories:
 - Edge Detection
