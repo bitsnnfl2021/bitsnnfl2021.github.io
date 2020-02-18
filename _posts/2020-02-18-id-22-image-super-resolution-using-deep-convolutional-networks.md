@@ -28,5 +28,3 @@ Conference : IEEE PAMI 2016
 3\. Show reconstructed images and calculate the corresponding PSNR metric for a single filter configuration. Check Table 1
 
 **Dataset** Use any publicly available dataset with high quality images. You may use [ImageNet](http://www.image-net.org/)
-
-**ID:** 22
