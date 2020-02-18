@@ -1,10 +1,10 @@
 ---
 layout: post
 author:
-  name: Team NNFL
+  name: 'Paper ID: 83'
   email: bitsnnfl@gmail.com
 share: true
-title: "[ID_83] Playing Atari with Deep Reinforcement Learning"
+title: Playing Atari with Deep Reinforcement Learning
 categories:
 - Reinforcement Learning
 tags: []
