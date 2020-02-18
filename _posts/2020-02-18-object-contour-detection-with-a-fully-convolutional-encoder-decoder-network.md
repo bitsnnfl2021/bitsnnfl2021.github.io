@@ -25,7 +25,4 @@ Conference : CVPR 2016
 
 4\. Generate precision vs recall curve  given in Figure 4
 
- 
 **Dataset** PASCAL VOC 2012
-
-**ID:** 21
