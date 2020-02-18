@@ -51,6 +51,7 @@ pages:
 - _posts/a-deeper-look-into-sarcastic-tweets-using-deep-convolutional-neural-networks.md
 - _posts/id-111-visualizing-and-understanding-convolutional-networks.md
 - _posts/id-112-eegnet-a-compact-convolutional-neural-network-for-eeg-based-brain-computer-interfaces.md
+- _posts/id-113-character-level-convolutional-networks-for-text-classification.md
 - _posts/id-12-deep-convolutional-and-lstm-recurrent-neural-networks-for-multimodal-wearable-activity-recognition.md
 - _posts/id-121-dropout-a-simple-way-to-prevent-neural-networks-from-overfitting.md
 - _posts/id-122-spatial-transformer-networks.md
