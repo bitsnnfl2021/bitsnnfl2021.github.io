@@ -23,13 +23,11 @@ Deep neural networks (DNNs), which show outstanding performance in various areas
 
 **Published in:** [2017 IEEE International Conference on Big Data and Smart Computing (BigComp)](https://ieeexplore.ieee.org/xpl/conhome/7877084/proceeding)
 
- 
-
 **Tasks:**
 
 1. Implement the model in Tensorflow
-2. Compare results of traditional dropout and the proposed method. Vary some of the parameters from what is specified in the paper. 
-3. Do not use the entire dataset, use a subset instead and specify which part is being used by you. 
+2. Compare results of traditional dropout and the proposed method for droupout rate = 0.5 and 2 hidden layers. Report the results in your final presentation. 
+3. Do not use the entire dataset, use a subset instead and specify which part is being used by you.
 
 **Data Set:** [http://yann.lecun.com/exdb/mnist/](http://yann.lecun.com/exdb/mnist/ "http://yann.lecun.com/exdb/mnist/")
 
