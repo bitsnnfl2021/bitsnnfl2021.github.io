@@ -57,6 +57,7 @@ pages:
 - _posts/2020-02-18-id-124-overfeat-integrated-recognition-localization-and-detection-using-convolutional-networks.md
 - _posts/2020-02-18-id-22-image-super-resolution-using-deep-convolutional-networks.md
 - _posts/2020-02-18-id-94-brain-tumor-segmentation-with-deep-neural-networks.md
+- _posts/2020-02-18-object-contour-detection-with-a-fully-convolutional-encoder-decoder-network.md
 - _posts/a-deeper-look-into-sarcastic-tweets-using-deep-convolutional-neural-networks.md
 - _posts/id-121-dropout-a-simple-way-to-prevent-neural-networks-from-overfitting.md
 - _posts/id-13-dynamic-routing-between-capsules.md
@@ -81,6 +82,5 @@ pages:
 - _posts/id-92-web-traffic-anomaly-detection-using-c-lstm-neural-networks.md
 - _posts/id-93-news-text-classification-based-on-a-weighted-rnn.md
 - _posts/neural-machine-translation-by-jointly-learning-to-align-and-translate.md
-- _posts/object-contour-detection-with-a-fully-convolutional-encoder-decoder-network.md
 - _posts/semi-supervised-classification-with-graph-convolutional-networks.md
 - _posts/visualizing-and-understanding-convolutional-networks.md
