@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: 'Paper ID: 21'
+  name: 'Paper ID: 93'
   email: bitsnnfl@gmail.com
 share: true
 title: "[ID_93]  News text classification based on a Weighted RNN"
