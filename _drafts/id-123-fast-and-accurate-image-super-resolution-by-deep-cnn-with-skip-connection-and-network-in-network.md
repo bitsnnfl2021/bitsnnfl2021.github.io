@@ -1,11 +1,11 @@
 ---
 layout: post
 author:
-  name: Team NNFL
+  name: 'Paper ID: 123'
   email: bitsnnfl@gmail.com
 share: true
-title: "[ID:123]Fast and Accurate Image Super Resolution by Deep CNN with Skip Connection
-  and Network in Network"
+title: Fast and Accurate Image Super Resolution by Deep CNN with Skip Connection and
+  Network in Network
 categories:
 - CNN
 - Super Resolution
