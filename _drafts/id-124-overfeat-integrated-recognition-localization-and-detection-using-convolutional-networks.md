@@ -1,11 +1,11 @@
 ---
 layout: post
 author:
-  name: Team NNFL
+  name: 'Paper ID: 124'
   email: bitsnnfl@gmail.com
 share: true
-title: "[ID:124]OverFeat: Integrated Recognition, Localization and Detection using
-  Convolutional Networks"
+title: 'OverFeat: Integrated Recognition, Localization and Detection using Convolutional
+  Networks'
 categories:
 - Localization
 - classification
