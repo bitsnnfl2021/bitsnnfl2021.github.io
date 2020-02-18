@@ -16,9 +16,9 @@ tags: []
 
 **Paper** - [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8392660](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8392660 "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8392660")
 
-**Dataset:** [https://www.kaggle.com/grassknoted/asl-alphabet](https://www.kaggle.com/grassknoted/asl-alphabet "https://www.kaggle.com/grassknoted/asl-alphabet")
+**Dataset -** [https://www.kaggle.com/grassknoted/asl-alphabet](https://www.kaggle.com/grassknoted/asl-alphabet "https://www.kaggle.com/grassknoted/asl-alphabet")
 
-**Problem Statement:**
+**Problem Statement -**
 
 1. The paper is based on Peru sign language. Implement it for the American Sign language using the above dataset. Split the training set into 2700 and 300 for each case. Train Using 2700 samples and test on 300 samples, along with the test data. Clearly report the number of data samples of each category in training and testing sets by generating necessary graphs in the notebook. Submit the final dataset used for the project along with the notebook.
 2. Use Keras API of Tensorflow to implement the model as in the paper
