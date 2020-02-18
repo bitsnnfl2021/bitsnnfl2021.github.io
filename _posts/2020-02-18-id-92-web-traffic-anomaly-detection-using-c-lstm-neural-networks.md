@@ -25,5 +25,5 @@ tags: []
 
 1. Split the data in 70% training and 30% testing set as given in the paper. Perform data preprocessing and clearly report all parameters of the data, eg. number of data samples of various categories in training and testing sets. In the notebook containing the code, clearly show graphs with respect to these.
 2. Implement the C-LSTM architecture (table 6) as given in the paper using Keras API of Tensorflow, and train the model for classification of the data as Normal & Abnormal.
-3. Report the results providing graphs of cross-entropy loss and accuracy vs. epochs, confusion matrix, and precision, recall, F1-score and accuracy on the test set.
+3. Report the results providing graphs of cross-entropy loss and accuracy vs. epochs during training, and confusion matrix, precision, recall, F1-score and accuracy on the test set (in the notebook).
 4. **Bonus**: Perform Misclassification data analysis (Section 4.2.3) and mention probable reasons for the same.
