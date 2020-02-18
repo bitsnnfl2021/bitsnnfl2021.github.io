@@ -1,10 +1,10 @@
 ---
 layout: post
 author:
-  name: Team NNFL
+  name: "74"
   email: bitsnnfl@gmail.com
 share: true
-title: "[ID:74]Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition"
+title: Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition
 categories:
 - CNN
 - Object Detection
