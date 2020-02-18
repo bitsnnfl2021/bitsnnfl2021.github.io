@@ -1,10 +1,10 @@
 ---
 layout: post
 author:
-  name: Team NNFL
+  name: 'Paper ID: 113'
   email: bitsnnfl@gmail.com
 share: true
-title: "[ID_113] Character-level Convolutional Networks for Text Classification"
+title: Character-level Convolutional Networks for Text Classification
 categories:
 - CNN
 tags: []
