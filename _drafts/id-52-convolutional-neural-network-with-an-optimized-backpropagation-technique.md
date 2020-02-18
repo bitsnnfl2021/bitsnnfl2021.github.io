@@ -4,7 +4,7 @@ author:
   name: 'Paper ID: 52'
   email: bitsnnfl@gmail.com
 share: true
-title: "[ID_52] Convolutional Neural Network with an Optimized Backpropagation Technique"
+title: Convolutional Neural Network with an Optimized Backpropagation Technique
 categories:
 - CNN
 - Optimization
