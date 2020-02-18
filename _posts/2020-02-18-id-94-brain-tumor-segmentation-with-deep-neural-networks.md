@@ -23,3 +23,9 @@ tags: []
 2. Implement the InputCascadeCNN architecture, as described in the paper (Fig. 3 (a)).
 3. Show the segmented image for 10 samples from the test set. Also report the precision, recall, and dice score for all three tumor categories (in the notebook).
 4. **Bonus**: Train the LocalCascadeCNN architecture (Fig. 3 (b)) and perform a comparative analysis with InputCascadeCNN in terms of metrics defined in point number 3.
+
+**Few Resources to Understand Key Concepts -**
+
+1. Understand CNNs - [http://cs231n.github.io/convolutional-networks/](http://cs231n.github.io/convolutional-networks/ "http://cs231n.github.io/convolutional-networks/"), [http://cs231n.github.io/understanding-cnn/](http://cs231n.github.io/understanding-cnn/ "http://cs231n.github.io/understanding-cnn/"), [https://towardsdatascience.com/understanding-cnn-convolutional-neural-network-69fd626ee7d4](https://towardsdatascience.com/understanding-cnn-convolutional-neural-network-69fd626ee7d4 "https://towardsdatascience.com/understanding-cnn-convolutional-neural-network-69fd626ee7d4")
+
+(**Note** - These resources are just suggestive and not compulsory to go through. Feel free to explore and understand in your own way)
