@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Team NNFL
+  name: 'Paper ID: 94'
   email: bitsnnfl@gmail.com
 share: true
 title: "[ID_94] Brain Tumor Segmentation with Deep Neural Networks"
