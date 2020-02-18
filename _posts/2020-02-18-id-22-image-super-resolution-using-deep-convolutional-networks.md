@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: 'Paper ID : 22'
+  name: 'Paper ID: 22'
   email: bitsnnfl@gmail.com
 share: true
 title: Image Super-Resolution Using Deep Convolutional Networks
