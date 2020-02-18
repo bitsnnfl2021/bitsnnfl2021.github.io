@@ -4,7 +4,7 @@ author:
   name: 'Paper ID: 93'
   email: bitsnnfl@gmail.com
 share: true
-title: News text classification based on a Weighted RNN
+title: News Text Classification based on a Weighted RNN
 categories:
 - NLP
 - RNN
