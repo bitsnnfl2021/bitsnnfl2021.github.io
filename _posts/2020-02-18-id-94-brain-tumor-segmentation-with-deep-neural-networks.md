@@ -20,12 +20,13 @@ tags: []
 **Problem Statement** -
 
 1. The paper is implemented on BRATS 2013 dataset. Implement the paper using the BRATS 2015 dataset (as given above). Clearly mention the details of the data set, like the number of samples, input features, etc. Report all these through necessary graphs in the notebook. Also, include the final processed data set used for training and testing in the submission.
-2. Implement the InputCascadeCNN architecture, as described in the paper (Fig. 3 (a)).
+2. Implement the InputCascadeCNN architecture, as described in the paper (Fig. 3 (a)) using Keras API of Tensorflow.
 3. Show the segmented image for 10 samples from the test set. Also report the precision, recall, and dice score for all three tumor categories (in the notebook).
 4. **Bonus**: Train the LocalCascadeCNN architecture (Fig. 3 (b)) and perform a comparative analysis with InputCascadeCNN in terms of metrics defined in point number 3.
 
 **Few Resources to Understand Key Concepts -**
 
 1. Understand CNNs - [http://cs231n.github.io/convolutional-networks/](http://cs231n.github.io/convolutional-networks/ "http://cs231n.github.io/convolutional-networks/"), [http://cs231n.github.io/understanding-cnn/](http://cs231n.github.io/understanding-cnn/ "http://cs231n.github.io/understanding-cnn/"), [https://towardsdatascience.com/understanding-cnn-convolutional-neural-network-69fd626ee7d4](https://towardsdatascience.com/understanding-cnn-convolutional-neural-network-69fd626ee7d4 "https://towardsdatascience.com/understanding-cnn-convolutional-neural-network-69fd626ee7d4")
+2. Intuitive Explanation of ConvNets - [https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/ "https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/")
 
 (**Note** - These resources are just suggestive and not compulsory to go through. Feel free to explore and understand in your own way)
