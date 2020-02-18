@@ -1,10 +1,10 @@
 ---
 layout: post
 author:
-  name: Team NNFL
+  name: 'Paper ID: 11'
   email: bitsnnfl@gmail.com
 share: true
-title: "[ID-11]-Deep Subspace Clustering Networks"
+title: Deep Subspace Clustering Networks
 categories:
 - CNN
 - Autoencoders
