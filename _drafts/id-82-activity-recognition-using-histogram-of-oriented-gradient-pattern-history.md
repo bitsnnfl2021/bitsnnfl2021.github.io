@@ -1,10 +1,10 @@
 ---
 layout: post
 author:
-  name: Team NNFL
+  name: 'Paper ID: 82'
   email: bitsnnfl@gmail.com
 share: true
-title: "[ID_82] 3D Convolutional Neural Networks for Human Action Recognition"
+title: 3D Convolutional Neural Networks for Human Action Recognition
 categories:
 - Action Recognition
 - CNN
