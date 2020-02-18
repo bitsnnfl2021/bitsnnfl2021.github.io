@@ -1,10 +1,10 @@
 ---
 layout: post
 author:
-  name: Team NNFL
+  name: 'Paper ID: 51'
   email: bitsnnfl@gmail.com
 share: true
-title: "[ID_51] Mask R-CNN"
+title: Mask R-CNN
 categories:
 - 'Image Detection '
 - CNN
