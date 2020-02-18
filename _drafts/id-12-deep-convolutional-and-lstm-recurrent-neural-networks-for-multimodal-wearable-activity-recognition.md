@@ -1,11 +1,11 @@
 ---
 layout: post
 author:
-  name: Team NNFL
+  name: 'Paper ID: 12'
   email: bitsnnfl@gmail.com
 share: true
-title: "[ID-12] Deep Convolutional and LSTM Recurrent Neural Networks for Multimodal
-  Wearable Activity Recognition"
+title: Deep Convolutional and LSTM Recurrent Neural Networks for Multimodal Wearable
+  Activity Recognition
 categories:
 - LSTM
 - RNN
