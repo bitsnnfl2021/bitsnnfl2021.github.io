@@ -1,10 +1,10 @@
 ---
 layout: post
 author:
-  name: Team NNFL
+  name: 'Paper ID: 72'
   email: bitsnnfl@gmail.com
 share: true
-title: "[ID:72]Semi-Supervised Classification With Graph Convolutional Networks"
+title: Semi-Supervised Classification With Graph Convolutional Networks
 categories:
 - Graphs
 - Convolutional Networks
