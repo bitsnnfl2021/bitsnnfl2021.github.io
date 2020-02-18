@@ -10,6 +10,7 @@ categories:
 - Warping
 - Cost Volume
 - Pyramidal Processing
+- Dense Pixel Matching
 tags: []
 
 ---
@@ -22,4 +23,8 @@ tags: []
 
 1)Implement the warping module
 
-2)Use Sintel Dataset
+2)Implement the model in PyTorch using a custom data loader 
+
+3)Use Sintel Dataset
+
+4)Compare your results with the paper
