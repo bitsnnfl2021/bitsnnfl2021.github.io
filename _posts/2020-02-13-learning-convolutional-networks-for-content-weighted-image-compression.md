@@ -3,7 +3,7 @@ layout: post
 share: true
 title: Learning Convolutional Networks for Content-weighted Image Compression
 author:
-  name: 'ID: 21'
+  name: 'Paper ID: 21'
   email: bitsnnfl@gmail.com
 categories:
 - Autoencoders
