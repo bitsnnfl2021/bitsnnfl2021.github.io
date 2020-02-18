@@ -20,3 +20,5 @@ Task:
 
 1. Implement the architecture proposed in the paper(4)
 2. Segmenting highly overlapping digits (6)
+
+Section of the paper is mentioned for each task
