@@ -79,8 +79,8 @@ pages:
 - _posts/2020-02-18-id-94-brain-tumor-segmentation-with-deep-neural-networks.md
 - _posts/2020-02-18-neural-machine-translation-by-jointly-learning-to-align-and-translate.md
 - _posts/2020-02-18-object-contour-detection-with-a-fully-convolutional-encoder-decoder-network.md
+- _posts/2020-02-18-pwc-net-cnns-for-optical-flow-using-pyramid-warping-and-cost-volume.md
 - _posts/2020-02-18-semi-supervised-classification-with-graph-convolutional-networks.md
 - _posts/2020-02-18-visualizing-and-understanding-convolutional-networks.md
 - _posts/id-121-dropout-a-simple-way-to-prevent-neural-networks-from-overfitting.md
 - _posts/id-33-padam-closing-the-generalization-gap-of-adaptive-gradient-methods-in-training-deep-neural-networks.md
-- _posts/pwc-net-cnns-for-optical-flow-using-pyramid-warping-and-cost-volume.md
