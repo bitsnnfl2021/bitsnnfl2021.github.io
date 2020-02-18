@@ -1,9 +1,9 @@
 ---
 layout: post
 share: true
-title: "[ID:71]U-Net: Convolutional Networks for Biomedical Image Segmentation"
+title: 'U-Net: Convolutional Networks for Biomedical Image Segmentation'
 author:
-  name: Team NNFL
+  name: 'Paper ID: 71'
   email: bitsnnfl.github.io
 categories:
 - CNN
