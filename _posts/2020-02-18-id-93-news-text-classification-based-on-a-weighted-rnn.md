@@ -23,3 +23,10 @@ tags: []
 2. Use GRU blocks as the RNN units while developing the model. Use early stopping with respect to cross-validation loss as stopping criteria. (**Note** - Don't worry about the high training accuracy as mentioned in the paper. The idea is to achieve maximum testing accuracy).
 3. Show comparison with replacing the GRU unit by LSTM unit in the above model, and with baseline GRU-based RNN model. Clearly report the difference in terms of accuracy, convergence rate of loss function and avg time per epoch.
 4. Report graph of loss function & accuracy vs. epochs during training, and confusion matrix, precision, recall, F1 score, and accuracy for all three cases for the test set (in the notebook).
+
+**Few Resources to Understand Key Concepts -**
+
+1. Understand LSTMs and GRUs - [http://colah.github.io/posts/2015-08-Understanding-LSTMs/](http://colah.github.io/posts/2015-08-Understanding-LSTMs/ "http://colah.github.io/posts/2015-08-Understanding-LSTMs/"), [https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21 "https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21")
+2. Understand CNNs - [http://cs231n.github.io/convolutional-networks/](http://cs231n.github.io/convolutional-networks/ "http://cs231n.github.io/convolutional-networks/"), [http://cs231n.github.io/understanding-cnn/](http://cs231n.github.io/understanding-cnn/ "http://cs231n.github.io/understanding-cnn/"), [https://towardsdatascience.com/understanding-cnn-convolutional-neural-network-69fd626ee7d4](https://towardsdatascience.com/understanding-cnn-convolutional-neural-network-69fd626ee7d4 "https://towardsdatascience.com/understanding-cnn-convolutional-neural-network-69fd626ee7d4")
+
+(**Note** - These resources are just suggestive and not compulsory to go through. Feel free to explore and understand in your own way)
