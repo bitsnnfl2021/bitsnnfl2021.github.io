@@ -49,6 +49,7 @@ pages:
 - _posts/2020-02-13-partial-convolution-based-padding.md
 - _posts/2020-02-14-id-21-learning-convolutional-networks-for-content-weighted-image-compression.md
 - _posts/2020-02-18-id-22-image-super-resolution-using-deep-convolutional-networks.md
+- _posts/2020-02-18-id-94-brain-tumor-segmentation-with-deep-neural-networks.md
 - _posts/a-deeper-look-into-sarcastic-tweets-using-deep-convolutional-neural-networks.md
 - _posts/id-111-visualizing-and-understanding-convolutional-networks.md
 - _posts/id-112-eegnet-a-compact-convolutional-neural-network-for-eeg-based-brain-computer-interfaces.md
@@ -79,7 +80,6 @@ pages:
 - _posts/id-91-hand-gesture-recognition-using-an-adapted-convolutional-neural-network-with-data-augmentation.md
 - _posts/id-92-web-traffic-anomaly-detection-using-c-lstm-neural-networks.md
 - _posts/id-93-news-text-classification-based-on-a-weighted-rnn.md
-- _posts/id-94-brain-tumor-segmentation-with-deep-neural-networks.md
 - _posts/neural-machine-translation-by-jointly-learning-to-align-and-translate.md
 - _posts/object-contour-detection-with-a-fully-convolutional-encoder-decoder-network.md
 - _posts/semi-supervised-classification-with-graph-convolutional-networks.md
