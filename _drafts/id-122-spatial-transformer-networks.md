@@ -1,10 +1,10 @@
 ---
 layout: post
 author:
-  name: Team NNFL
+  name: 'Paper ID: 122'
   email: bitsnnfl@gmail.com
 share: true
-title: "[ID:122]-Spatial Transformer Networks"
+title: Spatial Transformer Networks
 categories:
 - CNN
 - Classification
