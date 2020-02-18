@@ -7,10 +7,9 @@ share: true
 title: A Deeper Look into Sarcastic Tweets Using Deep Convolutional Neural Networks
 categories:
 - Natural Language Processing
-tags:
 - CNN
-- Text Convolutions
 - Sarcasm Detection
+tags: []
 
 ---
 
