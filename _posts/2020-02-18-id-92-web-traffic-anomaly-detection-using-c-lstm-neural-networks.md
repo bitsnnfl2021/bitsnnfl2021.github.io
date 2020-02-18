@@ -8,6 +8,7 @@ title: Web traffic Anomaly Detection using C-LSTM Neural Networks
 categories:
 - CNN
 - LSTM
+- Anomaly Detection
 tags: []
 
 ---
