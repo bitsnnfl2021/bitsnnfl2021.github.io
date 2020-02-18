@@ -29,8 +29,8 @@ Conference : Chinese Control Conference
 
 5\. Compare the performance of the above three architectures in (2) ,(3) and (4).
 
-6\. Use Keras framework in python. 
+6\. Use Keras framework in python.
 
-**Dataset**: Project BCI - EEG motor activity dataset 
+**Dataset**: Project BCI - EEG motor activity dataset
 
 **ID:** 84
