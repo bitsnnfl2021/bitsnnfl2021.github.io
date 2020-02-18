@@ -28,5 +28,6 @@ tags: []
 **Few Resources to Understand Key Concepts -**
 
 1. Understand CNNs - [http://cs231n.github.io/convolutional-networks/](http://cs231n.github.io/convolutional-networks/ "http://cs231n.github.io/convolutional-networks/"), [http://cs231n.github.io/understanding-cnn/](http://cs231n.github.io/understanding-cnn/ "http://cs231n.github.io/understanding-cnn/"), [https://towardsdatascience.com/understanding-cnn-convolutional-neural-network-69fd626ee7d4](https://towardsdatascience.com/understanding-cnn-convolutional-neural-network-69fd626ee7d4 "https://towardsdatascience.com/understanding-cnn-convolutional-neural-network-69fd626ee7d4")
+2. Intuitive Explanation of ConvNets - [https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/ "https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/")
 
 (**Note** - These resources are just suggestive and not compulsory to go through. Feel free to explore and understand in your own way)
