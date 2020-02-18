@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Team NNFL
+  name: 'Paper ID: 52'
   email: bitsnnfl@gmail.com
 share: true
 title: "[ID_52] Convolutional Neural Network with an Optimized Backpropagation Technique"
