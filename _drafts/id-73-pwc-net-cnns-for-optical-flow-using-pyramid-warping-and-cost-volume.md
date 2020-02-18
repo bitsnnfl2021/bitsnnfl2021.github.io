@@ -1,10 +1,10 @@
 ---
 layout: post
 author:
-  name: Team NNFL
+  name: 'Paper ID: 73'
   email: bitsnnfl@gmail.com
 share: true
-title: "[ID:73] PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume"
+title: 'PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume'
 categories:
 - Optical Flow
 - Warping
