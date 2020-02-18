@@ -19,6 +19,7 @@ tags: []
 
 **Problem Statement** -
 
-1. The paper is implemented on BRATS 2013 dataset. Implement the paper using the BRATS 2015 dataset (as given above)
-2. Implement the InputCascadeCNN architecture only, as described in the paper.
-3. Show the segmented image for 10 images. Also report the precision, recall, and dice score for all three tumor categories.
+1. The paper is implemented on BRATS 2013 dataset. Implement the paper using the BRATS 2015 dataset (as given above). Clearly mention the details of the data set, like the number of samples, input features, etc. Also, include the final processed data used for training, in the submission.
+2. Implement the InputCascadeCNN architecture, as described in the paper (Fig. 3 (a)).
+3. Show the segmented image for 10 samples from the test set. Also report the precision, recall, and dice score for all three tumor categories.
+4. **Bonus**: Train the LocalCascadeCNN architecture (Fig. 3 (b)) and perform a comparative analysis with InputCascadeCNN in terms of metrics defined in point number 3.
