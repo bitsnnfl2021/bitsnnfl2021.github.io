@@ -1,11 +1,10 @@
 ---
 layout: post
 author:
-  name: Team NNFL
+  name: 'Paper ID: 42'
   email: bitsnnfl@gmail.com
 share: true
-title: "[ID_42] A Deeper Look into Sarcastic Tweets Using Deep Convolutional Neural
-  Networks"
+title: A Deeper Look into Sarcastic Tweets Using Deep Convolutional Neural Networks
 categories:
 - Natural Language Processing
 tags:
