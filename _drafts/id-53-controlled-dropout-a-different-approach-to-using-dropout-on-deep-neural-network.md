@@ -1,11 +1,10 @@
 ---
 layout: post
 author:
-  name: Team NNFL
+  name: 'Paper ID: 53'
   email: bitsnnfl@gmail.com
 share: true
-title: "[ID_53] Controlled dropout: A different approach to using dropout on deep
-  neural network"
+title: 'Controlled dropout: A different approach to using dropout on deep neural network'
 categories:
 - Dropout
 - Fully Connected NN
