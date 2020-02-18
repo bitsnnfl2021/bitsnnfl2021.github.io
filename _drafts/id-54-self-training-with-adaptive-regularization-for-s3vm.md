@@ -1,10 +1,10 @@
 ---
 layout: post
 author:
-  name: Team NNFL
+  name: 'Paper ID: 54'
   email: bitsnnfl@gmail.com
 share: true
-title: "[ID_54] ImageNet Classification with Deep Convolutional Neural Networks"
+title: ImageNet Classification with Deep Convolutional Neural Networks
 categories:
 - CNN
 - Overfitting
