@@ -48,6 +48,7 @@ pages:
 - _posts/2020-02-13-learning-convolutional-networks-for-content-weighted-image-compression.md
 - _posts/2020-02-13-partial-convolution-based-padding.md
 - _posts/2020-02-14-id-21-learning-convolutional-networks-for-content-weighted-image-compression.md
+- _posts/2020-02-18-id-22-image-super-resolution-using-deep-convolutional-networks.md
 - _posts/a-deeper-look-into-sarcastic-tweets-using-deep-convolutional-neural-networks.md
 - _posts/id-111-visualizing-and-understanding-convolutional-networks.md
 - _posts/id-112-eegnet-a-compact-convolutional-neural-network-for-eeg-based-brain-computer-interfaces.md
@@ -58,7 +59,6 @@ pages:
 - _posts/id-123-fast-and-accurate-image-super-resolution-by-deep-cnn-with-skip-connection-and-network-in-network.md
 - _posts/id-124-overfeat-integrated-recognition-localization-and-detection-using-convolutional-networks.md
 - _posts/id-13-dynamic-routing-between-capsules.md
-- _posts/id-22-image-super-resolution-using-deep-convolutional-networks.md
 - _posts/id-31-bag-of-tricks-for-image-classification-with-convolutional-neural-networks.md
 - _posts/id-32-linknet-exploiting-encoder-representations-for-efficient-semantic-segmentation.md
 - _posts/id-33-padam-closing-the-generalization-gap-of-adaptive-gradient-methods-in-training-deep-neural-networks.md
