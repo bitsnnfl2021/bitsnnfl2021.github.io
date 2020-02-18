@@ -1,9 +1,9 @@
 ---
 layout: post
 share: true
-title: "[ID_61] Star-Transformer"
+title: Star-Transformer
 author:
-  name: Team NNFL
+  name: 'Paper ID: 61'
   email: bitsnnfl@gmail.com
 categories:
 - Natural Language Inference
