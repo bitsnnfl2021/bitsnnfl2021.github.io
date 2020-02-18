@@ -1,11 +1,11 @@
 ---
 layout: post
 author:
-  name: Team NNFL
+  name: 'Paper ID: 112'
   email: bitsnnfl@gmail.com
 share: true
-title: "[ID_112] EEGNet: A Compact Convolutional Neural Network for EEG-based Brain-Computer
-  Interfaces"
+title: 'EEGNet: A Compact Convolutional Neural Network for EEG-based Brain-Computer
+  Interfaces'
 categories:
 - BCI
 - CNN
