@@ -20,8 +20,10 @@ We present a conceptually simple, flexible, and general framework for object ins
 
 **Tasks:**
 
-1. Instance Segmentation - The model needs to be trained and tested on subsets of the COCO dataset and results need to be documented.
-2. Human Pose Estimation - Model needs to be implemented on subsets again, with a change in learning rate and the number of iterations (tbd how many)
+1. Implement the model on Tensorflow and Keras.  
+2. Use subsets for the paper implementation. Clearly report the number of data samples of each category in training and testing sets.
+3. Instance Segmentation - Follow the architecture given in the paper and show bounding box predictions for the test set. Report the accuracy of your model. 
+4. Human Pose Estimation - Implement using only keypoint detection and report your results. (You may take fewer keypoints than the ones specified in the paper for the implementation)
 
 **Data Set:** Subsets of the [COCO](http://cocodataset.org/#home "COCO") dataset
 
