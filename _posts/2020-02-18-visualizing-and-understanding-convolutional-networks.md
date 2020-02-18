@@ -8,6 +8,7 @@ title: Study on the prediction of stock price based on the associated network mo
   of LSTM
 categories:
 - LSTM
+- Financial Time Series
 tags: []
 
 ---
