@@ -62,6 +62,8 @@ pages:
 - _posts/2020-02-18-id-34-attention-u-net-learning-where-to-look-for-the-pancreas.md
 - _posts/2020-02-18-id-52-convolutional-neural-network-with-an-optimized-backpropagation-technique.md
 - _posts/2020-02-18-id-53-controlled-dropout-a-different-approach-to-using-dropout-on-deep-neural-network.md
+- _posts/2020-02-18-id-54-self-training-with-adaptive-regularization-for-s3vm.md
+- _posts/2020-02-18-id-64-inception-v4-inception-resnet-and-the-impact-of-residual-connections-on-learning.md
 - _posts/2020-02-18-id-82-activity-recognition-using-histogram-of-oriented-gradient-pattern-history.md
 - _posts/2020-02-18-id-84-deep-learning-eeg-response-representation-for-brain-computer-interface.md
 - _posts/2020-02-18-id-91-hand-gesture-recognition-using-an-adapted-convolutional-neural-network-with-data-augmentation.md
@@ -71,10 +73,8 @@ pages:
 - _posts/id-32-linknet-exploiting-encoder-representations-for-efficient-semantic-segmentation.md
 - _posts/id-33-padam-closing-the-generalization-gap-of-adaptive-gradient-methods-in-training-deep-neural-networks.md
 - _posts/id-51-mask-r-cnn.md
-- _posts/id-54-self-training-with-adaptive-regularization-for-s3vm.md
 - _posts/id-62-r-recursive-deep-models-for-semantic-compositionality-over-a-sentiment-treebank.md
 - _posts/id-63-r-learning-temporal-pose-estimation-from-sparsely-labeled-videos.md
-- _posts/id-64-inception-v4-inception-resnet-and-the-impact-of-residual-connections-on-learning.md
 - _posts/id-71-u-net-convolutional-networks-for-biomedical-image-segmentation.md
 - _posts/id-73-pwc-net-cnns-for-optical-flow-using-pyramid-warping-and-cost-volume.md
 - _posts/id-74-spatial-pyramid-pooling-in-deep-convolutional-networks-for-visual-recognition.md
