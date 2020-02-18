@@ -1,11 +1,10 @@
 ---
 layout: post
 author:
-  name: Team NNFL
+  name: 'Paper ID: 24'
   email: bitsnnfl@gmail.com
 share: true
-title: "[ID_24]Object Contour Detection with a Fully Convolutional Encoder-Decoder
-  Network"
+title: Object Contour Detection with a Fully Convolutional Encoder-Decoder Network
 categories: []
 tags: []
 
