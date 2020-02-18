@@ -1,10 +1,10 @@
 ---
 layout: post
 author:
-  name: Team NNFL
+  name: 'Paper ID: 34'
   email: bitsnnfl@gmail.com
 share: true
-title: "[ID_34] Attention U-Net: Learning Where to Look for the Pancreas"
+title: 'Attention U-Net: Learning Where to Look for the Pancreas'
 categories:
 - cnn
 - computer vision
