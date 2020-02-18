@@ -1,9 +1,9 @@
 ---
 layout: post
 share: true
-title: "[ID_31] Bag of Tricks for Image Classification with Convolutional Neural Networks"
+title: Bag of Tricks for Image Classification with Convolutional Neural Networks
 author:
-  name: BITS NNFL
+  name: 'Paper ID: 31'
   email: bitsnnfl@gmail.com
 categories:
 - hyperparameter tuning
