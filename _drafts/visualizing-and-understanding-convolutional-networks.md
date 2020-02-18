@@ -1,11 +1,11 @@
 ---
 layout: post
 author:
-  name: Team NNFL
+  name: 'Paper ID: 14'
   email: bitsnnfl@gmail.com
 share: true
-title: "[ID-14]-Study on the prediction of stock price based on the associated network
-  model of LSTM"
+title: Study on the prediction of stock price based on the associated network model
+  of LSTM
 categories:
 - LSTM
 tags: []
