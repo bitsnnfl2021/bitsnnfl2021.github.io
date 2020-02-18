@@ -29,7 +29,7 @@ fields:
     config:
       required: true
     default: bitsnnfl@gmail.com
-  hidden: true
+  hidden: false
 - type: tag_list
   label: Categories
   name: categories
