@@ -20,7 +20,9 @@ tags: []
 
 **Tasks:**
 
-1. 
+1. Implelement the model given in the paper using Tensorflow
+2. Use a subset of the given dataset and apply augmentation techniques as specified in the paper. Clearly specify which subset is being used. Also, split the dataset for training and testing purposes.
+3. Report the top-1 and top-5 test set error rates in your final report. 
 
 **Data Set:** ILSVRC-2010 ([http://www.image-net.org/challenges/LSVRC/2010/](http://www.image-net.org/challenges/LSVRC/2010/ "http://www.image-net.org/challenges/LSVRC/2010/")
 

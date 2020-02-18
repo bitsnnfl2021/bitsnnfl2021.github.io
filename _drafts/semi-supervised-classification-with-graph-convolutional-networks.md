@@ -19,4 +19,8 @@ tags: []
 
 **Conference:** ICLR 2017
 
+For an introduction to GCNs-: [http://tkipf.github.io/graph-convolutional-networks/](http://tkipf.github.io/graph-convolutional-networks/ "http://tkipf.github.io/graph-convolutional-networks/")
+
 **Task:**
+
+1)Implement the GCN Model on dataset-: Pubmed and Cora
