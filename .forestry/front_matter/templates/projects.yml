@@ -71,6 +71,7 @@ pages:
 - _posts/2020-02-18-id-73-pwc-net-cnns-for-optical-flow-using-pyramid-warping-and-cost-volume.md
 - _posts/2020-02-18-id-74-spatial-pyramid-pooling-in-deep-convolutional-networks-for-visual-recognition.md
 - _posts/2020-02-18-id-82-activity-recognition-using-histogram-of-oriented-gradient-pattern-history.md
+- _posts/2020-02-18-id-83-playing-atari-with-deep-reinforcement-learning.md
 - _posts/2020-02-18-id-84-deep-learning-eeg-response-representation-for-brain-computer-interface.md
 - _posts/2020-02-18-id-91-hand-gesture-recognition-using-an-adapted-convolutional-neural-network-with-data-augmentation.md
 - _posts/2020-02-18-id-92-web-traffic-anomaly-detection-using-c-lstm-neural-networks.md
@@ -83,4 +84,3 @@ pages:
 - _posts/id-121-dropout-a-simple-way-to-prevent-neural-networks-from-overfitting.md
 - _posts/id-33-padam-closing-the-generalization-gap-of-adaptive-gradient-methods-in-training-deep-neural-networks.md
 - _posts/id-71-u-net-convolutional-networks-for-biomedical-image-segmentation.md
-- _posts/id-83-playing-atari-with-deep-reinforcement-learning.md
