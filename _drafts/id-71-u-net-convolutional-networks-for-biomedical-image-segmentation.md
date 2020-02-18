@@ -22,8 +22,20 @@ One of the few papers having a Wiki page([https://en.wikipedia.org/wiki/U-Net](h
 
 **Task:**
 
-1)Implement the encoder-decoder architecture in a framework of your choice.
+1) Implement the proper data loader with any two augmentation techniques.
 
-2)Add Skip Connections
+2)Implement the encoder-decoder architecture in a framework of your choice.
 
-3)Implement Shared Weights residual block
+3)Add Skip Connections
+
+4)Implement Shared Weights residual block
+
+5)Calculate Precision and recall(Eventually calculating the F1-score)
+
+6)Draw a ROC curve and compare your results with the paper.
+
+**Dataset:** DRIVE
+
+Register at ([https://drive.grand-challenge.org/DRIVE/](https://drive.grand-challenge.org/DRIVE/ "https://drive.grand-challenge.org/DRIVE/")) or download directly
+
+[https://www.dropbox.com/sh/z4hbbzqai0ilqht/AAARqnQhjq3wQcSVFNR__6xNa?dl=0](https://www.dropbox.com/sh/z4hbbzqai0ilqht/AAARqnQhjq3wQcSVFNR__6xNa?dl=0 "https://www.dropbox.com/sh/z4hbbzqai0ilqht/AAARqnQhjq3wQcSVFNR__6xNa?dl=0")
