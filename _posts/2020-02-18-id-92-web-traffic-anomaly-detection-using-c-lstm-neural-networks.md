@@ -27,3 +27,10 @@ tags: []
 2. Implement the C-LSTM architecture (table 6) as given in the paper using Keras API of Tensorflow, and train the model for classification of the data as Normal & Abnormal.
 3. Report the results providing graphs of cross-entropy loss and accuracy vs. epochs during training, and confusion matrix, precision, recall, F1-score and accuracy on the test set (in the notebook).
 4. **Bonus**: Perform Misclassification data analysis (Section 4.2.3) and mention probable reasons for the same.
+
+**Few Resources to Understand Key Concepts -**
+
+1. Understand LSTMs and GRUs - [http://colah.github.io/posts/2015-08-Understanding-LSTMs/](http://colah.github.io/posts/2015-08-Understanding-LSTMs/ "http://colah.github.io/posts/2015-08-Understanding-LSTMs/"), [https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21 "https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21")
+2. Understand CNNs - [http://cs231n.github.io/convolutional-networks/](http://cs231n.github.io/convolutional-networks/ "http://cs231n.github.io/convolutional-networks/"), [http://cs231n.github.io/understanding-cnn/](http://cs231n.github.io/understanding-cnn/ "http://cs231n.github.io/understanding-cnn/"), [https://towardsdatascience.com/understanding-cnn-convolutional-neural-network-69fd626ee7d4](https://towardsdatascience.com/understanding-cnn-convolutional-neural-network-69fd626ee7d4 "https://towardsdatascience.com/understanding-cnn-convolutional-neural-network-69fd626ee7d4")
+
+(**Note** - These resources are just suggestive and not compulsory to go through. Feel free to explore and understand in your own way)
