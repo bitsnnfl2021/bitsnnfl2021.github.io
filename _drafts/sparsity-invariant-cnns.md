@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Team NNFL
+  name: Rishav
   email: bitsnnfl@gmail.com
 share: true
 title: Sparsity Invariant CNNs
