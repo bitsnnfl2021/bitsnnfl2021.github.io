@@ -7,6 +7,14 @@ paginate: true
 entries_layout: list
 
 ---
+
+## Design Project Preference Form is Out
+
+
+
+
+
+
 ### Assignment 1
 
 1) The notebooks are available at https://github.com/bitsnnfl/Assignment1-2020
