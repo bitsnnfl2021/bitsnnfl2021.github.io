@@ -24,5 +24,3 @@ For an introduction to GCNs-: [http://tkipf.github.io/graph-convolutional-networ
 **Task:**
 
 1)Implement the GCN Model on dataset-: Pubmed and Cora
-
-2)Cannot use PyTorch
