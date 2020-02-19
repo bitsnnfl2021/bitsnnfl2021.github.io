@@ -7,10 +7,10 @@ share: true
 title: Neural Machine Translation by Jointly Learning to Align and Translate
 categories:
 - Natural Language Processing
-tags:
 - LSTM
 - Attention
 - Neural Machine Translation
+tags: []
 
 ---
 NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE
