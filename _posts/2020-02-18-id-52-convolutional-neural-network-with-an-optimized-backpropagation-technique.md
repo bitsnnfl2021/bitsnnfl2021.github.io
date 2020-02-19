@@ -13,9 +13,7 @@ categories:
 tags: []
 
 ---
-**Abstract:**
-
-This paper exhibits an Object recognition technique using the Convolutional Neural Network in Deep Learning. Backpropagation is a redundantly used method to calculate the gradient of a curve. The gradient, in turn, is involved in the weight upgradation while training the deep neural network. Being a repeatedly rediscovered algorithm, Backpropagation still stands out to give better results with its various optimization techniques. An Object Recognition technique in deep learning using backpropagation, optimized with a heuristic optimization technique is implemented and evaluated.
+**Abstract:** This paper exhibits an Object recognition technique using the Convolutional Neural Network in Deep Learning. Backpropagation is a redundantly used method to calculate the gradient of a curve. The gradient, in turn, is involved in the weight upgradation while training the deep neural network. Being a repeatedly rediscovered algorithm, Backpropagation still stands out to give better results with its various optimization techniques. An Object Recognition technique in deep learning using backpropagation, optimized with a heuristic optimization technique is implemented and evaluated.
 
 **Paper Link:** [https://ieeexplore.ieee.org/document/8878719](https://ieeexplore.ieee.org/document/8878719 "https://ieeexplore.ieee.org/document/8878719")
 
