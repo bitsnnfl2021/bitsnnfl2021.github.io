@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Rishav
+  name: "103"
   email: bitsnnfl@gmail.com
 share: true
 title: Pyramid Stereo Matching Network
