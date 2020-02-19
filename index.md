@@ -15,8 +15,10 @@ The link to the form is: [https://forms.gle/2irmPNJj38QUGcPb9](https://forms.gle
 
 Please note:
 
-* Only **ONE member** of the group needs to fill the form.
-* The allotment is strictly on a first come, first served basis.
+* You are expected to make a group of **3** people
+* Only **ONE member** of the group needs to fill the form (cannot emphasize enough on this)
+* In case you are alone and unable to form a group, do not fill the form, and contact us at [bitsnnfl@gmail.com](mailto:bitsnnfl@gmail.com) (we strongly encourage you to talk to your classmates before doing this)
+* The allotment is strictly on a first come, first served basis
 
 The last date for filling the form is **22nd Feb (11:59 PM)**.
 
