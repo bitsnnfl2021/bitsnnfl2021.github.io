@@ -8,8 +8,7 @@ author:
 categories:
 - hyperparameter tuning
 - cnn
-tags:
-- medium
+tags: []
 
 ---
 _This paper will be assigned to two separate groups._
