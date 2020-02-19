@@ -16,10 +16,10 @@ tags: []
 
 **Conference:** ECCV 2014
 
-**Dataset:** VOC 2007, ILSVRC 2014
+**Dataset:** VOC 2007/ ILSVRC 2014
 
 **Task:**
 
-1. Implement the model on Tensorflow and Keras
+1. Implement the model on Tensorflow / Keras
 2. Implement the proper data loader with any 2 data augmentation techniques.
-3. Use subsets for paper implementation. Clearly report the number of data samples of each category in training and testing sets.
+3. Use subsets of the dataset for paper implementation(in case of out of memory). Clearly report the number of data samples of each category in training and testing sets.
