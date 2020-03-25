@@ -10,7 +10,7 @@ entries_layout: list
 ---
 Hello Everyone!
 
-This mail is to give you some helpful resources to get going with your NNFL project no matter what your experience level is at this point. We’ll start from zero and go all the way to being an expert.
+This post is to give you some helpful resources to get going with your NNFL project no matter what your experience level is at this point. We’ll start from zero and go all the way to being an expert.
 
 Note that you do not need to (and shouldn’t) learn everything beforehand to start practicing deep learning. It is strongly advised to learn the tools you need only _when_ you need them. The reasoning here is that the amount of topics/tools that comprise effective practice of deep learning is very high and is ever growing, and trying to learn everything beforehand will only slow you down before you do any actual significant work.
 
