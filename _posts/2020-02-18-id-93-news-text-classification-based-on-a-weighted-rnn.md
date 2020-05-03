@@ -23,7 +23,7 @@ tags: []
 1. Split the training and testing set as given in the paper and then develop the model. Clearly report the number of data samples of each category in training and testing sets by generating necessary graphs in the notebook. Submit the final dataset used for the project along with the notebook.
 2. Tokenize and perform word embedding of the files using the 'Word2vec' technique, as given in the paper. Make necessary and logical assumptions of parameters wherever necessary. (Feel free to use any other word embedding technique. However, state clear reasons for doing so)
 3. Develop the model using Keras API of Tensorflow, and use GRU blocks as the RNN units. Use early stopping with respect to cross-validation loss as stopping criteria. (**Note** - Don't worry about the high training accuracy as mentioned in the paper. The idea is to achieve maximum testing accuracy).
-4. Show comparison with replacing the GRU unit by LSTM unit in the above model, and with baseline GRU-based RNN model. Clearly report the difference in terms of accuracy, convergence rate of loss function and avg time per epoch.
+4. Show comparison with replacing the GRU unit by LSTM unit in the above model and with baseline GRU-based RNN model and Bidirectional GRU based model. Clearly report the difference in terms of accuracy, the convergence rate of the loss function, and avg time per epoch.
 5. Report graph of loss function & accuracy vs. epochs during training, and confusion matrix, precision, recall, F1 score, and accuracy for all three cases for the test set (in the notebook).
 
 **Few Resources to Understand Key Concepts -**
