@@ -84,5 +84,3 @@ pages:
 - _posts/2020-02-18-sparse-to-dense-depth-prediction-from-sparse-depth-samples-and-a-single-image.md
 - _posts/2020-02-18-sparsity-invariant-cnns.md
 - _posts/2020-02-18-visualizing-and-understanding-convolutional-networks.md
-- _posts/id-121-dropout-a-simple-way-to-prevent-neural-networks-from-overfitting.md
-- _posts/id-33-padam-closing-the-generalization-gap-of-adaptive-gradient-methods-in-training-deep-neural-networks.md
