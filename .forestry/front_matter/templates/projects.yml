@@ -43,7 +43,6 @@ pages:
 - _posts/2020-02-18-11-deep-subspace-clustering-networks.md
 - _posts/2020-02-18-id-111-visualizing-and-understanding-convolutional-networks.md
 - _posts/2020-02-18-id-112-eegnet-a-compact-convolutional-neural-network-for-eeg-based-brain-computer-interfaces.md
-- _posts/2020-02-18-id-12-deep-convolutional-and-lstm-recurrent-neural-networks-for-multimodal-wearable-activity-recognition.md
 - _posts/2020-02-18-id-122-spatial-transformer-networks.md
 - _posts/2020-02-18-id-123-fast-and-accurate-image-super-resolution-by-deep-cnn-with-skip-connection-and-network-in-network.md
 - _posts/2020-02-18-id-124-overfeat-integrated-recognition-localization-and-detection-using-convolutional-networks.md
@@ -51,8 +50,6 @@ pages:
 - _posts/2020-02-18-id-22-image-super-resolution-using-deep-convolutional-networks.md
 - _posts/2020-02-18-id-32-linknet-exploiting-encoder-representations-for-efficient-semantic-segmentation.md
 - _posts/2020-02-18-id-51-mask-r-cnn.md
-- _posts/2020-02-18-id-52-convolutional-neural-network-with-an-optimized-backpropagation-technique.md
-- _posts/2020-02-18-id-53-controlled-dropout-a-different-approach-to-using-dropout-on-deep-neural-network.md
 - _posts/2020-02-18-id-54-self-training-with-adaptive-regularization-for-s3vm.md
 - _posts/2020-02-18-id-62-r-recursive-deep-models-for-semantic-compositionality-over-a-sentiment-treebank.md
 - _posts/2020-02-18-id-63-r-learning-temporal-pose-estimation-from-sparsely-labeled-videos.md
