@@ -49,3 +49,4 @@ pages:
 - _posts/2020-10-21-rotation-invariant-convolutional-neural-networks-for-galaxy-morphology-prediction.md
 - _posts/2020-10-21-stackgan-text-to-photo-realistic-image-synthesis-with-stacked-generative-adversarial-networks.md
 - _posts/2020-10-21-unpaired-image-to-image-translation-using-cycle-consistent-adversarial-networks.md
+- _posts/age-progression-regression-by-conditional-adversarial-autoencoder.md
