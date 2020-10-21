@@ -41,7 +41,6 @@ pages:
 - _posts/2020-02-13-learning-convolutional-networks-for-content-weighted-image-compression.md
 - _posts/2020-02-14-id-21-learning-convolutional-networks-for-content-weighted-image-compression.md
 - _posts/2020-02-18-11-deep-subspace-clustering-networks.md
-- _posts/2020-02-18-a-deeper-look-into-sarcastic-tweets-using-deep-convolutional-neural-networks.md
 - _posts/2020-02-18-id-111-visualizing-and-understanding-convolutional-networks.md
 - _posts/2020-02-18-id-112-eegnet-a-compact-convolutional-neural-network-for-eeg-based-brain-computer-interfaces.md
 - _posts/2020-02-18-id-113-character-level-convolutional-networks-for-text-classification.md
@@ -53,7 +52,6 @@ pages:
 - _posts/2020-02-18-id-22-image-super-resolution-using-deep-convolutional-networks.md
 - _posts/2020-02-18-id-31-bag-of-tricks-for-image-classification-with-convolutional-neural-networks.md
 - _posts/2020-02-18-id-32-linknet-exploiting-encoder-representations-for-efficient-semantic-segmentation.md
-- _posts/2020-02-18-id-34-attention-u-net-learning-where-to-look-for-the-pancreas.md
 - _posts/2020-02-18-id-51-mask-r-cnn.md
 - _posts/2020-02-18-id-52-convolutional-neural-network-with-an-optimized-backpropagation-technique.md
 - _posts/2020-02-18-id-53-controlled-dropout-a-different-approach-to-using-dropout-on-deep-neural-network.md
