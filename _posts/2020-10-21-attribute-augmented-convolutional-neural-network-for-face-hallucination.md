@@ -2,6 +2,7 @@
 layout: post
 author:
   name: Paper ID 11
+  difficulty: Hard
 share: true
 title: Attribute Augmented Convolutional Neural Network for Face Hallucination
 categories:
