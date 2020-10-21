@@ -45,7 +45,7 @@ fields:
 pages:
 - _posts/2020-10-21-attribute-augmented-convolutional-neural-network-for-face-hallucination.md
 - _posts/2020-10-21-perceptual-losses-for-real-time-style-transfer-and-super-resolution.md
+- _posts/2020-10-21-pose-guided-person-image-generation.md
 - _posts/2020-10-21-rotation-invariant-convolutional-neural-networks-for-galaxy-morphology-prediction.md
 - _posts/2020-10-21-stackgan-text-to-photo-realistic-image-synthesis-with-stacked-generative-adversarial-networks.md
 - _posts/2020-10-21-unpaired-image-to-image-translation-using-cycle-consistent-adversarial-networks.md
-- _posts/pose-guided-person-image-generation.md
