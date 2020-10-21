@@ -22,7 +22,7 @@ fields:
     name: name
     config:
       required: true
-    default: Team NNFL
+    default: Paper ID  
   - type: text
     label: difficulty
     name: difficulty
