@@ -47,8 +47,6 @@ pages:
 - _posts/2020-02-18-id-74-spatial-pyramid-pooling-in-deep-convolutional-networks-for-visual-recognition.md
 - _posts/2020-02-18-id-83-playing-atari-with-deep-reinforcement-learning.md
 - _posts/2020-02-18-id-92-web-traffic-anomaly-detection-using-c-lstm-neural-networks.md
-- _posts/2020-02-18-id-93-news-text-classification-based-on-a-weighted-rnn.md
-- _posts/2020-02-18-neural-machine-translation-by-jointly-learning-to-align-and-translate.md
 - _posts/2020-02-18-object-contour-detection-with-a-fully-convolutional-encoder-decoder-network.md
 - _posts/2020-02-18-pyramid-stereo-matching-network.md
 - _posts/2020-02-18-semi-supervised-classification-with-graph-convolutional-networks.md
