@@ -23,6 +23,12 @@ fields:
     config:
       required: true
     default: Team NNFL
+  - type: text
+    label: difficulty
+    name: difficulty
+    config:
+      required: true
+    default: TBD
   hidden: false
 - type: tag_list
   label: Categories
