@@ -23,12 +23,6 @@ fields:
     config:
       required: true
     default: Team NNFL
-  - type: text
-    name: email
-    label: email
-    config:
-      required: true
-    default: bitsnnfl@gmail.com
   hidden: false
 - type: tag_list
   label: Categories
