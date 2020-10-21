@@ -78,4 +78,4 @@ pages:
 - _posts/2020-02-18-sparse-to-dense-depth-prediction-from-sparse-depth-samples-and-a-single-image.md
 - _posts/2020-02-18-sparsity-invariant-cnns.md
 - _posts/2020-02-18-visualizing-and-understanding-convolutional-networks.md
-- _posts/attribute-augmented-convolutional-neural-network-for-face-hallucination.md
+- _posts/2020-10-21-attribute-augmented-convolutional-neural-network-for-face-hallucination.md
