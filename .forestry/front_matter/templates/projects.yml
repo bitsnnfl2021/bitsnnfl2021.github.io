@@ -41,7 +41,6 @@ pages:
 - _posts/2020-02-13-learning-convolutional-networks-for-content-weighted-image-compression.md
 - _posts/2020-02-18-id-111-visualizing-and-understanding-convolutional-networks.md
 - _posts/2020-02-18-id-122-spatial-transformer-networks.md
-- _posts/2020-02-18-id-123-fast-and-accurate-image-super-resolution-by-deep-cnn-with-skip-connection-and-network-in-network.md
 - _posts/2020-02-18-id-124-overfeat-integrated-recognition-localization-and-detection-using-convolutional-networks.md
 - _posts/2020-02-18-id-22-image-super-resolution-using-deep-convolutional-networks.md
 - _posts/2020-02-18-id-32-linknet-exploiting-encoder-representations-for-efficient-semantic-segmentation.md
