@@ -22,7 +22,7 @@ fields:
     name: name
     config:
       required: true
-    default: Paper ID  
+    default: Paper ID
   - type: text
     label: difficulty
     name: difficulty
@@ -44,3 +44,4 @@ fields:
   default: true
 pages:
 - _posts/2020-10-21-attribute-augmented-convolutional-neural-network-for-face-hallucination.md
+- _posts/rotation-invariant-convolutional-neural-networks-for-galaxy-morphology-prediction.md
