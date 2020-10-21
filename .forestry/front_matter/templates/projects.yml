@@ -38,7 +38,5 @@ fields:
   default: true
 pages:
 - _posts/2020-02-18-id-111-visualizing-and-understanding-convolutional-networks.md
-- _posts/2020-02-18-id-71-u-net-convolutional-networks-for-biomedical-image-segmentation.md
 - _posts/2020-02-18-id-92-web-traffic-anomaly-detection-using-c-lstm-neural-networks.md
-- _posts/2020-02-18-visualizing-and-understanding-convolutional-networks.md
 - _posts/2020-10-21-attribute-augmented-convolutional-neural-network-for-face-hallucination.md
