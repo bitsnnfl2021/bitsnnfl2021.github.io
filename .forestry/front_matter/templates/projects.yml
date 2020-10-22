@@ -55,6 +55,7 @@ pages:
 - _posts/2020-10-22-an-image-is-worth-16x16-words-transformers-for-image-recognition-at-scale.md
 - _posts/2020-10-22-bag-of-tricks-for-image-classification-with-convolutional-neural-networks.md
 - _posts/2020-10-22-convolutional-sequence-to-sequence-model-for-human-dynamics.md
+- _posts/2020-10-22-deblurgan-blind-motion-deblurring-using-conditional-adversarial-networks.md
 - _posts/2020-10-22-effective-use-of-word-order-for-text-categorization-with-convolutional-neural-networks.md
 - _posts/2020-10-22-emotional-attention-a-study-of-image-sentiment-and-visual-attention.md
 - _posts/2020-10-22-facenet-a-unified-embedding-for-face-recognition-and-clustering.md
@@ -68,4 +69,3 @@ pages:
 - _posts/2020-10-22-real-time-single-image-and-video-super-resolution-using-an-efficient-sub-pixel-convolutional-neural-network.md
 - _posts/2020-10-22-tracking-without-bells-and-whistles.md
 - _posts/2020-10-22-weight-uncertainty-in-neural-networks.md
-- _posts/deblurgan-blind-motion-deblurring-using-conditional-adversarial-networks.md
