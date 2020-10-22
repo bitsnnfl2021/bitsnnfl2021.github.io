@@ -69,6 +69,7 @@ pages:
 - _posts/2020-10-22-learning-the-depths-of-moving-people-by-watching-frozen-people.md
 - _posts/2020-10-22-learning-to-discover-cross-domain-relations-with-generative-adversarial-networks.md
 - _posts/2020-10-22-mask-r-cnn.md
+- _posts/2020-10-22-message-passing-attention-networks-for-document-understanding.md
 - _posts/2020-10-22-object-contour-detection-with-a-fully-convolutional-encoder-decoder-network.md
 - _posts/2020-10-22-pixel-deconvolutional-network.md
 - _posts/2020-10-22-real-time-single-image-and-video-super-resolution-using-an-efficient-sub-pixel-convolutional-neural-network.md
@@ -76,4 +77,3 @@ pages:
 - _posts/2020-10-22-tracking-without-bells-and-whistles.md
 - _posts/2020-10-22-u-net-convolutional-networks-for-biomedical-image-segmentation.md
 - _posts/2020-10-22-weight-uncertainty-in-neural-networks.md
-- _posts/message-passing-attention-networks-for-document-understanding.md
