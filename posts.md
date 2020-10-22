@@ -1,5 +1,5 @@
 ---
-title: All Projects
+title: All Papers
 layout: posts
 permalink: /posts/
 show_excerpts: true
