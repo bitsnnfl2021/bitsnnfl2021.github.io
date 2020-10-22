@@ -52,6 +52,7 @@ pages:
 - _posts/2020-10-21-stargan-unified-generative-adversarial-networks-for-multi-domain-image-to-image-translation.md
 - _posts/2020-10-21-unpaired-image-to-image-translation-using-cycle-consistent-adversarial-networks.md
 - _posts/2020-10-22-a-style-based-generator-architecture-for-generative-adversarial-networks.md
+- _posts/2020-10-22-adapt-or-get-left-behind-domain-adaptation-through-bert-language-model-finetuning-for-aspect-target-sentiment-classification.md
 - _posts/2020-10-22-an-image-is-worth-16x16-words-transformers-for-image-recognition-at-scale.md
 - _posts/2020-10-22-bag-of-tricks-for-image-classification-with-convolutional-neural-networks.md
 - _posts/2020-10-22-conditional-generative-adversarial-nets.md
@@ -78,4 +79,3 @@ pages:
 - _posts/2020-10-22-tracking-without-bells-and-whistles.md
 - _posts/2020-10-22-u-net-convolutional-networks-for-biomedical-image-segmentation.md
 - _posts/2020-10-22-weight-uncertainty-in-neural-networks.md
-- _posts/adapt-or-get-left-behind-domain-adaptation-through-bert-language-model-finetuning-for-aspect-target-sentiment-classification.md
