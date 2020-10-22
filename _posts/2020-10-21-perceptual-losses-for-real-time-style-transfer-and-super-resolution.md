@@ -7,8 +7,8 @@ share: true
 title: Perceptual Losses for Real-Time Style Transfer and Super-Resolution
 categories:
 - CNN
-- Style Transfer
 - Image Translation
+- Style Transfer
 tags: []
 
 ---
