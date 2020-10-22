@@ -1,5 +1,5 @@
 ---
-title: Projects By Category
+title: Papers By Category
 layout: categories
 permalink: /categories/
 show_excerpts: true
