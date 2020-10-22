@@ -65,6 +65,7 @@ pages:
 - _posts/2020-10-22-image-to-image-translation-with-conditional-adversarial-networks.md
 - _posts/2020-10-22-infogan-interpretable-representation-learning-by-information-maximizing-generative-adversarial-nets.md
 - _posts/2020-10-22-learning-the-depths-of-moving-people-by-watching-frozen-people.md
+- _posts/2020-10-22-learning-to-discover-cross-domain-relations-with-generative-adversarial-networks.md
 - _posts/2020-10-22-mask-r-cnn.md
 - _posts/2020-10-22-object-contour-detection-with-a-fully-convolutional-encoder-decoder-network.md
 - _posts/2020-10-22-pixel-deconvolutional-network.md
@@ -73,4 +74,3 @@ pages:
 - _posts/2020-10-22-tracking-without-bells-and-whistles.md
 - _posts/2020-10-22-u-net-convolutional-networks-for-biomedical-image-segmentation.md
 - _posts/2020-10-22-weight-uncertainty-in-neural-networks.md
-- _posts/learning-to-discover-cross-domain-relations-with-generative-adversarial-networks.md
