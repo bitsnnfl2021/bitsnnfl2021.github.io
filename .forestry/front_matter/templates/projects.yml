@@ -87,4 +87,5 @@ pages:
 - _posts/attention-based-lstm-for-aspect-level-sentiment-classification.md
 - _posts/deep-hashing-network-for-efficient-similarity-retrieval.md
 - _posts/image-style-transfer-using-convolutional-neural-networks.md
+- _posts/siamese-neural-networks-for-one-shot-image-recognition.md
 - _posts/zero-shot-knowledge-distillation-in-deep-networks.md
