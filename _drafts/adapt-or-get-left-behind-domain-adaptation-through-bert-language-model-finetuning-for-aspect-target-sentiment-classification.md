@@ -1,0 +1,20 @@
+---
+layout: post
+author:
+  name: Paper ID 84
+  difficulty: Medium
+share: true
+title: 'Adapt or Get Left Behind: Domain Adaptation through BERT Language Model Finetuning
+  for Aspect-Target Sentiment Classification'
+categories:
+- Domain adaptation
+- NLP
+- Aspect-target Sentiment classification
+tags: []
+
+---
+**Abstract** - Aspect-Target Sentiment Classification (ATSC) is a subtask of Aspect-Based Sentiment Analysis (ABSA), which has many applications e.g. in e-commerce, where data and insights from reviews can be leveraged to create value for businesses and customers. Recently, deep transfer-learning methods have been applied successfully to a myriad of Natural Language Processing (NLP) tasks, including ATSC. Building on top of the prominent BERT language model, we approach ATSC using a two-step procedure: self-supervised domain-specific BERT language model finetuning, followed by supervised task-specific finetuning. Our findings on how to best exploit domain-specific language model finetuning enable us to produce new state-of-the-art performance on the SemEval 2014 Task 4 restaurants dataset. In addition, to explore the real-world robustness of our models, we perform cross-domain evaluation. We show that a cross-domain adapted BERT language model performs significantly better than strong baseline models like vanilla BERT-base and XLNet-base. Finally, we conduct a case study to interpret model prediction errors.
+
+**Paper** - [https://arxiv.org/pdf/1908.11860.pdf](https://arxiv.org/pdf/1908.11860.pdf "https://arxiv.org/pdf/1908.11860.pdf")
+
+**Dataset -** [https://www.yelp.com/dataset/download](https://www.yelp.com/dataset/download "https://www.yelp.com/dataset/download") ; [https://www.yelp.com/dataset/download](https://www.yelp.com/dataset/download "https://www.yelp.com/dataset/download")
