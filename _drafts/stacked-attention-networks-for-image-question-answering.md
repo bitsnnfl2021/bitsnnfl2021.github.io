@@ -1,0 +1,20 @@
+---
+layout: post
+author:
+  name: Paper ID 87
+  difficulty: Hard
+share: true
+title: Stacked Attention Networks for Image Question Answering
+categories:
+- VQA
+- Computer Vision
+- Language
+- Attention
+tags: []
+
+---
+**Abstract** - This paper presents stacked attention networks (SANs) that learn to answer natural language questions from images. SANs use semantic representation of a question as query to search for the regions in an image that are related to the answer. We argue that image question answering (QA) often requires multiple steps of reasoning. Thus, we develop a multiple-layer SAN in which we query an image multiple times to infer the answer progressively. Experiments conducted on four image QA data sets demonstrate that the proposed SANs significantly outperform previous state-of-the-art approaches. The visualization of the attention layers illustrates the progress that the SAN locates the relevant visual clues that lead to the answer of the question layer-by-layer.
+
+**Paper** - [https://arxiv.org/pdf/1511.02274.pdf](https://arxiv.org/pdf/1511.02274.pdf "https://arxiv.org/pdf/1511.02274.pdf")
+
+**Dataset -** [https://visualqa.org/download.html](https://visualqa.org/download.html "https://visualqa.org/download.html")
