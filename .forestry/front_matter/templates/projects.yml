@@ -55,6 +55,7 @@ pages:
 - _posts/2020-10-22-adapt-or-get-left-behind-domain-adaptation-through-bert-language-model-finetuning-for-aspect-target-sentiment-classification.md
 - _posts/2020-10-22-an-image-is-worth-16x16-words-transformers-for-image-recognition-at-scale.md
 - _posts/2020-10-22-bag-of-tricks-for-image-classification-with-convolutional-neural-networks.md
+- _posts/2020-10-22-baksa-at-semeval-2020-task-9-bolstering-cnn-with-self-attention-forsentiment-analysis-of-code-mixed-text.md
 - _posts/2020-10-22-conditional-generative-adversarial-nets.md
 - _posts/2020-10-22-convolutional-sequence-to-sequence-model-for-human-dynamics.md
 - _posts/2020-10-22-deblurgan-blind-motion-deblurring-using-conditional-adversarial-networks.md
@@ -79,4 +80,3 @@ pages:
 - _posts/2020-10-22-tracking-without-bells-and-whistles.md
 - _posts/2020-10-22-u-net-convolutional-networks-for-biomedical-image-segmentation.md
 - _posts/2020-10-22-weight-uncertainty-in-neural-networks.md
-- _posts/baksa-at-semeval-2020-task-9-bolstering-cnn-with-self-attention-forsentiment-analysis-of-code-mixed-text.md
