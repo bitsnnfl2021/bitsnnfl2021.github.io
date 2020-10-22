@@ -3,9 +3,9 @@
   url: "/"
 - title: Resources
   url: "/resources/"
-- title: All Projects
+- title: All Papers
   url: "/posts/"
-- title: Projects By Categories
+- title: Papers By Categories
   url: "/categories/"
 - title: Search
   url: "/search/"
