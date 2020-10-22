@@ -89,6 +89,7 @@ pages:
 - _posts/convolutional-image-captioning.md
 - _posts/deep-complex-networks.md
 - _posts/deep-hashing-network-for-efficient-similarity-retrieval.md
+- _posts/dueling-network-architectures-for-deep-reinforcement-learning.md
 - _posts/image-captioning-with-semantic-attention.md
 - _posts/image-style-transfer-using-convolutional-neural-networks.md
 - _posts/image-super-resolution-using-very-deep-residual-channel-attention-networks.md
