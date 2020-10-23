@@ -84,6 +84,7 @@ pages:
 - _posts/2020-10-22-u-net-convolutional-networks-for-biomedical-image-segmentation.md
 - _posts/2020-10-22-unsupervised-sentiment-analysis-for-code-mixed-data.md
 - _posts/2020-10-22-weight-uncertainty-in-neural-networks.md
+- _posts/2020-10-23-co-mining-deep-face-recognition-with-noisy-labels.md
 - _posts/2020-10-23-deep-residual-learning-for-image-recognition.md
 - _posts/2020-10-23-densely-connected-convolutional-networks.md
 - _posts/2020-10-23-efficientnet.md
@@ -102,7 +103,6 @@ pages:
 - _posts/akhcrnet-bengali-handwritten-character-recognition-using-deep-learning.md
 - _posts/attention-based-lstm-for-aspect-level-sentiment-classification.md
 - _posts/better-faster-stronger-yolo-algorithm-for-real-time-object-detection.md
-- _posts/co-mining-deep-face-recognition-with-noisy-labels.md
 - _posts/conditional-image-generation-with-pixelcnn-decoders.md
 - _posts/convolutional-image-captioning.md
 - _posts/deep-complex-networks.md
