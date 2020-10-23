@@ -91,6 +91,7 @@ pages:
 - _posts/2020-10-23-improved-techniques-for-training-gans.md
 - _posts/2020-10-23-learning-to-see-in-the-dark.md
 - _posts/2020-10-23-masked-face-recognition-for-secure-authentication.md
+- _posts/2020-10-23-mirrorgan-learning-text-to-image-generation-by-redescription.md
 - _posts/2020-10-23-multi-object-tracking-with-quadruplet-convolutional-neural-networks.md
 - _posts/2020-10-23-object-detection-from-video-tubelets-with-convolutional-neural-networks.md
 - _posts/2020-10-23-robust-facial-landmark-detection-via-a-fully-convolutional-local-global-context-network.md
@@ -114,7 +115,6 @@ pages:
 - _posts/image-style-transfer-using-convolutional-neural-networks.md
 - _posts/image-super-resolution-using-very-deep-residual-channel-attention-networks.md
 - _posts/libra-r-cnn-towards-balanced-learning-for-object-detection.md
-- _posts/mirrorgan-learning-text-to-image-generation-by-redescription.md
 - _posts/multi-level-factorization-net-for-person-re-identification.md
 - _posts/point-gnn-graph-neural-networks-for-3d-object-detection-in-a-point-cloud.md
 - _posts/precise-detection-in-densely-packed-scenes.md
