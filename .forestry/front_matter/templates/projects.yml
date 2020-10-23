@@ -84,6 +84,7 @@ pages:
 - _posts/2020-10-22-u-net-convolutional-networks-for-biomedical-image-segmentation.md
 - _posts/2020-10-22-unsupervised-sentiment-analysis-for-code-mixed-data.md
 - _posts/2020-10-22-weight-uncertainty-in-neural-networks.md
+- _posts/2020-10-23-deep-residual-learning-for-image-recognition.md
 - _posts/2020-10-23-densely-connected-convolutional-networks.md
 - _posts/2020-10-23-efficientnet.md
 - _posts/2020-10-23-fully-convolutional-networks-for-medical-image-segmentation.md
@@ -102,7 +103,6 @@ pages:
 - _posts/convolutional-image-captioning.md
 - _posts/deep-complex-networks.md
 - _posts/deep-hashing-network-for-efficient-similarity-retrieval.md
-- _posts/deep-residual-learning-for-image-recognition.md
 - _posts/dueling-network-architectures-for-deep-reinforcement-learning.md
 - _posts/every-picture-tells-a-story-generating-sentences-from-images.md
 - _posts/faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.md
