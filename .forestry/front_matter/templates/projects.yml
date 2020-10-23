@@ -102,6 +102,7 @@ pages:
 - _posts/convolutional-image-captioning.md
 - _posts/deep-complex-networks.md
 - _posts/deep-hashing-network-for-efficient-similarity-retrieval.md
+- _posts/deep-residual-learning-for-image-recognition.md
 - _posts/dueling-network-architectures-for-deep-reinforcement-learning.md
 - _posts/every-picture-tells-a-story-generating-sentences-from-images.md
 - _posts/faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.md
