@@ -93,6 +93,7 @@ pages:
 - _posts/2020-10-23-masked-face-recognition-for-secure-authentication.md
 - _posts/2020-10-23-multi-object-tracking-with-quadruplet-convolutional-neural-networks.md
 - _posts/2020-10-23-object-detection-from-video-tubelets-with-convolutional-neural-networks.md
+- _posts/2020-10-23-robust-facial-landmark-detection-via-a-fully-convolutional-local-global-context-network.md
 - _posts/2020-10-23-video-classification-with-cnn.md
 - _posts/a-closer-look-at-spatiotemporal-convolutions-for-action-recognition.md
 - _posts/a-neural-algorithm-of-artistic-style.md
@@ -117,6 +118,5 @@ pages:
 - _posts/point-gnn-graph-neural-networks-for-3d-object-detection-in-a-point-cloud.md
 - _posts/precise-detection-in-densely-packed-scenes.md
 - _posts/prioritized-experience-replay.md
-- _posts/robust-facial-landmark-detection-via-a-fully-convolutional-local-global-context-network.md
 - _posts/siamese-neural-networks-for-one-shot-image-recognition.md
 - _posts/zero-shot-knowledge-distillation-in-deep-networks.md
