@@ -19,8 +19,9 @@ entries_layout: list
 
 * Once your group is formed, go through the list of papers
 * Choose your top 5 preferences
+* Harder papers will be graded a bit more leniently, but they will be tougher to implement. So choose carefully
 * We will email a form on 31st October at 5 pm
-* You will have to fill the names and IDs of your group (only one member needs to do this), and your paper preferences (paper IDs)
+* You will have to fill the names and IDs of your group (only one member needs to do this), and your 5 paper preferences (paper IDs)
 * Since it is first come first serve, fill the form as early as possible to get your desired paper
 
 #### Evaluative components
