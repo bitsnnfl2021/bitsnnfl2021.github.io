@@ -88,6 +88,7 @@ pages:
 - _posts/2020-10-23-efficientnet.md
 - _posts/2020-10-23-fully-convolutional-networks-for-medical-image-segmentation.md
 - _posts/2020-10-23-improved-techniques-for-training-gans.md
+- _posts/2020-10-23-masked-face-recognition-for-secure-authentication.md
 - _posts/2020-10-23-video-classification-with-cnn.md
 - _posts/a-closer-look-at-spatiotemporal-convolutions-for-action-recognition.md
 - _posts/a-neural-algorithm-of-artistic-style.md
@@ -108,7 +109,6 @@ pages:
 - _posts/image-style-transfer-using-convolutional-neural-networks.md
 - _posts/image-super-resolution-using-very-deep-residual-channel-attention-networks.md
 - _posts/libra-r-cnn-towards-balanced-learning-for-object-detection.md
-- _posts/masked-face-recognition-for-secure-authentication.md
 - _posts/multi-level-factorization-net-for-person-re-identification.md
 - _posts/point-gnn-graph-neural-networks-for-3d-object-detection-in-a-point-cloud.md
 - _posts/precise-detection-in-densely-packed-scenes.md
