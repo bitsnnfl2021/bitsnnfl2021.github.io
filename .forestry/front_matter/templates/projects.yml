@@ -103,6 +103,7 @@ pages:
 - _posts/image-captioning-with-semantic-attention.md
 - _posts/image-style-transfer-using-convolutional-neural-networks.md
 - _posts/image-super-resolution-using-very-deep-residual-channel-attention-networks.md
+- _posts/improved-techniques-for-training-gans.md
 - _posts/libra-r-cnn-towards-balanced-learning-for-object-detection.md
 - _posts/multi-level-factorization-net-for-person-re-identification.md
 - _posts/point-gnn-graph-neural-networks-for-3d-object-detection-in-a-point-cloud.md
