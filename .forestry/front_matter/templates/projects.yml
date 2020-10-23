@@ -117,5 +117,6 @@ pages:
 - _posts/point-gnn-graph-neural-networks-for-3d-object-detection-in-a-point-cloud.md
 - _posts/precise-detection-in-densely-packed-scenes.md
 - _posts/prioritized-experience-replay.md
+- _posts/robust-facial-landmark-detection-via-a-fully-convolutional-local-global-context-network.md
 - _posts/siamese-neural-networks-for-one-shot-image-recognition.md
 - _posts/zero-shot-knowledge-distillation-in-deep-networks.md
