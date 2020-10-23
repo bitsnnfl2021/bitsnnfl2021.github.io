@@ -7,41 +7,28 @@ paginate: true
 entries_layout: list
 
 ---
-## Design Project Preference Form is Out
+## NNFL Research Paper Assignment
 
-The Google Form for accepting responses for the paper preferences is now live. You can check out the papers at [https://bitsnnfl.github.io/posts/](https://bitsnnfl.github.io/posts/ "https://bitsnnfl.github.io/posts/")
+* There are a list of 80 papers updated on this website
+* You can search for papers, or view them by category, based on the tags assigned to each paper
+* Each paper has an ID and a difficulty level mentioned with it
+* You need to form of groups of **3** people for this assignment
+* One paper can be allotted only to one group
 
-The link to the form is: [https://forms.gle/2irmPNJj38QUGcPb9](https://forms.gle/2irmPNJj38QUGcPb9 "https://forms.gle/2irmPNJj38QUGcPb9")
+#### What is to be done
 
-Please note:
+* Once your group is formed, go through the list of papers
+* Choose your top 5 preferences
+* We will email a form on 31st October at 5 pm
+* You will have to fill the names and IDs of your group (only one member needs to do this), and your paper preferences (paper IDs)
+* Since it is first come first serve, fill the form as early as possible to get your desired paper
 
-* You are expected to make a group of **3** people
-* Only **ONE member** of the group needs to fill the form (cannot emphasize enough on this)
-* In case you are alone and unable to form a group, do not fill the form, and contact us at [bitsnnfl@gmail.com](mailto:bitsnnfl@gmail.com) (we strongly encourage you to talk to your classmates before doing this)
-* The allotment is strictly on a first come, first served basis
+#### Evaluative components
 
-The last date for filling the form is **22nd Feb (11:59 PM)**.
-
-### Assignment 1
-
-1. The notebooks are available at https://github.com/bitsnnfl/Assignment1-2020
-2. To solve these notebooks please use the conda environment that you installed previously. (during the workshop)
-3. Please install the following two packages in your environment by running the following two commands:
-
-   conda install -c anaconda seaborn
-   conda install -c anaconda pil
-4. The submission will take place via a google form which will be circulated in due time.
-5. Submit a zip folder whose name is your ID Number (example: 2016A7TS0339.zip) and create two sub-folders named PCA and SVD inside it and place only the solved iPython notebooks in the respective sub-folders. Please be sure to adhere to these guidelines as the grading is automated and will depend on this structure.
-6. Plagiarism check is also automated and strict, any such cases will involve severe penalties.
-7. Deadline for the assignment is 16th Feb 2020 11.59 pm
-8. In case of any queries contact Rishav, Alex or Siddhant.
-
-### Workshop 1
-
-Topics : numpy, pandas, matplotlib, scikit-learn and some introductory linear algebra concepts.
-Location : LTC 5101
-
-Timings
-
-1. Feb 1st : 8 p.m. to 10 p.m.
-2. Feb 2nd : 11 a.m to 1 p.m.
+* Each group will be allotted a TA after the papers are finalised (by 1st Nov EOD)
+* The first evaluation will be held tentatively on 6-7th Nov.
+* This will be oral and the allotted TA will ask questions about the paper to the group members in a meet.
+* The second evaluation will be tentatively on 23-24th Nov. In this meet, the group members will have to make a presentation, and also display their implementation of the paper.
+* Since the code for most papers is available online, you are free to use it. But, for evaluation, you will also need to show extra results and graphs, that are not part of the author's code. (This is subjective, so the respective TA will mail you with further instructions)
+* The second meet will also contain a short quiz to test your understanding of the paper.
+* After that, you would have to mail your presentation and implementation to Surekha Maam and Bijoy Sir for further evaluation. We will be announcing details
