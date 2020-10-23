@@ -84,6 +84,7 @@ pages:
 - _posts/2020-10-22-u-net-convolutional-networks-for-biomedical-image-segmentation.md
 - _posts/2020-10-22-unsupervised-sentiment-analysis-for-code-mixed-data.md
 - _posts/2020-10-22-weight-uncertainty-in-neural-networks.md
+- _posts/2020-10-23-video-classification-with-cnn.md
 - _posts/a-closer-look-at-spatiotemporal-convolutions-for-action-recognition.md
 - _posts/a-neural-algorithm-of-artistic-style.md
 - _posts/akhcrnet-bengali-handwritten-character-recognition-using-deep-learning.md
@@ -106,5 +107,4 @@ pages:
 - _posts/precise-detection-in-densely-packed-scenes.md
 - _posts/prioritized-experience-replay.md
 - _posts/siamese-neural-networks-for-one-shot-image-recognition.md
-- _posts/video-classification-with-cnn.md
 - _posts/zero-shot-knowledge-distillation-in-deep-networks.md
