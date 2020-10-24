@@ -2,7 +2,7 @@
 layout: post
 author:
   name: Paper ID 54
-  difficulty: Medium
+  difficulty: Hard
 share: true
 title: 'FairMOT: On the Fairness of Detection and Re-Identification in Multiple Object
   Tracking'
