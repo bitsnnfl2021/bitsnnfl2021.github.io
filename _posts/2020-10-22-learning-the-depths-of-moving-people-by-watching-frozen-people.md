@@ -2,7 +2,7 @@
 layout: post
 author:
   name: Paper ID 55
-  difficulty: Medium
+  difficulty: Hard
 share: true
 title: Learning the Depths of Moving People by Watching Frozen People
 categories:
