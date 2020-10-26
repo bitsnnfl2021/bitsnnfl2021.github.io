@@ -27,9 +27,10 @@ entries_layout: list
 #### Evaluative components
 
 * Each group will be allotted a TA after the papers are finalised (by 1st Nov EOD)
-* The first evaluation will be held tentatively on 6-7th Nov.
-* This will be oral and the allotted TA will ask questions about the paper to the group members in a meet.
-* The second evaluation will be tentatively on 23-24th Nov. In this meet, the group members will have to make a presentation, and also display their implementation of the paper.
+* Seek guidance/consultation from allotted TA without any hesitation.
+* The first interaction-cum-evaluation will be held tentatively on 6-7th Nov.
+* It would be based upon the questions and doubts you raise, understanding you exhibit and your answers to simple questions posed orally by the TAs. \[10/60 M\]
+* The second evaluation will be tentatively on 23-24th Nov. In this meet, the group members will have to make a presentation, and also display their implementation of the paper. The second meet will also contain a short quiz to test your understanding of the paper. \[ 10M quiz+10 M (progress of work)\]
 * Since the code for most papers is available online, you are free to use it. But, for evaluation, you will also need to show extra results and graphs, that are not part of the author's code. (This is subjective, so the respective TA will mail you with further instructions)
-* The second meet will also contain a short quiz to test your understanding of the paper.
-* After that, you would have to mail your presentation and implementation to Surekha Maam and Bijoy Sir for further evaluation. We will be announcing details
+* Within 1-2 days of second evaluation, you would have to mail your presentation and implementation to Surekha Maam and Bijoy Sir for further evaluation. We will be announcing details of the presentation_._
+* Every member of the group should be knowing the whole implementation, answers of this type" 1. I did coding of part A, I do not know about other parts of the program, 2. I prepared slides only" would not be acceptable.
