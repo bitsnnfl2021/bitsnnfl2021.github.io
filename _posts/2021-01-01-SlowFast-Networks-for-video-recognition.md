@@ -6,9 +6,11 @@ author:
 share: true
 title: SlowFast Networks for video recognition
 categories:
-- video recognition
-- resnet
-- 3d conv
+- Video recognition
+- ResNet
+- 3D Conv
+- hard
+
 tags: []
 
 ---

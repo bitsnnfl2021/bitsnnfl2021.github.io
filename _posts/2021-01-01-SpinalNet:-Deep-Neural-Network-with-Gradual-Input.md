@@ -6,8 +6,10 @@ author:
 share: true
 title: SpinalNet: Deep Neural Network with Gradual Input
 categories:
-- image classification
-- computer vision
+- Image Classification
+- Computer Vision
+- easy
+
 tags: []
 
 ---

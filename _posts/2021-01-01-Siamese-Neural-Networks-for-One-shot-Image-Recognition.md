@@ -6,8 +6,10 @@ author:
 share: true
 title: Siamese Neural Networks for One-shot Image Recognition
 categories:
-- siamese network
-- one-shot recgnition
+- Siamese Network
+- One-Shot Recgnition
+- medium
+
 tags: []
 
 ---

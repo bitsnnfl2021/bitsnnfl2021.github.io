@@ -6,8 +6,10 @@ author:
 share: true
 title: FairMOT: On the Fairness of Detection and Re-Identification in Multiple Object Tracking
 categories:
-- object tracking
-- computer vision
+- Object Tracking
+- Computer Vision
+- hard
+
 tags: []
 
 ---

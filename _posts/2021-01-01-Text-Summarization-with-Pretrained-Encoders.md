@@ -6,8 +6,10 @@ author:
 share: true
 title: Text Summarization with Pretrained Encoders
 categories:
-- natural language processing
-- summarization
+- Natural Language Processing
+- Summarization
+- medium
+
 tags: []
 
 ---

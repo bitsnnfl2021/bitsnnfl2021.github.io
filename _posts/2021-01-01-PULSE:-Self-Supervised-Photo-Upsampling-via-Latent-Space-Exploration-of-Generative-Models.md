@@ -6,9 +6,11 @@ author:
 share: true
 title: PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models
 categories:
-- computer vision
-- image processing
-- generative adversarial networks
+- Computer Vision
+- Image processing
+- Generative Adversarial Networks
+- medium
+
 tags: []
 
 ---

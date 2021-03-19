@@ -6,8 +6,10 @@ author:
 share: true
 title: Playing Atari with Six Neurons
 categories:
-- reinforcement learning
-- neuro evolution
+- Reinforcement Learning
+- Neuro evolution
+- hard
+
 tags: []
 
 ---

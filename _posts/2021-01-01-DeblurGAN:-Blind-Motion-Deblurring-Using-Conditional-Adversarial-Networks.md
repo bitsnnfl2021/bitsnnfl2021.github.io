@@ -6,9 +6,11 @@ author:
 share: true
 title: DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks
 categories:
-- gan
-- computer vision
-- image de-blurring
+- GAN
+- Computer Vision
+- Image De-Blurring
+- medium
+
 tags: []
 
 ---

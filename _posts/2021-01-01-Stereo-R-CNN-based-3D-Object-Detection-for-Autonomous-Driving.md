@@ -6,8 +6,10 @@ author:
 share: true
 title: Stereo R-CNN based 3D Object Detection for Autonomous Driving
 categories:
-- object detection
-- computer vision
+- Object Detection
+- Computer Vision
+- hard
+
 tags: []
 
 ---

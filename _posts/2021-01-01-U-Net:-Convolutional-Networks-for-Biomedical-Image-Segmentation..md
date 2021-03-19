@@ -6,8 +6,10 @@ author:
 share: true
 title: U-Net: Convolutional Networks for Biomedical Image Segmentation.
 categories:
-- image segmentation
-- computer vision
+- Image Segmentation
+- Computer Vision
+- easy
+
 tags: []
 
 ---

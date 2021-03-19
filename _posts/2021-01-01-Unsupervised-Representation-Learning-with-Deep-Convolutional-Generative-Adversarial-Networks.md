@@ -6,8 +6,10 @@ author:
 share: true
 title: Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks
 categories:
-- generative adversarial networks
-- image generation
+- Generative Adversarial Networks
+- Image generation
+- medium
+
 tags: []
 
 ---

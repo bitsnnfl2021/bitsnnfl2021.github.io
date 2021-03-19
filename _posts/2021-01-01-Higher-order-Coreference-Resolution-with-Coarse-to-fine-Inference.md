@@ -6,8 +6,10 @@ author:
 share: true
 title: Higher-order Coreference Resolution with Coarse-to-fine Inference
 categories:
-- natural language processing
-- coreference resoultion
+- Natural Language Processing
+- Coreference Resoultion
+- medium
+
 tags: []
 
 ---

@@ -6,10 +6,12 @@ author:
 share: true
 title: BAKSA at SemEval-2020 Task 9: Bolstering CNN with Self-Attention forSentiment Analysis of Code Mixed Text
 categories:
-- natural language processing
-- sentiment analysis
-- cnn
-- attention
+- Natural Language Processing
+- Sentiment Analysis
+- CNN
+- Attention
+- easy
+
 tags: []
 
 ---

@@ -7,8 +7,10 @@ share: true
 title: A Deeper Look into Sarcastic Tweets
 Using Deep Convolutional Neural Networks
 categories:
-- natural language processing
-- classification
+- Natural Language Processing
+- Classification
+- hard
+
 tags: []
 
 ---

@@ -6,8 +6,10 @@ author:
 share: true
 title: EfficientDet: Scalable and Efficient Object Detection
 categories:
-- object detection
-- computer vision
+- Object Detection
+- Computer Vision
+- medium
+
 tags: []
 
 ---

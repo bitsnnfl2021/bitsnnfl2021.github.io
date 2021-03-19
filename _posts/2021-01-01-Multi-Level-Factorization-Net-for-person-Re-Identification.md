@@ -6,9 +6,11 @@ author:
 share: true
 title: Multi-Level Factorization Net for person Re-Identification
 categories:
-- person re-identification
-- convolutional neural networks
-- deep learning
+- Person Re-Identification
+- Convolutional Neural Networks
+- Deep Learning
+- medium
+
 tags: []
 
 ---

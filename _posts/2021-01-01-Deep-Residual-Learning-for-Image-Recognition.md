@@ -6,8 +6,10 @@ author:
 share: true
 title: Deep Residual Learning for Image Recognition
 categories:
-- object detection
-- computer vision
+- Object Detection
+- Computer Vision
+- easy
+
 tags: []
 
 ---

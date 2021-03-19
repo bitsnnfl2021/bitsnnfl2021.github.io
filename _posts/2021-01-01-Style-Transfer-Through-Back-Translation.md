@@ -6,8 +6,10 @@ author:
 share: true
 title: Style Transfer Through Back-Translation
 categories:
-- natural language processing
-- style transfer
+- Natural Language Processing
+- Style Transfer
+- medium
+
 tags: []
 
 ---

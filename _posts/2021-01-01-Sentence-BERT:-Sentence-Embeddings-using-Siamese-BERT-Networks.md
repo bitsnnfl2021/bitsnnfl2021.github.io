@@ -6,8 +6,10 @@ author:
 share: true
 title: Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks
 categories:
-- natural language processing
-- transformers
+- Natural Language Processing
+- Transformers
+- easy
+
 tags: []
 
 ---

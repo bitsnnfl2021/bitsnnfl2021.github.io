@@ -6,8 +6,10 @@ author:
 share: true
 title: XLNet: Generalized Autoregressive Pretraining for Language Understanding
 categories:
-- natural language processing
-- named entity recognition
+- Natural Language Processing
+- Named Entity Recognition
+- medium
+
 tags: []
 
 ---

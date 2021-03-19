@@ -6,8 +6,10 @@ author:
 share: true
 title: Sign Language Recognition Using Deep Learning on Custom Processed Static Gesture Images
 categories:
-- computer vision
-- object recogntion
+- Computer Vision
+- Object recogntion
+- easy
+
 tags: []
 
 ---

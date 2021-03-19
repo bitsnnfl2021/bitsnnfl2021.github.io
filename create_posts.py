@@ -4,7 +4,7 @@ clean = lambda s: s.rstrip().lstrip().replace('\n','').replace('\r\n','')
 
 def get_post(title, id, difficulty, tags, abstract, paper, datasets):
     dataset_str = '\n\n'.join([f'[{d.lower()}]({d.lower()})' for d in datasets])
-    tag_str = '\n'.join(['- ' + clean(tag.lower()) for tag in tags])
+    tag_str = '\n'.join(['- ' + clean(tag) for tag in tags])
     return f'''\
 ---
 layout: post
@@ -15,6 +15,8 @@ share: true
 title: {title}
 categories:
 {tag_str}
+- {difficulty.lower()}
+
 tags: []
 
 ---

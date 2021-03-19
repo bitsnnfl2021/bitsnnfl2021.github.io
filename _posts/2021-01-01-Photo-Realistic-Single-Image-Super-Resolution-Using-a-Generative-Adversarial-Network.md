@@ -6,9 +6,11 @@ author:
 share: true
 title: Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
 categories:
-- image processing
-- generative adversarial networks
-- computer vision
+- Image processing
+- Generative Adversarial Networks
+- Computer Vision
+- medium
+
 tags: []
 
 ---

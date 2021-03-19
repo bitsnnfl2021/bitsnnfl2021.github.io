@@ -6,8 +6,10 @@ author:
 share: true
 title: End-to-End Object Detection with Transformers.
 categories:
-- object detection
-- computer vision
+- Object Detection
+- Computer Vision
+- hard
+
 tags: []
 
 ---

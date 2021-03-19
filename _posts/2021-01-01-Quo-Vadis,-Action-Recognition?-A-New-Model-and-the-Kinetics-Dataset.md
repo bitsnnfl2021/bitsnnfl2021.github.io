@@ -6,8 +6,10 @@ author:
 share: true
 title: Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset
 categories:
-- natural language processing
-- named entity recognition
+- Natural Language Processing
+- Named Entity Recognition
+- medium
+
 tags: []
 
 ---

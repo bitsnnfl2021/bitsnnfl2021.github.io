@@ -6,8 +6,10 @@ author:
 share: true
 title: EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
 categories:
-- meta learning
-- cnns
+- Meta Learning
+- CNNs
+- easy
+
 tags: []
 
 ---

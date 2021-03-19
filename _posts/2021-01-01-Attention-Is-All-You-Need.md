@@ -6,8 +6,10 @@ author:
 share: true
 title: Attention Is All You Need
 categories:
-- natural language processing
-- transformers
+- Natural Language Processing
+- Transformers
+- medium
+
 tags: []
 
 ---

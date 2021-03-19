@@ -6,8 +6,10 @@ author:
 share: true
 title: Meta Bi-LSTM'(Morphosyntactic Tagging with a Meta-BiLSTM Model over Context Sensitive Token Encodings)
 categories:
-- natural language processing
-- pos tagging
+- Natural Language Processing
+- POS Tagging
+- easy
+
 tags: []
 
 ---

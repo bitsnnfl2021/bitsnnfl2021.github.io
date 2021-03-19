@@ -6,8 +6,10 @@ author:
 share: true
 title: You Only Look Once:Unified, Real-Time Object Detection
 categories:
-- object detection
-- computer vision
+- Object Detection
+- Computer Vision
+- medium
+
 tags: []
 
 ---

@@ -6,8 +6,10 @@ author:
 share: true
 title: Deep Pyramid Convolutional Neural Networks for Text Categorization
 categories:
-- natural language processing
-- classification
+- Natural Language Processing
+- Classification
+- medium
+
 tags: []
 
 ---

@@ -6,8 +6,10 @@ author:
 share: true
 title: Delete, Retrieve, Generate:A Simple Approach to Sentiment and Style Transfer
 categories:
-- natural language processing
-- style transfer
+- Natural Language Processing
+- Style Transfer
+- medium
+
 tags: []
 
 ---

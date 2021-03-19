@@ -6,8 +6,10 @@ author:
 share: true
 title: Temporal Segment Networks
 categories:
-- action recognition
-- computer vision
+- Action Recognition
+- Computer Vision
+- medium
+
 tags: []
 
 ---

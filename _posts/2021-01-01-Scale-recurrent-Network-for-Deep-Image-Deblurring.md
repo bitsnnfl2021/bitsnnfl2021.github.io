@@ -6,9 +6,11 @@ author:
 share: true
 title: Scale-recurrent Network for Deep Image Deblurring
 categories:
-- computer vision
-- image de-blurring
-- recurrent neural networks
+- Computer Vision
+- Image De-Blurring
+- Recurrent Neural Networks
+- hard
+
 tags: []
 
 ---

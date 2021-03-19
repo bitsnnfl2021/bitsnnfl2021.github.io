@@ -6,9 +6,11 @@ author:
 share: true
 title: One-Shot Instance Segmentation
 categories:
-- one-short learning
-- segmentation
-- computer vision
+- One-Short Learning
+- Segmentation
+- Computer Vision
+- medium
+
 tags: []
 
 ---

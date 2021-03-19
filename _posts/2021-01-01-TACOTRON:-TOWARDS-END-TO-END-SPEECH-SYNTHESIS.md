@@ -6,8 +6,10 @@ author:
 share: true
 title: TACOTRON: TOWARDS END-TO-END SPEECH SYNTHESIS
 categories:
-- natural language processing
-- text to speech
+- Natural Language Processing
+- Text To Speech
+- hard
+
 tags: []
 
 ---

@@ -6,9 +6,11 @@ author:
 share: true
 title: One-Shot Object Detection with Co-Attention and Co-Excitation
 categories:
-- object detection
-- one-shot learning
-- computer vision
+- Object Detection
+- One-shot Learning
+- Computer Vision
+- medium
+
 tags: []
 
 ---

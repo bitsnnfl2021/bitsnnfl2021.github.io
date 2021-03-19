@@ -6,8 +6,10 @@ author:
 share: true
 title: Playing Atari with Deep Reinforcement Learning
 categories:
-- reinforcement learning
-- deep learning
+- Reinforcement Learning
+- Deep Learning
+- medium
+
 tags: []
 
 ---

@@ -6,9 +6,11 @@ author:
 share: true
 title: TransGAN: Two Transformers Can Make One Strong GAN
 categories:
-- transformers
-- gan
-- image generation
+- Transformers
+- GAN
+- Image Generation
+- medium
+
 tags: []
 
 ---

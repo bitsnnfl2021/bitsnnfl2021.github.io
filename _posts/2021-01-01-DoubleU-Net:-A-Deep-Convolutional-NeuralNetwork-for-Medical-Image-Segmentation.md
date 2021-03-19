@@ -6,8 +6,10 @@ author:
 share: true
 title: DoubleU-Net: A Deep Convolutional NeuralNetwork for Medical Image Segmentation
 categories:
-- segmentation
-- computer vision
+- Segmentation
+- Computer Vision
+- medium
+
 tags: []
 
 ---

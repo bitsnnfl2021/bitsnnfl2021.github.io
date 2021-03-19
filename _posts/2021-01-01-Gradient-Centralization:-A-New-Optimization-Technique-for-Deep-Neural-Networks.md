@@ -6,8 +6,10 @@ author:
 share: true
 title: Gradient Centralization: A New Optimization Technique for Deep Neural Networks
 categories:
-- optimization
-- deep learning
+- Optimization
+- Deep Learning
+- medium
+
 tags: []
 
 ---

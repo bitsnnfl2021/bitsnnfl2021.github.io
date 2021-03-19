@@ -6,9 +6,11 @@ author:
 share: true
 title: Neural Machine Translation by Jointly Learning to Align and Translate
 categories:
-- natural language processing
-- machine translation
-- attention
+- Natural Language Processing
+- Machine Translation
+- Attention
+- medium
+
 tags: []
 
 ---

@@ -6,8 +6,10 @@ author:
 share: true
 title: Emotion-Cause Pair Extraction: A New Task to Emotion Analysis in Texts
 categories:
-- natural language processing
-- attention
+- Natural Language Processing
+- Attention
+- medium
+
 tags: []
 
 ---

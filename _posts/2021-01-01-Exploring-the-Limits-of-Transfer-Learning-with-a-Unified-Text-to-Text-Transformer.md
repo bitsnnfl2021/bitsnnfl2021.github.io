@@ -6,8 +6,10 @@ author:
 share: true
 title: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer
 categories:
-- natural language processing
-- transfer learning
+- Natural Language Processing
+- Transfer Learning
+- medium
+
 tags: []
 
 ---

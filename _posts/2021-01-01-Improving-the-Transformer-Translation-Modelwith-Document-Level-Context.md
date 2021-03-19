@@ -6,9 +6,11 @@ author:
 share: true
 title: Improving the Transformer Translation Modelwith Document-Level Context
 categories:
-- natural language processing
-- transformers
-- machine translation
+- Natural Language Processing
+- Transformers
+- Machine Translation
+- hard
+
 tags: []
 
 ---

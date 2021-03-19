@@ -6,8 +6,10 @@ author:
 share: true
 title: Unsupervised representation learning by predicting image rotations
 categories:
-- unsupervised learning
-- representation learning
+- Unsupervised Learning
+- Representation Learning
+- easy
+
 tags: []
 
 ---

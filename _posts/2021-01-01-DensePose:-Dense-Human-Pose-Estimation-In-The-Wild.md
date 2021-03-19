@@ -6,8 +6,10 @@ author:
 share: true
 title: DensePose: Dense Human Pose Estimation In The Wild
 categories:
-- pose estimation
-- computer vision
+- Pose Estimation
+- Computer Vision
+- medium
+
 tags: []
 
 ---

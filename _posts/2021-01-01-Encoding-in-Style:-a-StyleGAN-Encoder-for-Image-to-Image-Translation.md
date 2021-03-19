@@ -6,9 +6,11 @@ author:
 share: true
 title: Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation
 categories:
-- image processing
-- generative adversarial networks
-- computer vision
+- Image processing
+- Generative Adversarial Networks
+- Computer Vision
+- medium
+
 tags: []
 
 ---

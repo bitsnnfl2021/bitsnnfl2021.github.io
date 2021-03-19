@@ -6,8 +6,10 @@ author:
 share: true
 title: Focal Loss for Dense Object Detection
 categories:
-- object detection
-- computer vision
+- Object Detection
+- Computer Vision
+- medium
+
 tags: []
 
 ---

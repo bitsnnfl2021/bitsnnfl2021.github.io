@@ -6,7 +6,9 @@ author:
 share: true
 title: Show, Attend and Tell: Neural Image Caption Generation with Visual Attention
 categories:
-- image captioning
+- Image captioning
+- easy
+
 tags: []
 
 ---

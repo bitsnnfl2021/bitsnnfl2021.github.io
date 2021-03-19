@@ -6,8 +6,10 @@ author:
 share: true
 title: Adapt or Get Left Behind: Domain Adaptation through BERT Language Model Finetuning for Aspect-Target Sentiment Classification
 categories:
-- natural language processing
-- sentiment analysis
+- Natural Language Processing
+- Sentiment Analysis
+- medium
+
 tags: []
 
 ---

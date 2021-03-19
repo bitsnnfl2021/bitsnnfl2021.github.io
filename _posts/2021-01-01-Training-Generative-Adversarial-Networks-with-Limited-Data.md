@@ -6,9 +6,11 @@ author:
 share: true
 title: Training Generative Adversarial Networks with Limited Data
 categories:
-- image generation
-- computer vision
-- generative adversarial networks
+- Image Generation
+- Computer Vision
+- Generative Adversarial Networks
+- medium
+
 tags: []
 
 ---

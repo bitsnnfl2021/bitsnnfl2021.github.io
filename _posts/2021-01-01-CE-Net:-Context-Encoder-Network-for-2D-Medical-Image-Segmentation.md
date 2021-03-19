@@ -6,9 +6,11 @@ author:
 share: true
 title: CE-Net: Context Encoder Network for 2D Medical Image Segmentation
 categories:
-- segmentation
-- object detection
-- computer vision
+- Segmentation
+- Object Detection
+- Computer Vision
+- medium
+
 tags: []
 
 ---

@@ -6,8 +6,10 @@ author:
 share: true
 title: Dual Attention Network for Scene Segmentation
 categories:
-- segmantation
-- computer vision
+- Segmantation
+- Computer Vision
+- medium
+
 tags: []
 
 ---

@@ -6,8 +6,10 @@ author:
 share: true
 title: MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications
 categories:
-- object detection
-- computer vision
+- Object Detection
+- Computer Vision
+- easy
+
 tags: []
 
 ---

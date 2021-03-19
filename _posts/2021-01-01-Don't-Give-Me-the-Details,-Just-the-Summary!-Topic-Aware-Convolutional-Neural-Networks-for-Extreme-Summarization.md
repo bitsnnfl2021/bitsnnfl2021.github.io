@@ -6,8 +6,10 @@ author:
 share: true
 title: Don't Give Me the Details, Just the Summary! Topic-Aware Convolutional Neural Networks for Extreme Summarization
 categories:
-- natural language processing
-- summarization
+- Natural Language Processing
+- Summarization
+- medium
+
 tags: []
 
 ---

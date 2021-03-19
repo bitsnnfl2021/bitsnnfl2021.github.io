@@ -6,9 +6,11 @@ author:
 share: true
 title: ShakeDrop Regularization for Deep Residual Learning
 categories:
-- optimization
-- convolutional neural networks
-- computer vision
+- Optimization
+- Convolutional Neural Networks
+- Computer Vision
+- medium
+
 tags: []
 
 ---

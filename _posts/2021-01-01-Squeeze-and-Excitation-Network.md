@@ -6,7 +6,9 @@ author:
 share: true
 title: Squeeze and Excitation Network
 categories:
-- compter vision
+- Compter Vision
+- easy
+
 tags: []
 
 ---

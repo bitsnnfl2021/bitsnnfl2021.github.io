@@ -6,8 +6,10 @@ author:
 share: true
 title: Rethinking the Inception Architecture for Computer Vision
 categories:
-- optimization
-- convolutional neural networks
+- Optimization
+- Convolutional Neural Networks
+- easy
+
 tags: []
 
 ---

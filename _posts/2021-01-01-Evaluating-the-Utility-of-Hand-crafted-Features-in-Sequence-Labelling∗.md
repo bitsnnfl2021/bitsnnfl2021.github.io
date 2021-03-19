@@ -6,8 +6,10 @@ author:
 share: true
 title: Evaluating the Utility of Hand-crafted Features in Sequence Labelling∗
 categories:
-- natural language processing
-- named entity recognition
+- Natural Language Processing
+- Named Entity Recognition
+- medium
+
 tags: []
 
 ---

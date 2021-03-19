@@ -6,8 +6,10 @@ author:
 share: true
 title: Optic-Net: A Novel Convolutional Neural Networkfor Diagnosis of Retinal Diseases from OpticalTomography Images
 categories:
-- segmentation
-- computer vision
+- Segmentation
+- Computer Vision
+- medium
+
 tags: []
 
 ---

@@ -6,8 +6,10 @@ author:
 share: true
 title: DeepCluster Unsupervised learning of visual features
 categories:
-- unsupervised learning
-- clustering
+- Unsupervised Learning
+- Clustering
+- medium
+
 tags: []
 
 ---
