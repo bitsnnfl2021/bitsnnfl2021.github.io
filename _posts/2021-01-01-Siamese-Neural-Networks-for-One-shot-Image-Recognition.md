@@ -4,7 +4,7 @@ author:
   name: Paper ID 54
   difficulty: Medium
 share: true
-title: Siamese-Neural-Networks-for-One-shot-Image-Recognition
+title: Siamese Neural Networks for One-shot Image Recognition
 categories:
 - siamese network
 - one-shot recgnition

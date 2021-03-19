@@ -4,8 +4,9 @@ author:
   name: Paper ID 63
   difficulty: Medium
 share: true
-title: XLNet:-Generalized-Autoregressive-Pretraining-for-Language-Understanding
+title: XLNet: Generalized Autoregressive Pretraining for Language Understanding
 categories:
+- natural language processing
 - named entity recognition
 tags: []
 

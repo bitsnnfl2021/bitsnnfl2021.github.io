@@ -4,10 +4,10 @@ author:
   name: Paper ID 53
   difficulty: Medium
 share: true
-title: Multi-Level-Factorization-Net-for-person-Re-Identification
+title: Multi-Level Factorization Net for person Re-Identification
 categories:
 - person re-identification
-- cnn
+- convolutional neural networks
 - deep learning
 tags: []
 

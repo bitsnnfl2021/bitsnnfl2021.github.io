@@ -4,11 +4,11 @@ author:
   name: Paper ID 50
   difficulty: Hard
 share: true
-title: Scale-recurrent-Network-for-Deep-Image-Deblurring
+title: Scale-recurrent Network for Deep Image Deblurring
 categories:
 - computer vision
 - image de-blurring
-- rnn
+- recurrent neural networks
 tags: []
 
 ---

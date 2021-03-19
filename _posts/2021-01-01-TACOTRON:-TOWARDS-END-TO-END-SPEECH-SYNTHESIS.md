@@ -4,8 +4,9 @@ author:
   name: Paper ID 61
   difficulty: Hard
 share: true
-title: TACOTRON:-TOWARDS-END-TO-END-SPEECH-SYNTHESIS
+title: TACOTRON: TOWARDS END-TO-END SPEECH SYNTHESIS
 categories:
+- natural language processing
 - text to speech
 tags: []
 

@@ -4,9 +4,9 @@ author:
   name: Paper ID 2
   difficulty: Medium
 share: true
-title: Playing-Atari-with-Deep-Reinforcement-Learning
+title: Playing Atari with Deep Reinforcement Learning
 categories:
-- rl
+- reinforcement learning
 - deep learning
 tags: []
 

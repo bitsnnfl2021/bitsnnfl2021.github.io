@@ -4,10 +4,10 @@ author:
   name: Paper ID 6
   difficulty: Medium
 share: true
-title: Temporal-Segment-Networks
+title: Temporal Segment Networks
 categories:
 - action recognition
-- cv
+- computer vision
 tags: []
 
 ---

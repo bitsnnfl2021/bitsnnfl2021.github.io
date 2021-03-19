@@ -4,7 +4,7 @@ author:
   name: Paper ID 51
   difficulty: Medium
 share: true
-title: DeblurGAN:-Blind-Motion-Deblurring-Using-Conditional-Adversarial-Networks
+title: DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks
 categories:
 - gan
 - computer vision

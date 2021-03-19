@@ -4,9 +4,11 @@ author:
   name: Paper ID 9
   difficulty: Medium
 share: true
-title: One-Shot-Object-Detection-with-Co-Attention-and-Co-Excitation
+title: One-Shot Object Detection with Co-Attention and Co-Excitation
 categories:
-- one-shot object detection
+- object detection
+- one-shot learning
+- computer vision
 tags: []
 
 ---

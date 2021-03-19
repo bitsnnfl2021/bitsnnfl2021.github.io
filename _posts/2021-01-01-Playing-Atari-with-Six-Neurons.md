@@ -4,9 +4,9 @@ author:
   name: Paper ID 1
   difficulty: Hard
 share: true
-title: Playing-Atari-with-Six-Neurons
+title: Playing Atari with Six Neurons
 categories:
-- rl
+- reinforcement learning
 - neuro evolution
 tags: []
 

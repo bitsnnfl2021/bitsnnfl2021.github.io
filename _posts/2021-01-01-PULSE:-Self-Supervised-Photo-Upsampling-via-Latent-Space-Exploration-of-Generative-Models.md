@@ -4,10 +4,11 @@ author:
   name: Paper ID 3
   difficulty: Medium
 share: true
-title: PULSE:-Self-Supervised-Photo-Upsampling-via-Latent-Space-Exploration-of-Generative-Models
+title: PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models
 categories:
+- computer vision
 - image processing
-- gan
+- generative adversarial networks
 tags: []
 
 ---

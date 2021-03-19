@@ -4,9 +4,10 @@ author:
   name: Paper ID 10
   difficulty: Medium
 share: true
-title: DensePose:-Dense-Human-Pose-Estimation-In-The-Wild
+title: DensePose: Dense Human Pose Estimation In The Wild
 categories:
 - pose estimation
+- computer vision
 tags: []
 
 ---

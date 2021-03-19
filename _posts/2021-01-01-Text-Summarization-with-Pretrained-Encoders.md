@@ -4,10 +4,10 @@ author:
   name: Paper ID 49
   difficulty: Medium
 share: true
-title: Text-Summarization-with-Pretrained-Encoders
+title: Text Summarization with Pretrained Encoders
 categories:
-- graph convolution network
-- text classification
+- natural language processing
+- summarization
 tags: []
 
 ---

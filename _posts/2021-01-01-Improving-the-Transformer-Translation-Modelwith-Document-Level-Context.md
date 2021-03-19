@@ -4,11 +4,11 @@ author:
   name: Paper ID 21
   difficulty: hard
 share: true
-title: Improving-the-Transformer-Translation-Modelwith-Document-Level-Context
+title: Improving the Transformer Translation Modelwith Document-Level Context
 categories:
-- machine translation
-- nlp
+- natural language processing
 - transformers
+- machine translation
 tags: []
 
 ---

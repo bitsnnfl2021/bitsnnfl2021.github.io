@@ -4,9 +4,10 @@ author:
   name: Paper ID 12
   difficulty: Hard
 share: true
-title: End-to-End-Object-Detection-with-Transformers.
+title: End-to-End Object Detection with Transformers.
 categories:
 - object detection
+- computer vision
 tags: []
 
 ---

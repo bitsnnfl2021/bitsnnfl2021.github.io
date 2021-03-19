@@ -4,11 +4,10 @@ author:
   name: Paper ID 18
   difficulty: medium
 share: true
-title: Adapt-or-Get-Left-Behind:-Domain-Adaptation-through-BERT-Language-Model-Finetuning-for-Aspect-Target-Sentiment-Classification
+title: Adapt or Get Left Behind: Domain Adaptation through BERT Language Model Finetuning for Aspect-Target Sentiment Classification
 categories:
-- domain adaptation
-- nlp
-- aspect-target sentiment classification
+- natural language processing
+- sentiment analysis
 tags: []
 
 ---

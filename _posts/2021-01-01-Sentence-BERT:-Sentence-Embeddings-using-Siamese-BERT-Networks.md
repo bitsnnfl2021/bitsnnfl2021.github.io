@@ -4,9 +4,10 @@ author:
   name: Paper ID 46
   difficulty: Easy
 share: true
-title: Sentence-BERT:-Sentence-Embeddings-using-Siamese-BERT-Networks
+title: Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks
 categories:
-- nlp
+- natural language processing
+- transformers
 tags: []
 
 ---

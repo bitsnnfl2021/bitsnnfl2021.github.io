@@ -4,10 +4,11 @@ author:
   name: Paper ID 16
   difficulty: Medium
 share: true
-title: One-Shot-Instance-Segmentation
+title: One-Shot Instance Segmentation
 categories:
 - one-short learning
 - segmentation
+- computer vision
 tags: []
 
 ---

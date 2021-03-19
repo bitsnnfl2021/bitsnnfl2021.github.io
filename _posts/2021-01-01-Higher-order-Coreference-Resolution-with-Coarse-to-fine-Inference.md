@@ -4,10 +4,10 @@ author:
   name: Paper ID 22
   difficulty: medium
 share: true
-title: Higher-order-Coreference-Resolution-with-Coarse-to-fine-Inference
+title: Higher-order Coreference Resolution with Coarse-to-fine Inference
 categories:
-- conference resoultion
-- nlp
+- natural language processing
+- coreference resoultion
 tags: []
 
 ---

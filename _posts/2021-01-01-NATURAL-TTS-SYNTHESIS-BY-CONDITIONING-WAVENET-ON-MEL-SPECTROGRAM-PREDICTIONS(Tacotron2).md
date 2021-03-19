@@ -4,8 +4,9 @@ author:
   name: Paper ID 60
   difficulty: Hard
 share: true
-title: NATURAL-TTS-SYNTHESIS-BY-CONDITIONING-WAVENET-ON-MEL-SPECTROGRAM-PREDICTIONS(Tacotron2)
+title: NATURAL TTS SYNTHESIS BY CONDITIONING WAVENET ON MEL SPECTROGRAM PREDICTIONS(Tacotron2)
 categories:
+- natural language processing
 - text to speech
 tags: []
 

@@ -4,9 +4,10 @@ author:
   name: Paper ID 55
   difficulty: Easy
 share: true
-title: MobileNets:-Efficient-Convolutional-Neural-Networks-for-Mobile-Vision-Applications
+title: MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications
 categories:
-- cv (object detection)
+- object detection
+- computer vision
 tags: []
 
 ---

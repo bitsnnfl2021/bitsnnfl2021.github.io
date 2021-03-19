@@ -4,10 +4,11 @@ author:
   name: Paper ID 4
   difficulty: Medium
 share: true
-title: Photo-Realistic-Single-Image-Super-Resolution-Using-a-Generative-Adversarial-Network
+title: Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
 categories:
 - image processing
-- gan
+- generative adversarial networks
+- computer vision
 tags: []
 
 ---

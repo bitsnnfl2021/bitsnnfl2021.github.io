@@ -4,9 +4,10 @@ author:
   name: Paper ID 8
   difficulty: Medium
 share: true
-title: Focal-Loss-for-Dense-Object-Detection
+title: Focal Loss for Dense Object Detection
 categories:
 - object detection
+- computer vision
 tags: []
 
 ---

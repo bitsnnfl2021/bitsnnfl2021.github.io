@@ -32,10 +32,10 @@ with open('NNFL-papers.csv') as f:
     for row in reader:
         title, paper, datasets, abstract, ta, difficulty, tags, _, _ = row
         if title:
-            title = title.rstrip().lstrip().replace(' ', '-')
+            title = title.rstrip().lstrip()
             datasets = datasets.split(',')
             tags = tags.split(',')
             id += 1
-            with open(f'_posts/2021-01-01-{title}.md','w') as pf:
+            with open(f'_posts/2021-01-01-{title.replace(" ", "-")}.md','w') as pf:
                 pf.write(get_post(title, id, difficulty, tags, abstract, paper, datasets))
             #break

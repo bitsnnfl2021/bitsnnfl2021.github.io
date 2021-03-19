@@ -4,9 +4,9 @@ author:
   name: Paper ID 35
   difficulty: Easy
 share: true
-title: Squeeze-and-Excitation-Network
+title: Squeeze and Excitation Network
 categories:
-- cv
+- compter vision
 tags: []
 
 ---

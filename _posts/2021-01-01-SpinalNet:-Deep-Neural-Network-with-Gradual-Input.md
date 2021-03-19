@@ -4,9 +4,10 @@ author:
   name: Paper ID 56
   difficulty: Easy
 share: true
-title: SpinalNet:-Deep-Neural-Network-with-Gradual-Input
+title: SpinalNet: Deep Neural Network with Gradual Input
 categories:
-- cv (image classification)
+- image classification
+- computer vision
 tags: []
 
 ---

@@ -4,9 +4,9 @@ author:
   name: Paper ID 47
   difficulty: Medium
 share: true
-title: Emotion-Cause-Pair-Extraction:-A-New-Task-to-Emotion-Analysis-in-Texts
+title: Emotion-Cause Pair Extraction: A New Task to Emotion Analysis in Texts
 categories:
-- nlp
+- natural language processing
 - attention
 tags: []
 

@@ -4,10 +4,11 @@ author:
   name: Paper ID 5
   difficulty: Medium
 share: true
-title: Encoding-in-Style:-a-StyleGAN-Encoder-for-Image-to-Image-Translation
+title: Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation
 categories:
 - image processing
-- gan
+- generative adversarial networks
+- computer vision
 tags: []
 
 ---

@@ -4,10 +4,10 @@ author:
   name: Paper ID 17
   difficulty: medium
 share: true
-title: Delete,-Retrieve,-Generate:A-Simple-Approach-to-Sentiment-and-Style-Transfer
+title: Delete, Retrieve, Generate:A Simple Approach to Sentiment and Style Transfer
 categories:
-- text style transfer
-- nlp
+- natural language processing
+- style transfer
 tags: []
 
 ---

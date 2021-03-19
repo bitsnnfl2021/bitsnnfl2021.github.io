@@ -4,10 +4,10 @@ author:
   name: Paper ID 48
   difficulty: Medium
 share: true
-title: Exploring-the-Limits-of-Transfer-Learning-with-a-Unified-Text-to-Text-Transformer
+title: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer
 categories:
-- transformer
-- cv
+- natural language processing
+- transfer learning
 tags: []
 
 ---

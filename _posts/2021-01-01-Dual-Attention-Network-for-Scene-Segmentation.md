@@ -4,9 +4,10 @@ author:
   name: Paper ID 15
   difficulty: Medium
 share: true
-title: Dual-Attention-Network-for-Scene-Segmentation
+title: Dual Attention Network for Scene Segmentation
 categories:
-- semantic segmentation
+- segmantation
+- computer vision
 tags: []
 
 ---

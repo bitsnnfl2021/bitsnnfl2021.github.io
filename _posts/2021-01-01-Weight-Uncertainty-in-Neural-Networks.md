@@ -4,7 +4,7 @@ author:
   name: Paper ID 52
   difficulty: Easy
 share: true
-title: Weight-Uncertainty-in-Neural-Networks
+title: Weight Uncertainty in Neural Networks
 categories:
 - reinforcement
 - backpropagation

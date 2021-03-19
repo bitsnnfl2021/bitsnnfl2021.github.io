@@ -4,9 +4,10 @@ author:
   name: Paper ID 13
   difficulty: Easy
 share: true
-title: U-Net:-Convolutional-Networks-for-Biomedical-Image-Segmentation.
+title: U-Net: Convolutional Networks for Biomedical Image Segmentation.
 categories:
-- medical image segmentation
+- image segmentation
+- computer vision
 tags: []
 
 ---

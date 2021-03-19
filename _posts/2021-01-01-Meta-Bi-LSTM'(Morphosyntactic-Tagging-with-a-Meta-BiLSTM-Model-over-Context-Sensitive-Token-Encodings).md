@@ -4,8 +4,9 @@ author:
   name: Paper ID 66
   difficulty: Easy
 share: true
-title: Meta-Bi-LSTM'(Morphosyntactic-Tagging-with-a-Meta-BiLSTM-Model-over-Context-Sensitive-Token-Encodings)
+title: Meta Bi-LSTM'(Morphosyntactic Tagging with a Meta-BiLSTM Model over Context Sensitive Token Encodings)
 categories:
+- natural language processing
 - pos tagging
 tags: []
 

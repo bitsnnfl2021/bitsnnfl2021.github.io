@@ -4,9 +4,10 @@ author:
   name: Paper ID 65
   difficulty: Medium
 share: true
-title: "Quo-Vadis,-Action-Recognition?-A-New-Model-and-the-Kinetics-Dataset"
+title: Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset
 categories:
-- text classification
+- natural language processing
+- named entity recognition
 tags: []
 
 ---

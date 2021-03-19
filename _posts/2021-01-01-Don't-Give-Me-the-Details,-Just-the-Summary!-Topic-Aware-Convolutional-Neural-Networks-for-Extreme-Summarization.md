@@ -4,11 +4,10 @@ author:
   name: Paper ID 20
   difficulty: medium
 share: true
-title: Don't-Give-Me-the-Details,-Just-the-Summary!-Topic-Aware-Convolutional-Neural-Networks-for-Extreme-Summarization
+title: Don't Give Me the Details, Just the Summary! Topic-Aware Convolutional Neural Networks for Extreme Summarization
 categories:
+- natural language processing
 - summarization
-- nlp
-- 
 tags: []
 
 ---

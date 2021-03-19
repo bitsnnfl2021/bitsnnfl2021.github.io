@@ -4,8 +4,9 @@ author:
   name: Paper ID 64
   difficulty: Medium
 share: true
-title: Evaluating-the-Utility-of-Hand-crafted-Features-in-Sequence-Labelling∗
+title: Evaluating the Utility of Hand-crafted Features in Sequence Labelling∗
 categories:
+- natural language processing
 - named entity recognition
 tags: []
 

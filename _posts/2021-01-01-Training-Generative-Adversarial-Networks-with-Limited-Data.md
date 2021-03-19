@@ -4,11 +4,11 @@ author:
   name: Paper ID 59
   difficulty: Medium
 share: true
-title: Training-Generative-Adversarial-Networks-with-Limited-Data
+title: Training Generative Adversarial Networks with Limited Data
 categories:
 - image generation
-- cv
-- gans
+- computer vision
+- generative adversarial networks
 tags: []
 
 ---

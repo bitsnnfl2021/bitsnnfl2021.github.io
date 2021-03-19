@@ -4,11 +4,11 @@ author:
   name: Paper ID 58
   difficulty: Medium
 share: true
-title: ShakeDrop-Regularization-for-Deep-Residual-Learning
+title: ShakeDrop Regularization for Deep Residual Learning
 categories:
 - optimization
-- cnn
-- cv
+- convolutional neural networks
+- computer vision
 tags: []
 
 ---

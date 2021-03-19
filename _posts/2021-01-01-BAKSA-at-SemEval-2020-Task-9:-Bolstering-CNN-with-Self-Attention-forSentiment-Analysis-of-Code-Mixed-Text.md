@@ -4,13 +4,12 @@ author:
   name: Paper ID 19
   difficulty: easy
 share: true
-title: BAKSA-at-SemEval-2020-Task-9:-Bolstering-CNN-with-Self-Attention-forSentiment-Analysis-of-Code-Mixed-Text
+title: BAKSA at SemEval-2020 Task 9: Bolstering CNN with Self-Attention forSentiment Analysis of Code Mixed Text
 categories:
+- natural language processing
 - sentiment analysis
-- code-mixing
 - cnn
-- self-attention
-- nlp
+- attention
 tags: []
 
 ---
