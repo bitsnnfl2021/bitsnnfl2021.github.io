@@ -34,7 +34,7 @@ with open('NNFL-papers.csv') as f:
     for row in reader:
         title, paper, datasets, abstract, ta, difficulty, tags, _, _ = row
         if title:
-            title = title.rstrip().lstrip()
+            title = title.rstrip().lstrip().replace(":","-").replace("\n"," ")
             datasets = datasets.split(',')
             tags = tags.split(',')
             id += 1
