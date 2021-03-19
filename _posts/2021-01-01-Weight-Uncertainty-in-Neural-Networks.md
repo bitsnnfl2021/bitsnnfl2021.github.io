@@ -6,9 +6,9 @@ author:
 share: true
 title: Weight Uncertainty in Neural Networks
 categories:
-- reinforcement
+- reinforcement learning
 - backpropagation
-- bayes
+- bayesian learning
 tags: []
 
 ---
