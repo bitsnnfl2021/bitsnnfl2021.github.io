@@ -30,11 +30,8 @@ entries_layout: list
 * Every member of the group should be knowing the entire implementation, answers of this type "I did coding of part A, I do not know about other parts of the program", "I prepared slides only" would not be acceptable.
 
 #### Evaluative components
-1. **Interaction with TAs** (tentative date: 27 March)  \[ 10M \]
-It will be based upon the questions and doubts you raise, understanding you exhibit and your answers to simple questions posed orally by the TAs. \[10/60 M\]
+1. **Interaction with TAs** (tentative date: 27 March) It will be based upon the questions and doubts you raise, understanding you exhibit and your answers to simple questions posed orally by the TAs.
 
-2. **Code evaluation**  (tentative date: April 9) \[ 20M \]
-the group members will have to make a presentation, and also display their implementation of the papers. The TAs will look into their progress according to the tasks given to the group.
+2. **Code evaluation**  (tentative date: April 9) the group members will have to make a presentation, and also display their implementation of the papers. The TAs will look into their progress according to the tasks given to the group.
 
-3. **Final evaluation** (tentative date: April 18) \[ 30M \]
-Mail your presentation and implementation to Surekha Maam and Bijoy Sir for further evaluation. We will be announcing details regarding the presentation closer to the submission date.
+3. **Final evaluation** (tentative date: April 18) Mail your presentation and implementation to Surekha Maam and Bijoy Sir for further evaluation. We will be announcing details regarding the presentation closer to the submission date.
