@@ -41,3 +41,4 @@ with open('NNFL-papers.csv') as f:
             with open(f'_posts/2021-01-01-{title.replace(" ", "-")}.md','w') as pf:
                 pf.write(get_post(title, id, difficulty, tags, abstract, paper, datasets))
             #break
+    print('total: ',id)
