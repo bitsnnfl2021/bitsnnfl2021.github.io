@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Paper ID 1
+  name: Paper ID 16
   difficulty: Hard
 share: true
 title: Playing Atari with Six Neurons

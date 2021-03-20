@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Paper ID 47
+  name: Paper ID 54
   difficulty: Medium
 share: true
 title: Emotion-Cause Pair Extraction- A New Task to Emotion Analysis in Texts

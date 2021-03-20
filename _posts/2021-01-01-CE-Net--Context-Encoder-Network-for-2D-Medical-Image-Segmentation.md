@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Paper ID 23
+  name: Paper ID 41
   difficulty: Medium
 share: true
 title: CE-Net- Context Encoder Network for 2D Medical Image Segmentation

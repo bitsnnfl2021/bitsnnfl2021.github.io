@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Paper ID 36
+  name: Paper ID 48
   difficulty: Medium
 share: true
 title: Style Transfer Through Back-Translation

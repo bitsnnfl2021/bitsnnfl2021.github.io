@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Paper ID 10
+  name: Paper ID 33
   difficulty: Medium
 share: true
 title: DensePose- Dense Human Pose Estimation In The Wild

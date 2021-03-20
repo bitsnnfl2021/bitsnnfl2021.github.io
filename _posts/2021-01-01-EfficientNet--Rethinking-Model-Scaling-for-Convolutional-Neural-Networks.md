@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Paper ID 45
+  name: Paper ID 9
   difficulty: Easy
 share: true
 title: EfficientNet- Rethinking Model Scaling for Convolutional Neural Networks

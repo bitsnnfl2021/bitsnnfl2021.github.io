@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Paper ID 35
+  name: Paper ID 7
   difficulty: Easy
 share: true
 title: Squeeze and Excitation Network

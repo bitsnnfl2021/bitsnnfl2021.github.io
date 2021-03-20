@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Paper ID 50
+  name: Paper ID 23
   difficulty: Hard
 share: true
 title: Scale-recurrent Network for Deep Image Deblurring

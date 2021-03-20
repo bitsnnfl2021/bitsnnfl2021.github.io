@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Paper ID 59
+  name: Paper ID 61
   difficulty: Medium
 share: true
 title: Training Generative Adversarial Networks with Limited Data

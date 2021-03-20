@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Paper ID 52
+  name: Paper ID 11
   difficulty: Easy
 share: true
 title: Weight Uncertainty in Neural Networks

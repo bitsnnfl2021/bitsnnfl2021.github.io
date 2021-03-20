@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Paper ID 46
+  name: Paper ID 10
   difficulty: Easy
 share: true
 title: Sentence-BERT- Sentence Embeddings using Siamese BERT-Networks

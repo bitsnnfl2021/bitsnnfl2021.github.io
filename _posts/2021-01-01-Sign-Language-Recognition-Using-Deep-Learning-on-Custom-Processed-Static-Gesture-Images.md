@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Paper ID 31
+  name: Paper ID 6
   difficulty: Easy
 share: true
 title: Sign Language Recognition Using Deep Learning on Custom Processed Static Gesture Images

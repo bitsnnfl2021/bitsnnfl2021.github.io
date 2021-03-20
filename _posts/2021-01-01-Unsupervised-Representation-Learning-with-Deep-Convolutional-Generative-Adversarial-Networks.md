@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Paper ID 28
+  name: Paper ID 43
   difficulty: Medium
 share: true
 title: Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks

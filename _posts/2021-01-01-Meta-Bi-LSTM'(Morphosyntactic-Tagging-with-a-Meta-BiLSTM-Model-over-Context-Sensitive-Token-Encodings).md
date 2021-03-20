@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Paper ID 66
+  name: Paper ID 15
   difficulty: Easy
 share: true
 title: Meta Bi-LSTM'(Morphosyntactic Tagging with a Meta-BiLSTM Model over Context Sensitive Token Encodings)

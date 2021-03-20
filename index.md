@@ -9,7 +9,7 @@ entries_layout: list
 ---
 ## NNFL Research Paper Assignment
 
-* There are a list of 66 papers updated on this website
+* There are a list of 68 papers updated on this website
 * You can search for papers, or view them by category, based on the tags assigned to each paper
 * Each paper has an ID and a difficulty level mentioned with it
 * You need to form of groups of **3** people for this assignment

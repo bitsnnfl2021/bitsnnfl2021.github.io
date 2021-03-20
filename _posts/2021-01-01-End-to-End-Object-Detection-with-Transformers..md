@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Paper ID 12
+  name: Paper ID 18
   difficulty: Hard
 share: true
 title: End-to-End Object Detection with Transformers.

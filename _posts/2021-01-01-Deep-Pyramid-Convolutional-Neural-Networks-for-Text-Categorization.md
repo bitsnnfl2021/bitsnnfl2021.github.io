@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Paper ID 39
+  name: Paper ID 50
   difficulty: Medium
 share: true
 title: Deep Pyramid Convolutional Neural Networks for Text Categorization

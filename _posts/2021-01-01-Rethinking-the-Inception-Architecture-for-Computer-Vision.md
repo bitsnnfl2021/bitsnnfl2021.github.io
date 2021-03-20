@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Paper ID 29
+  name: Paper ID 5
   difficulty: Easy
 share: true
 title: Rethinking the Inception Architecture for Computer Vision

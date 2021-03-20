@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Paper ID 3
+  name: Paper ID 27
   difficulty: Medium
 share: true
 title: PULSE- Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models

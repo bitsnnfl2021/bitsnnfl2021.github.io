@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Paper ID 42
+  name: Paper ID 53
   difficulty: Medium
 share: true
 title: DeepCluster Unsupervised learning of visual features

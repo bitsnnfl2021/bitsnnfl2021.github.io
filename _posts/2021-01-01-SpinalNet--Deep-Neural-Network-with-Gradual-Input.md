@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Paper ID 56
+  name: Paper ID 13
   difficulty: Easy
 share: true
 title: SpinalNet- Deep Neural Network with Gradual Input
