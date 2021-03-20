@@ -10,7 +10,7 @@ def get_post(title, id, difficulty, tags, abstract, paper, datasets):
 layout: post
 author:
   name: Paper ID {id}
-  difficulty: {difficulty}
+  difficulty: Difficulty - {difficulty}
 share: true
 title: {title}
 categories:
