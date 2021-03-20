@@ -2,7 +2,7 @@
 layout: post
 author:
   name: Paper ID 2
-  difficulty: easy
+  difficulty: Difficulty - easy
 share: true
 title: BAKSA at SemEval-2020 Task 9- Bolstering CNN with Self-Attention forSentiment Analysis of Code Mixed Text
 categories:

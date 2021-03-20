@@ -2,7 +2,7 @@
 layout: post
 author:
   name: Paper ID 55
-  difficulty: Medium
+  difficulty: Difficulty - Medium
 share: true
 title: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer
 categories:

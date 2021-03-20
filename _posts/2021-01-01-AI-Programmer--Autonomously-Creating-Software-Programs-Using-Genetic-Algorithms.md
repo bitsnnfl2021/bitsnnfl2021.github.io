@@ -2,7 +2,7 @@
 layout: post
 author:
   name: Paper ID 66
-  difficulty: Easy
+  difficulty: Difficulty - Easy
 share: true
 title: AI Programmer- Autonomously Creating Software Programs Using Genetic Algorithms
 categories:

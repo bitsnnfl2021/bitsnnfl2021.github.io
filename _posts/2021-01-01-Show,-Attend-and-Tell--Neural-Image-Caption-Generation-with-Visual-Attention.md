@@ -2,7 +2,7 @@
 layout: post
 author:
   name: Paper ID 4
-  difficulty: Easy
+  difficulty: Difficulty - Easy
 share: true
 title: Show, Attend and Tell- Neural Image Caption Generation with Visual Attention
 categories:

@@ -2,7 +2,7 @@
 layout: post
 author:
   name: Paper ID 49
-  difficulty: Medium
+  difficulty: Difficulty - Medium
 share: true
 title: Neural Machine Translation by Jointly Learning to Align and Translate
 categories:

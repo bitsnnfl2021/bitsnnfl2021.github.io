@@ -2,7 +2,7 @@
 layout: post
 author:
   name: Paper ID 36
-  difficulty: Medium
+  difficulty: Difficulty - Medium
 share: true
 title: One-Shot Instance Segmentation
 categories:

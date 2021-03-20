@@ -2,7 +2,7 @@
 layout: post
 author:
   name: Paper ID 68
-  difficulty: Medium
+  difficulty: Difficulty - Medium
 share: true
 title: On the Variance of the Adaptive Learning Rate and Beyond
 categories:

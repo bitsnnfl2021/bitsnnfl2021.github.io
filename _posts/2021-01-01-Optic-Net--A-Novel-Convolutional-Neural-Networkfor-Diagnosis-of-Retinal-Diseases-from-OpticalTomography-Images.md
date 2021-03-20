@@ -2,7 +2,7 @@
 layout: post
 author:
   name: Paper ID 46
-  difficulty: Medium
+  difficulty: Difficulty - Medium
 share: true
 title: Optic-Net- A Novel Convolutional Neural Networkfor Diagnosis of Retinal Diseases from OpticalTomography Images
 categories:

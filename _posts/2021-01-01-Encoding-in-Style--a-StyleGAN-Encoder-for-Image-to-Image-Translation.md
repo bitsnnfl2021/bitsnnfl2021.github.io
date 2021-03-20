@@ -2,7 +2,7 @@
 layout: post
 author:
   name: Paper ID 29
-  difficulty: Medium
+  difficulty: Difficulty - Medium
 share: true
 title: Encoding in Style- a StyleGAN Encoder for Image-to-Image Translation
 categories:

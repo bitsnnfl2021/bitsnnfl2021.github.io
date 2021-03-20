@@ -2,7 +2,7 @@
 layout: post
 author:
   name: Paper ID 67
-  difficulty: Medium
+  difficulty: Difficulty - Medium
 share: true
 title: A PID Controller Approach for Stochastic Optimization of Deep Networks
 categories:

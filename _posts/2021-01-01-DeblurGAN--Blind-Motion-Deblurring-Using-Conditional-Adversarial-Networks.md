@@ -2,7 +2,7 @@
 layout: post
 author:
   name: Paper ID 57
-  difficulty: Medium
+  difficulty: Difficulty - Medium
 share: true
 title: DeblurGAN- Blind Motion Deblurring Using Conditional Adversarial Networks
 categories:

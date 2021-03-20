@@ -2,7 +2,7 @@
 layout: post
 author:
   name: Paper ID 39
-  difficulty: medium
+  difficulty: Difficulty - medium
 share: true
 title: Don't Give Me the Details, Just the Summary! Topic-Aware Convolutional Neural Networks for Extreme Summarization
 categories:

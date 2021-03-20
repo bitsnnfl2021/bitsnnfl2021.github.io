@@ -2,7 +2,7 @@
 layout: post
 author:
   name: Paper ID 19
-  difficulty: hard
+  difficulty: Difficulty - hard
 share: true
 title: Improving the Transformer Translation Modelwith Document-Level Context
 categories:

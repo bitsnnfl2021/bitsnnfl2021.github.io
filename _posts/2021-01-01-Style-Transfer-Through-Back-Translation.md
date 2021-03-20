@@ -2,7 +2,7 @@
 layout: post
 author:
   name: Paper ID 48
-  difficulty: Medium
+  difficulty: Difficulty - Medium
 share: true
 title: Style Transfer Through Back-Translation
 categories:

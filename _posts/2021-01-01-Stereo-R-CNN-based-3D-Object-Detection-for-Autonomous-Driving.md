@@ -2,7 +2,7 @@
 layout: post
 author:
   name: Paper ID 20
-  difficulty: Hard
+  difficulty: Difficulty - Hard
 share: true
 title: Stereo R-CNN based 3D Object Detection for Autonomous Driving
 categories:

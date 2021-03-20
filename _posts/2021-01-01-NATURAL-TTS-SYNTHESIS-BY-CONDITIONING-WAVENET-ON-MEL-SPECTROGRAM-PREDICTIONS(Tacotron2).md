@@ -2,7 +2,7 @@
 layout: post
 author:
   name: Paper ID 24
-  difficulty: Hard
+  difficulty: Difficulty - Hard
 share: true
 title: NATURAL TTS SYNTHESIS BY CONDITIONING WAVENET ON MEL SPECTROGRAM PREDICTIONS(Tacotron2)
 categories:

@@ -2,7 +2,7 @@
 layout: post
 author:
   name: Paper ID 8
-  difficulty: Easy
+  difficulty: Difficulty - Easy
 share: true
 title: Unsupervised representation learning by predicting image rotations
 categories:

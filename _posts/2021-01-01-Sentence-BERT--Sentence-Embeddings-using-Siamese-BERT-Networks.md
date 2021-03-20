@@ -2,7 +2,7 @@
 layout: post
 author:
   name: Paper ID 10
-  difficulty: Easy
+  difficulty: Difficulty - Easy
 share: true
 title: Sentence-BERT- Sentence Embeddings using Siamese BERT-Networks
 categories:

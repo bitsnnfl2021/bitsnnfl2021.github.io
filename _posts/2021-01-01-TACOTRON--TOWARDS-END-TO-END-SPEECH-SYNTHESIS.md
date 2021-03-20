@@ -2,7 +2,7 @@
 layout: post
 author:
   name: Paper ID 25
-  difficulty: Hard
+  difficulty: Difficulty - Hard
 share: true
 title: TACOTRON- TOWARDS END-TO-END SPEECH SYNTHESIS
 categories:

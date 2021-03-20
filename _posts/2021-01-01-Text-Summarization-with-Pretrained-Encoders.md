@@ -2,7 +2,7 @@
 layout: post
 author:
   name: Paper ID 56
-  difficulty: Medium
+  difficulty: Difficulty - Medium
 share: true
 title: Text Summarization with Pretrained Encoders
 categories:

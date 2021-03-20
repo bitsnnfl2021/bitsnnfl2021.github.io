@@ -2,7 +2,7 @@
 layout: post
 author:
   name: Paper ID 14
-  difficulty: Easy
+  difficulty: Difficulty - Easy
 share: true
 title: U-Net- Convolutional Networks for Biomedical Image Segmentation
 categories:

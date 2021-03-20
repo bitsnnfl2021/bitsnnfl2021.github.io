@@ -2,7 +2,7 @@
 layout: post
 author:
   name: Paper ID 52
-  difficulty: Medium
+  difficulty: Difficulty - Medium
 share: true
 title: TransGAN- Two Transformers Can Make One Strong GAN
 categories:

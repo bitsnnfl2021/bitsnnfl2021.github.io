@@ -2,7 +2,7 @@
 layout: post
 author:
   name: Paper ID 59
-  difficulty: Medium
+  difficulty: Difficulty - Medium
 share: true
 title: Siamese Neural Networks for One-shot Image Recognition
 categories:

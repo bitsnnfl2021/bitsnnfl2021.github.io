@@ -2,7 +2,7 @@
 layout: post
 author:
   name: Paper ID 45
-  difficulty: Medium
+  difficulty: Difficulty - Medium
 share: true
 title: You Only Look Once-Unified, Real-Time Object Detection
 categories:
