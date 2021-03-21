@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Paper ID 26
+  name: Paper ID 41
   difficulty: Difficulty - Medium
 share: true
 title: Playing Atari with Deep Reinforcement Learning

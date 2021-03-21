@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Paper ID 58
+  name: Paper ID 33
   difficulty: Difficulty - Medium
 share: true
 title: Multi-Level Factorization Net for person Re-Identification

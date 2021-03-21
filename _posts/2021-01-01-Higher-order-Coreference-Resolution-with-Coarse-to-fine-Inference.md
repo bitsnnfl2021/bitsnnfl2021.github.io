@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Paper ID 40
+  name: Paper ID 29
   difficulty: Difficulty - medium
 share: true
 title: Higher-order Coreference Resolution with Coarse-to-fine Inference

@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Paper ID 32
+  name: Paper ID 37
   difficulty: Difficulty - Medium
 share: true
 title: One-Shot Object Detection with Co-Attention and Co-Excitation

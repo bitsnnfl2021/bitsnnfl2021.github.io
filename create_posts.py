@@ -28,17 +28,17 @@ tags: []
     '''
 
 with open('NNFL-papers.csv') as f:
-    reader = csv.reader(f)
-    next(reader)
-    id = 0
-    for row in reader:
-        title, paper, datasets, abstract, ta, difficulty, tags, _, _ = row
-        if title:
-            title = title.rstrip().lstrip().replace(":","-").replace("\n"," ")
-            datasets = datasets.split(',')
-            tags = tags.split(',')
-            id += 1
-            with open(f'_posts/2021-01-01-{title.replace(" ", "-")}.md','w') as pf:
-                pf.write(get_post(title, id, difficulty, tags, abstract, paper, datasets))
-            #break
-    print('total: ',id)
+    data = list(csv.reader(f))
+
+id = 0
+for row in sorted(data[1:]):
+    title, paper, datasets, abstract, ta, difficulty, tags, _, _ = row
+    if title:
+        title = title.rstrip().lstrip().replace(":","-").replace("\n"," ")
+        datasets = datasets.split(',')
+        tags = tags.split(',')
+        id += 1
+        with open(f'_posts/2021-01-01-{title.replace(" ", "-")}.md','w') as pf:
+            pf.write(get_post(title, id, difficulty, tags, abstract, paper, datasets))
+        #break
+print('total: ',id)

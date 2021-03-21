@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Paper ID 37
+  name: Paper ID 15
   difficulty: Difficulty - medium
 share: true
 title: Delete, Retrieve, Generate-A Simple Approach to Sentiment and Style Transfer

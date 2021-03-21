@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Paper ID 21
+  name: Paper ID 4
   difficulty: Difficulty - Hard
 share: true
 title: A Deeper Look into Sarcastic Tweets Using Deep Convolutional Neural Networks

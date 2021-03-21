@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Paper ID 30
+  name: Paper ID 57
   difficulty: Difficulty - Medium
 share: true
 title: Temporal Segment Networks

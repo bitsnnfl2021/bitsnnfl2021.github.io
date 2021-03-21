@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Paper ID 20
+  name: Paper ID 54
   difficulty: Difficulty - Hard
 share: true
 title: Stereo R-CNN based 3D Object Detection for Autonomous Driving
@@ -13,8 +13,23 @@ categories:
 tags: []
 
 ---
-**Abstract** - We propose a 3D object detection method for autonomous driving by fully exploiting the sparse and dense, semantic and geometry information in stereo imagery. Our method, called Stereo R-CNN, extends Faster R-CNN for stereo inputs to simultaneously detect and associate object in left and right images. We add extra branches after stereo Region Proposal Network (RPN) to predict sparse keypoints, viewpoints, and object dimensions, which are combined with 2D left-right boxes to calculate a coarse1 3D object bounding box. We then recover the accurate 3D bounding box by a region-based photometric alignment using left and right RoIs. Our method does not require depth input and 3D position supervision, however, outperforms all existing fully supervised image-based methods. Experiments on the challenging KITTI dataset show that our method outperforms the state-of-the-art stereobased method by around 30% AP on both 3D detection and 3D localization tasks.
+**Abstract** - We present a novel dataset captured from a VW
+station wagon for use in mobile robotics and autonomous driving
+research. In total, we recorded 6 hours of traffic scenarios at
+10-100 Hz using a variety of sensor modalities such as high-
+resolution color and grayscale stereo cameras, a Velodyne 3D
+laser scanner and a high-precision GPS/IMU inertial navigation
+system. The scenarios are diverse, capturing real-world traffic
+situations and range from freeways over rural areas to inner-
+city scenes with many static and dynamic objects. Our data is
+calibrated, synchronized and timestamped, and we provide the
+rectified and raw image sequences. Our dataset also contains
+object labels in the form of 3D tracklets and we provide online
+benchmarks for stereo, optical flow, object detection and other
+tasks. This paper describes our recording platform, the data
+format and the utilities that we provide.
 
 **Paper** - [https://arxiv.org/pdf/1902.09738.pdf](https://arxiv.org/pdf/1902.09738.pdf)
 
 **Dataset -** [http://www.cvlibs.net/datasets/kitti.](http://www.cvlibs.net/datasets/kitti.)
+    

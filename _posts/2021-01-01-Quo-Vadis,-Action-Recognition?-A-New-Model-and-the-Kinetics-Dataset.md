@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Paper ID 65
+  name: Paper ID 43
   difficulty: Difficulty - Medium
 share: true
 title: Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset

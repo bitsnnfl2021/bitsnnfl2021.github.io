@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Paper ID 60
+  name: Paper ID 3
   difficulty: Difficulty - Medium
 share: true
 title: ShakeDrop Regularization for Deep Residual Learning

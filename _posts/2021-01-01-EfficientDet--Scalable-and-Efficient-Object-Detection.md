@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Paper ID 44
+  name: Paper ID 20
   difficulty: Difficulty - Medium
 share: true
 title: EfficientDet- Scalable and Efficient Object Detection

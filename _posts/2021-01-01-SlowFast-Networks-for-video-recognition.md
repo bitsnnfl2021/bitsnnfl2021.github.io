@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Paper ID 22
+  name: Paper ID 50
   difficulty: Difficulty - Hard
 share: true
 title: SlowFast Networks for video recognition

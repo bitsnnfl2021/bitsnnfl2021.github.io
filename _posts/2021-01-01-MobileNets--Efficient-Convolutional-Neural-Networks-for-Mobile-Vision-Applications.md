@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Paper ID 12
+  name: Paper ID 32
   difficulty: Difficulty - Easy
 share: true
 title: MobileNets- Efficient Convolutional Neural Networks for Mobile Vision Applications

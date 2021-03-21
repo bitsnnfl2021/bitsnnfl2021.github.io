@@ -1,13 +1,13 @@
 ---
 layout: post
 author:
-  name: Paper ID 9
+  name: Paper ID 21
   difficulty: Difficulty - Easy
 share: true
 title: EfficientNet- Rethinking Model Scaling for Convolutional Neural Networks
 categories:
 - Meta Learning
-- CNNs
+- Convolutional Neural Networks
 - easy
 
 tags: []

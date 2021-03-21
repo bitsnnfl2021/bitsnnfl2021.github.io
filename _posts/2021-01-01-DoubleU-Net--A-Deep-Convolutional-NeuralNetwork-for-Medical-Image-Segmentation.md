@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Paper ID 47
+  name: Paper ID 18
   difficulty: Difficulty - Medium
 share: true
 title: DoubleU-Net- A Deep Convolutional NeuralNetwork for Medical Image Segmentation

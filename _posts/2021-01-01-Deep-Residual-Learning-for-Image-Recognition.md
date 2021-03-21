@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Paper ID 3
+  name: Paper ID 13
   difficulty: Difficulty - Easy
 share: true
 title: Deep Residual Learning for Image Recognition

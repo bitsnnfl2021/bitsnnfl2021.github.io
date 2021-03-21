@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Paper ID 28
+  name: Paper ID 40
   difficulty: Difficulty - Medium
 share: true
 title: Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network

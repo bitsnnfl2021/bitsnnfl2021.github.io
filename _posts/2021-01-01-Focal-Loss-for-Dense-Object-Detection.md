@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Paper ID 31
+  name: Paper ID 27
   difficulty: Difficulty - Medium
 share: true
 title: Focal Loss for Dense Object Detection

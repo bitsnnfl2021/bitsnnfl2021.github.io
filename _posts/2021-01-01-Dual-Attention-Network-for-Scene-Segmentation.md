@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Paper ID 35
+  name: Paper ID 19
   difficulty: Difficulty - Medium
 share: true
 title: Dual Attention Network for Scene Segmentation

@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Paper ID 63
+  name: Paper ID 66
   difficulty: Difficulty - Medium
 share: true
 title: XLNet- Generalized Autoregressive Pretraining for Language Understanding

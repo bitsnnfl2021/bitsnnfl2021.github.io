@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Paper ID 51
+  name: Paper ID 8
   difficulty: Difficulty - Medium
 share: true
 title: Attention Is All You Need

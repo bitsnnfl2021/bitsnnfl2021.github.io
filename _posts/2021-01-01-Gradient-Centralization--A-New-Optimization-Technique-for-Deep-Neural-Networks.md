@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Paper ID 42
+  name: Paper ID 28
   difficulty: Difficulty - Medium
 share: true
 title: Gradient Centralization- A New Optimization Technique for Deep Neural Networks

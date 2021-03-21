@@ -1,7 +1,7 @@
 ---
 layout: post
 author:
-  name: Paper ID 64
+  name: Paper ID 25
   difficulty: Difficulty - Medium
 share: true
 title: Evaluating the Utility of Hand-crafted Features in Sequence Labelling∗
