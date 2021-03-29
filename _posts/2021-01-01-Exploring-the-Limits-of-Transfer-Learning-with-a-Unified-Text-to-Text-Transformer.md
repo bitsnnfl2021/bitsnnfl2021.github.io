@@ -2,13 +2,13 @@
 layout: post
 author:
   name: Paper ID 1
-  difficulty: Difficulty - Medium
+  difficulty: Difficulty - Hard
 share: true
 title: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer
 categories:
 - Natural Language Processing
 - Transfer Learning
-- medium
+- hard
 
 tags: []
 
@@ -18,4 +18,3 @@ tags: []
 **Paper** - [https://arxiv.org/abs/1910.10683v3](https://arxiv.org/abs/1910.10683v3)
 
 **Dataset -** [https://www.tensorflow.org/datasets/catalog/c4](https://www.tensorflow.org/datasets/catalog/c4)
-    
